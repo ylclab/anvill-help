@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Helpful Handouts | ANVILL Help</title><meta name="description" content="A curated library of our most ANVILL useful handouts "><meta property="og:title" content="Helpful Handouts"><meta property="og:type" content="website"><meta property="og:description" content="A curated library of our most ANVILL useful handouts "><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/helpfulhandouts"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="helpfulhandouts" title="Helpful Handouts" description="A curated library of our most ANVILL useful handouts " :tags="[{&quot;tag&quot;:&quot;handouts&quot;,&quot;title&quot;:&quot;handouts&quot;},{&quot;tag&quot;:&quot;useful information&quot;,&quot;title&quot;:&quot;useful information&quot;},{&quot;tag&quot;:&quot;printables&quot;,&quot;title&quot;:&quot;printables&quot;}]" created-at="2020-05-21T00:56:29.349Z" updated-at="2020-10-06T03:47:34.672Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJDb250ZW50cyIsImFuY2hvciI6IiNjb250ZW50cyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjEuIE92ZXJ2aWV3IiwiYW5jaG9yIjoiI2gtMS1vdmVydmlldyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjIuIEluc3RydWN0b3IgSGFuZG91dHMiLCJhbmNob3IiOiIjaC0yLWluc3RydWN0b3ItaGFuZG91dHMiLCJjaGlsZHJlbiI6W3sidGl0bGUiOiIyLjEgSG93IHRvIFVzZSBWb2ljZWJvYXJkIChJbnN0cnVjdG9ycykiLCJhbmNob3IiOiIjaC0yMS1ob3ctdG8tdXNlLXZvaWNlYm9hcmQtaW5zdHJ1Y3RvcnMiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIyLjIgR2V0dGluZyBTdGFydGVkIFdpdGggQU5WSUxMIGluIENhbnZhcyAoSW5zdHJ1Y3RvcnMpIiwiYW5jaG9yIjoiI2gtMjItZ2V0dGluZy1zdGFydGVkLXdpdGgtYW52aWxsLWluLWNhbnZhcy1pbnN0cnVjdG9ycyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjIuMyBSZWNvcmQgQXVkaW8gb3IgVmlkZW8gSW4gQU5WSUxMIiwiYW5jaG9yIjoiI2gtMjMtcmVjb3JkLWF1ZGlvLW9yLXZpZGVvLWluLWFudmlsbCIsImNoaWxkcmVuIjpbXX1dfSx7InRpdGxlIjoiMy4gU3R1ZGVudCBIYW5kb3V0cyIsImFuY2hvciI6IiNoLTMtc3R1ZGVudC1oYW5kb3V0cyIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IjMuMSBIb3cgdG8gVXNlIFZvaWNlYm9hcmQgKFN0dWRlbnRzKSIsImFuY2hvciI6IiNoLTMxLWhvdy10by11c2Utdm9pY2Vib2FyZC1zdHVkZW50cyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjMuMiIsImFuY2hvciI6IiNoLTMyIiwiY2hpbGRyZW4iOltdfV19XQ==" :page-id="30" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/helpfulhandouts.md"><template slot="contents"><div><h1 id="contents" class="toc-header"><a class="toc-anchor" href="helpfulhandouts#contents">¶</a> <big>Contents</big></h1><big>
+<p><big>1.</big> <a href="helpfulhandouts#h-1-overview" class="is-internal-link is-valid-page">Overview</a></p>
+<p><big>2. <a href="helpfulhandouts#h-2-instructor-handouts" class="is-internal-link is-valid-page"><strong>Instructors</strong></a></big></p>
+<ul>
+<li>
+<p>2.1 <a href="helpfulhandouts#h-21-how-to-use-voiceboard-instructors" class="is-internal-link is-valid-page">How to Use Voiceboard (Instructors)</a></p>
+</li>
+<li>
+<p>2.2 <a href="helpfulhandouts#h-22-getting-started-with-anvill-in-canvas-instructors" class="is-internal-link is-valid-page">Getting Started with ANVILL in Canvas (Instructors)</a></p>
+</li>
+<li>
+<p>2.3 <a href="helpfulhandouts#h-23-record-audio-or-video-in-anvill" class="is-internal-link is-valid-page">Record Audio or Video in ANVILL</a></p>
+</li>
+<li>
+<p>2.4 <a href="helpfulhandouts#h-3-instructors-andor-students" class="is-internal-link is-valid-page">Create ANVILL Account</a></p>
+</li>
+</ul>
+<p><big>3. <a href="helpfulhandouts#h-3-student-handouts" class="is-internal-link is-valid-page"><strong>Students</strong></a></big></p>
+<ul>
+<li>3.1 <a href="helpfulhandouts#h-31-how-to-use-voiceboard-students" class="is-internal-link is-valid-page">How to Use Voiceboard (Students)</a></li>
+<li>3.2 <a href="helpfulhandouts#h-3-instructors-andor-students" class="is-internal-link is-valid-page">Create ANVILL Account</a></li>
+</ul>
+<h1 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="helpfulhandouts#h-1-overview">¶</a> 1. Overview</h1>
+<p>This page is full of downladable &amp; free printable quick &quot;How To&quot; guides. The information targets the most common uses, needs, and issues of ANVILL users.</p>
+<h1 id="h-2-instructor-handouts" class="toc-header"><a class="toc-anchor" href="helpfulhandouts#h-2-instructor-handouts">¶</a> 2. Instructor Handouts</h1>
+<h2 id="h-21-how-to-use-voiceboard-instructors" class="toc-header"><a class="toc-anchor" href="helpfulhandouts#h-21-how-to-use-voiceboard-instructors">¶</a> 2.1 How to Use Voiceboard (Instructors)</h2>
+<p>Open a <a href="../anvill-student_instructions_voiceboard.pdf" class="is-asset-link">Downloadable PDF version</a>of this document in your web browser.</p>
+<p><img src="../anvill-instructions-voiceboard.jpg" alt="anvill-instructions-voiceboard.jpg"></p>
+<h2 id="h-22-getting-started-with-anvill-in-canvas-instructors" class="toc-header"><a class="toc-anchor" href="helpfulhandouts#h-22-getting-started-with-anvill-in-canvas-instructors">¶</a> 2.2 Getting Started With ANVILL in Canvas (Instructors)</h2>
+<p>Open a <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:09fc063a-c2db-4805-9947-500a9e89aaeb" class="is-external-link">Downloadable PDF version</a> of this document in your web browser.</p>
+<p><img src="../jpganvill-canvas-teacher-instructions.v4_uo_workshop.jpg" alt="jpganvill-canvas-teacher-instructions.v4_uo_workshop.jpg"></p>
+<h2 id="h-23-record-audio-or-video-in-anvill" class="toc-header"><a class="toc-anchor" href="helpfulhandouts#h-23-record-audio-or-video-in-anvill">¶</a> 2.3 Record Audio or Video In ANVILL</h2>
+<p>Open a <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:ac55c21c-c79b-4fe2-b64f-31528b26f317" class="is-external-link">Downloadable PDF version</a>  of this document in your web browser.<br>
+ <br>
+<img src="../record_audio_or_video_in_anvill_(how_to)_series_(pdf2).jpg" alt="record_audio_or_video_in_anvill_(how_to)_series_(pdf2).jpg"></p>
+<h1 id="h-3-student-handouts" class="toc-header"><a class="toc-anchor" href="helpfulhandouts#h-3-student-handouts">¶</a> 3. Student Handouts</h1>
+<h2 id="h-31-how-to-use-voiceboard-students" class="toc-header"><a class="toc-anchor" href="helpfulhandouts#h-31-how-to-use-voiceboard-students">¶</a> 3.1 How to Use Voiceboard (Students)</h2>
+<p>Open a <a href="../anvill-student_instructions_voiceboard.pdf" class="is-asset-link">Downloadable PDF version</a> of this document in your web browser.<br>
+ </p>
+<p><img src="../anvill-student-instructions-nonuo-standalone-voiceboard_jpg.jpg" alt="anvill-student-instructions-nonuo-standalone-voiceboard_jpg.jpg" height="1200"></p>
+<h2 id="h-32" class="toc-header"><a class="toc-anchor" href="helpfulhandouts#h-32">¶</a> 3.2</h2>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

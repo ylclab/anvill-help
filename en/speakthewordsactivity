@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Speak the Words  | ANVILL Help</title><meta name="description" content="Learn what a Speak the Words activity is and how to create one."><meta property="og:title" content="Speak the Words "><meta property="og:type" content="website"><meta property="og:description" content="Learn what a Speak the Words activity is and how to create one."><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/speakthewordsactivity"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="speakthewordsactivity" title="Speak the Words " description="Learn what a Speak the Words activity is and how to create one." :tags="[{&quot;tag&quot;:&quot;speaking practice&quot;,&quot;title&quot;:&quot;speaking practice&quot;},{&quot;tag&quot;:&quot;speech&quot;,&quot;title&quot;:&quot;speech&quot;},{&quot;tag&quot;:&quot;speak the words&quot;,&quot;title&quot;:&quot;speak the words&quot;},{&quot;tag&quot;:&quot;pronunciation&quot;,&quot;title&quot;:&quot;pronunciation&quot;},{&quot;tag&quot;:&quot;speaking skills&quot;,&quot;title&quot;:&quot;speaking skills&quot;},{&quot;tag&quot;:&quot;practice phrases&quot;,&quot;title&quot;:&quot;practice phrases&quot;},{&quot;tag&quot;:&quot;practice words&quot;,&quot;title&quot;:&quot;practice words&quot;},{&quot;tag&quot;:&quot;practicing phrases&quot;,&quot;title&quot;:&quot;practicing phrases&quot;},{&quot;tag&quot;:&quot;practicing words&quot;,&quot;title&quot;:&quot;practicing words&quot;},{&quot;tag&quot;:&quot;practicing out loud&quot;,&quot;title&quot;:&quot;practicing out loud&quot;},{&quot;tag&quot;:&quot;speech recognition software&quot;,&quot;title&quot;:&quot;speech recognition software&quot;},{&quot;tag&quot;:&quot;speech recognition&quot;,&quot;title&quot;:&quot;speech recognition&quot;},{&quot;tag&quot;:&quot;speech recognition technology&quot;,&quot;title&quot;:&quot;speech recognition technology&quot;}]" created-at="2020-08-10T02:58:48.400Z" updated-at="2020-10-01T03:27:09.475Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJTcGVhayB0aGUgV29yZHM6IE92ZXJ2aWV3IiwiYW5jaG9yIjoiI3NwZWFrLXRoZS13b3Jkcy1vdmVydmlldyIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IkltcG9ydGFudCBOb3RlOiIsImFuY2hvciI6IiNpbXBvcnRhbnQtbm90ZSIsImNoaWxkcmVuIjpbXX1dfSx7InRpdGxlIjoiMS4gQWRkIGEgXCJTcGVhayB0aGUgV29yZHNcIiBBY3Rpdml0eSB0byBZb3VyIExlc3NvbiIsImFuY2hvciI6IiNoLTEtYWRkLWEtc3BlYWstdGhlLXdvcmRzLWFjdGl2aXR5LXRvLXlvdXItbGVzc29uIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiMi4gQ3JlYXRlIFwiU3BlYWsgVGhlIFdvcmRzXCIgQ29udGVudCIsImFuY2hvciI6IiNoLTItY3JlYXRlLXNwZWFrLXRoZS13b3Jkcy1jb250ZW50IiwiY2hpbGRyZW4iOlt7InRpdGxlIjoiXCJTcGVhayB0aGUgV29yZHNcIiAoU2luZ2xlIFF1ZXN0aW9uIG9yIFByb21wdCkiLCJhbmNob3IiOiIjc3BlYWstdGhlLXdvcmRzLXNpbmdsZS1xdWVzdGlvbi1vci1wcm9tcHQiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJcIlNwZWFrIHRoZSBXb3JkcyBTZXRcIiAoTXVsdGlwbGUgUXVlc3Rpb25zIG9yIFByb21wdHMpIiwiYW5jaG9yIjoiI3NwZWFrLXRoZS13b3Jkcy1zZXQtbXVsdGlwbGUtcXVlc3Rpb25zLW9yLXByb21wdHMiLCJjaGlsZHJlbiI6W119XX1d" :page-id="52" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/speakthewordsactivity.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="speak-the-words-overview" class="toc-header"><a class="toc-anchor" href="speakthewordsactivity#speak-the-words-overview">¶</a> Speak the Words: Overview</h1>
+<p>When you create Speak the Words activities, you create opportunities for students to practice pronouncing words or phrases. Speak the Words activities utilize Speech Recognition software to achieve this. You can create questions or prompts the student responds to verbally and receives immediate feedback on for its accuracy.</p>
+<p>You can create a single &quot;Speak the Words&quot; question in a lesson, or a series of questions by adding a &quot;Speak the Words Set&quot; instead.</p>
+<p><a href="https://h5p.org/speak-the-words-set" class="is-external-link">Open this link to see an example of a Speak the Words Set</a>. The linked example takes you to the H5P website, where &quot;Speak the Words&quot; was created.</p>
+<h2 id="important-note" class="toc-header"><a class="toc-anchor" href="speakthewordsactivity#important-note">¶</a> Important Note:</h2>
+<p>(Please excuse the ALL CAPS below, but this is important!)</p>
+<p><span style="color: lightpink;"> <img class="emoji" draggable="false" alt="👉" src="../_assets/svg/twemoji/1f449.svg">  <strong>For &quot;Speak the Words&quot; activities, you must <big><strong>USE GOOGLE CHROME</strong></big> as your browser</strong></span>. It is the only browser that contains the speech recognition software necessary for Speak the Words to function.</p>
+<ul>
+<li><a href="https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;hl=en" class="is-external-link">Download and install Google Chrome for free on Windows, Mac, or Linux</a>.</li>
+</ul>
+<h1 id="h-1-add-a-speak-the-words-activity-to-your-lesson" class="toc-header"><a class="toc-anchor" href="speakthewordsactivity#h-1-add-a-speak-the-words-activity-to-your-lesson">¶</a> 1. Add a &quot;Speak the Words&quot; Activity to Your Lesson</h1>
+<p>You have two options:</p>
+<ul>
+<li>Create a single &quot;Speak The Words&quot; prompt or question.</li>
+<li>Create a &quot;Speak The Words Set&quot; including multiple prompts or questions.</li>
+</ul>
+<ol>
+<li><a href="https://anvill.uoregon.edu/" class="is-external-link">Open the ANVILL log in page</a> and log in.</li>
+</ol>
+<ul>
+<li><em>Note:</em> <a href="https://localhost/en/speakthewordsactivity/en/teachers/accountlogin" class="is-internal-link is-invalid-page">Click here if you need to learn how to log in</a></li>
+</ul>
+<ol>
+<li>Open the lesson in which you want to add your Speak the Words activity or set.</li>
+<li>Click or tap on &quot;+ Add Content&quot; at the top of your lesson.</li>
+<li>In the Add Content Menu that opens, click or tap on the &quot;Speak the Words&quot; icon (to add one prompt/question) or &quot;Speak the Words Set&quot; icon (to add multiple prompts/questions).</li>
+</ol>
+<h1 id="h-2-create-speak-the-words-content" class="toc-header"><a class="toc-anchor" href="speakthewordsactivity#h-2-create-speak-the-words-content">¶</a> 2. Create &quot;Speak The Words&quot; Content</h1>
+<h2 id="speak-the-words-single-question-or-prompt" class="toc-header"><a class="toc-anchor" href="speakthewordsactivity#speak-the-words-single-question-or-prompt">¶</a> &quot;Speak the Words&quot; (Single Question or Prompt)</h2>
+<ol>
+<li>If your &quot;Speak the Words&quot; activity Edit Screen is not yet open, open it by clicking on the green pencil icon above the Speak the Words activity, then selecting &quot;Edit&quot; from the menu.</li>
+<li>Give your activity a title.</li>
+<li>In the &quot;Describe Task&quot; box, write your question or prompt.</li>
+</ol>
+<ul>
+<li>Ex. &quot;What is Bart Simpson&apos;s father&apos;s name?&quot;</li>
+</ul>
+<ol start="4">
+<li>Now, write the answer. If you want to include more than one acceptable answer, just click or tap on &quot;Add Item&quot;.</li>
+</ol>
+<ul>
+<li>Ex. Homer Simpson, Homer Jay Simpson, Homer...</li>
+</ul>
+<ol start="5">
+<li>To save your work and exit, click on the check mark icon above your Speak the Words activity.</li>
+</ol>
+<h2 id="speak-the-words-set-multiple-questions-or-prompts" class="toc-header"><a class="toc-anchor" href="speakthewordsactivity#speak-the-words-set-multiple-questions-or-prompts">¶</a> &quot;Speak the Words Set&quot; (Multiple Questions or Prompts)</h2>
+<ol>
+<li>Follow the instructions above for &quot;Speak the Words (Single Question or Prompt)&quot; through Step 4.</li>
+<li>When you reach Step 4 and are ready to add the next Speak the Words question in your Set, click or or tap the blue &quot;Add Question&quot; button.</li>
+</ol>
+<p><img src="../add_question.png" alt="add_question.png"></p>
+<ol start="3">
+<li>Once you have completed all the questions you want to add, click on the check mark icon above your activity to save your work adnd exit.</li>
+</ol>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

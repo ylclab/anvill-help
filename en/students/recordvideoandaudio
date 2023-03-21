@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>How to Use ANVILL's Built-In Recorder | ANVILL Help</title><meta name="description" content="This page teaches you how to record video or audio within ANVILL"><meta property="og:title" content="How to Use ANVILL's Built-In Recorder"><meta property="og:type" content="website"><meta property="og:description" content="This page teaches you how to record video or audio within ANVILL"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/students/recordvideoandaudio"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="students/recordvideoandaudio" title="How to Use ANVILL's Built-In Recorder" description="This page teaches you how to record video or audio within ANVILL" :tags="[{&quot;tag&quot;:&quot;record video&quot;,&quot;title&quot;:&quot;record video&quot;},{&quot;tag&quot;:&quot;record audio&quot;,&quot;title&quot;:&quot;record audio&quot;},{&quot;tag&quot;:&quot;s&quot;,&quot;title&quot;:&quot;s&quot;},{&quot;tag&quot;:&quot;anvill's recorder&quot;,&quot;title&quot;:&quot;anvill's recorder&quot;},{&quot;tag&quot;:&quot;built-in recorder&quot;,&quot;title&quot;:&quot;built-in recorder&quot;},{&quot;tag&quot;:&quot;recording video&quot;,&quot;title&quot;:&quot;recording video&quot;},{&quot;tag&quot;:&quot;recording audio&quot;,&quot;title&quot;:&quot;recording audio&quot;},{&quot;tag&quot;:&quot;record sound&quot;,&quot;title&quot;:&quot;record sound&quot;}]" created-at="2020-06-07T21:24:15.341Z" updated-at="2020-10-06T02:39:21.629Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJSZWNvcmRpbmcgQXVkaW8gJiBWaWRlbyBpbnNpZGUgQU5WSUxMIiwiYW5jaG9yIjoiI3JlY29yZGluZy1hdWRpby12aWRlby1pbnNpZGUtYW52aWxsIiwiY2hpbGRyZW4iOlt7InRpdGxlIjoiV3JpdHRlbiBJbnN0cnVjdGlvbnMiLCJhbmNob3IiOiIjd3JpdHRlbi1pbnN0cnVjdGlvbnMiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJWaWRlbyBJbnN0cnVjdGlvbnMgb24gUmVjb3JkaW5nIEF1ZGlvIiwiYW5jaG9yIjoiI3ZpZGVvLWluc3RydWN0aW9ucy1vbi1yZWNvcmRpbmctYXVkaW8iLCJjaGlsZHJlbiI6W119XX1d" :page-id="42" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/students/recordvideoandaudio.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="recording-audio-video-inside-anvill" class="toc-header"><a class="toc-anchor" href="recordvideoandaudio#recording-audio-video-inside-anvill">¶</a> Recording Audio &amp; Video inside ANVILL</h1>
+<h2 id="written-instructions" class="toc-header"><a class="toc-anchor" href="recordvideoandaudio#written-instructions">¶</a> Written Instructions</h2>
+<ol>
+<li>Click on the &quot;record&quot; (camera icon) to open ANVILL&apos;s built-in recorder.</li>
+</ol>
+<p><img src="../../choose_record_icon.png" alt="choose_record_icon.png" height="150"></p>
+<ol>
+<li>The &quot;recorder screen&quot; will pop open.<br>
+<em>Sometimes the recorder will open directly to the &quot;Audio Recorder Screen.&quot; Other times, it will open to the &quot;Video Recorder Screen&quot; and you will need to switch to the audio recorder screen.</em></li>
+</ol>
+<p><img src="../../recorder_screens.png" alt="recorder_screens.png"></p>
+<ol>
+<li>
+<p>Once the &quot;recorder screen&quot; pops open, <strong>to switch between the video and audio</strong> recorder, click on the camera icon in the upper right.</p>
+</li>
+<li>
+<p>Click &quot;Begin recording&quot;. Make sure you can see your level (in the volume).</p>
+</li>
+<li>
+<p>You can pause your recording at any point. Click resume to continue.</p>
+</li>
+<li>
+<p>Click &quot;Done&quot; when you&apos;re finished.</p>
+</li>
+<li>
+<p>Important! Listen to your message. If it sounds OK, click &quot;Looks Good&quot;. Otherwise, &quot;Try Again&quot;.</p>
+</li>
+<li>
+<p>The last step is to make sure your message posts. It may take second. Please be patient.</p>
+</li>
+</ol>
+<p><em>Note</em>: If you want <strong>to edit your Voiceboard</strong> for any reason, check out <a href="voiceboard/edit" class="is-internal-link is-valid-page"><strong>this page.</strong></a></p>
+<h2 id="video-instructions-on-recording-audio" class="toc-header"><a class="toc-anchor" href="recordvideoandaudio#video-instructions-on-recording-audio">¶</a> Video Instructions on Recording Audio</h2>
+<p>Click to open the Instructional Video on:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=C7dgW4Nq6Zk&amp;list=PL6XRmVqz3rRbCWwifxWRiS7waXnt5k3Xj&amp;index=1" class="is-external-link">How to Create an Audio Message with ANVILL&apos;s Build in Recorder</a></li>
+</ul>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

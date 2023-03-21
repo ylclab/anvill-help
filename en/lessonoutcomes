@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Lesson Outcomes (Analytics) | ANVILL Help</title><meta name="description" content="This page teaches you how to find out statistics on student performance"><meta property="og:title" content="Lesson Outcomes (Analytics)"><meta property="og:type" content="website"><meta property="og:description" content="This page teaches you how to find out statistics on student performance"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/lessonoutcomes"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="lessonoutcomes" title="Lesson Outcomes (Analytics)" description="This page teaches you how to find out statistics on student performance" :tags="[]" created-at="2020-07-05T02:24:39.070Z" updated-at="2020-10-01T03:32:32.192Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJMZXNzb24gT3V0Y29tZXM6IE92ZXJ2aWV3IiwiYW5jaG9yIjoiI2xlc3Nvbi1vdXRjb21lcy1vdmVydmlldyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IkhvdyB0byBBY2Nlc3MgTGVzc29uIE91dGNvbWVzIChBbmFseXRpY3MpIiwiYW5jaG9yIjoiI2hvdy10by1hY2Nlc3MtbGVzc29uLW91dGNvbWVzLWFuYWx5dGljcyIsImNoaWxkcmVuIjpbXX1d" :page-id="45" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/lessonoutcomes.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="lesson-outcomes-overview" class="toc-header"><a class="toc-anchor" href="lessonoutcomes#lesson-outcomes-overview">¶</a> Lesson Outcomes: Overview</h1>
+<p>ANVILL gives you options to view &amp; compare student performance and engagement. Read below to learn how and see what a report looks like.</p>
+<h1 id="how-to-access-lesson-outcomes-analytics" class="toc-header"><a class="toc-anchor" href="lessonoutcomes#how-to-access-lesson-outcomes-analytics">¶</a> How to Access Lesson Outcomes (Analytics)</h1>
+</big><ol><big>
+<li>
+<p><a href="createlesson" class="is-internal-link is-valid-page">Open the ANVILL Lesson</a> for which you want to see outcomes and analytics.</p>
+</li>
+</big><li><big>
+</big><p><big>Click on the green cricle with the vertical ellipses in the bottom right corner of your ANVILL lesson&apos;s screen.</big><br>
+ <br>
+<img src="../vertical_ellipses_circe_icon.png" alt="vertical_ellipses_circe_icon.png"></p>
+</li>
+<li>
+<p><big><strong>Select &quot;Outcomes&quot;</strong></big> from the menu that opens.<br>
+ <br>
+<img src="../screen_shot_2020-07-04_at_7.24.09_pm.png" alt="screen_shot_2020-07-04_at_7.24.09_pm.png" height="500"><br>
+ </p>
+</li>
+<li>
+<p>You will see a window open that looks like this:<br>
+ </p>
+</li>
+</ol><div>
+</div><p><img src="../screen_shot_2020-07-04_at_7.26.26_pm.png" alt="screen_shot_2020-07-04_at_7.26.26_pm.png" height="500"></p><div>
+</div><p> </p><div>
+</div><ol start="5">
+<li>Please notice you can look at &quot;Lesson Outcomes&quot; (i.e. the outcomes for the ANVILL lesson/page you are on) with an overview, by activity, or by user. For example:
+<ul>
+<li>&quot;Overview&quot;: illustrates overall statistics from the lesson</li>
+<li>&quot;By activity&quot;: breaks statistics down into individual activities you&apos;ve chosen to include in your lesson (ex. course presentation, interactive video, dictation, etc.)</li>
+<li>&quot;By users&quot;: shows analytics based on individual learner/student</li>
+</ul>
+</li>
+</ol><div>
+</div><p><big>Ex. Lesson Outcomes (Overview)</big></p><div>
+</div><p><img src="../bt_overview.png" alt="bt_overview.png"></p><div>
+</div><p><big>Ex. Lesson Outcomes (By Activity)</big></p><div>
+</div><p><img src="../by_activity.png" alt="by_activity.png"></p><div>
+</div><p><big>Ex. Lesson Outcomes (By User)</big></p><div>
+</div><p><img src="../by_user.png" alt="by_user.png"></p><div>
+</div></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

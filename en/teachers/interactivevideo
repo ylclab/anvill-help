@@ -1,0 +1,71 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Interactive Video | ANVILL Help</title><meta name="description" content="How to add an Interactive Video to your lesson and begin creating content"><meta property="og:title" content="Interactive Video"><meta property="og:type" content="website"><meta property="og:description" content="How to add an Interactive Video to your lesson and begin creating content"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/teachers/interactivevideo"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="teachers/interactivevideo" title="Interactive Video" description="How to add an Interactive Video to your lesson and begin creating content" :tags="[{&quot;tag&quot;:&quot;multimedia&quot;,&quot;title&quot;:&quot;multimedia&quot;},{&quot;tag&quot;:&quot;interactive video&quot;,&quot;title&quot;:&quot;interactive video&quot;},{&quot;tag&quot;:&quot;video quiz&quot;,&quot;title&quot;:&quot;video quiz&quot;},{&quot;tag&quot;:&quot;interactive content&quot;,&quot;title&quot;:&quot;interactive content&quot;},{&quot;tag&quot;:&quot;interactive media&quot;,&quot;title&quot;:&quot;interactive media&quot;},{&quot;tag&quot;:&quot;interactions&quot;,&quot;title&quot;:&quot;interactions&quot;},{&quot;tag&quot;:&quot;create interactive video&quot;,&quot;title&quot;:&quot;create interactive video&quot;},{&quot;tag&quot;:&quot;create interactive content&quot;,&quot;title&quot;:&quot;create interactive content&quot;},{&quot;tag&quot;:&quot;video help&quot;,&quot;title&quot;:&quot;video help&quot;}]" created-at="2020-09-08T03:11:38.245Z" updated-at="2020-10-01T03:25:32.625Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJJbnRlcmFjdGl2ZSBWaWRlbyIsImFuY2hvciI6IiNpbnRlcmFjdGl2ZS12aWRlbyIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IkNvbnRlbnQiLCJhbmNob3IiOiIjY29udGVudCIsImNoaWxkcmVuIjpbXX1dfSx7InRpdGxlIjoiMS4gT3ZlcnZpZXciLCJhbmNob3IiOiIjaC0xLW92ZXJ2aWV3IiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiMi4gQWRkIGFuIEludGVyYWN0aXZlIFZpZGVvIHRvIExlc3NvbiIsImFuY2hvciI6IiNoLTItYWRkLWFuLWludGVyYWN0aXZlLXZpZGVvLXRvLWxlc3NvbiIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjMuIENyZWF0ZSBOZXcgSW50ZXJhY3RpdmUgVmlkZW8gZnJvbSBPbGQgSW50ZXJhY3RpdmUgVmlkZW8iLCJhbmNob3IiOiIjaC0zLWNyZWF0ZS1uZXctaW50ZXJhY3RpdmUtdmlkZW8tZnJvbS1vbGQtaW50ZXJhY3RpdmUtdmlkZW8iLCJjaGlsZHJlbiI6W3sidGl0bGUiOiIzLjEgQ29weSBJbnRlcmFjdGl2ZSBWaWRlbyIsImFuY2hvciI6IiNoLTMxLWNvcHktaW50ZXJhY3RpdmUtdmlkZW8iLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIzLjIgUGFzdGUgSW50ZXJhY3RpdmUgVmlkZW8iLCJhbmNob3IiOiIjaC0zMi1wYXN0ZS1pbnRlcmFjdGl2ZS12aWRlbyIsImNoaWxkcmVuIjpbXX1dfV0=" :page-id="59" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/teachers/interactivevideo.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="interactive-video" class="toc-header"><a class="toc-anchor" href="interactivevideo#interactive-video">¶</a> Interactive Video</h1>
+<h2 id="content" class="toc-header"><a class="toc-anchor" href="interactivevideo#content">¶</a> Content</h2>
+<p>Click on any link below to go directly to that topic.</p>
+<ol>
+<li><a href="interactivevideo#h-2-overview" class="is-internal-link is-valid-page">Overview</a></li>
+<li><a href="interactivevideo#h-2-add-an-interactive-video-to-lesson" class="is-internal-link is-valid-page">Add Interactive Video to Lesson</a></li>
+<li><a href="interactivevideo#h-3-create-new-interactive-video-from-old-interactive-video" class="is-internal-link is-valid-page">Create New Interactive Video from Old Interacive Video</a></li>
+</ol>
+<h1 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="interactivevideo#h-1-overview">¶</a> 1. Overview</h1>
+<p>Interactive Video is a simple and effective way to further engage your students in your content and improve comprehension. They are easy to create, edit, and use. More than 15 interaction types are available.</p>
+<p>Some examples:</p>
+<ul>
+<li>In-video quiz questions for comprehension checks.</li>
+<li>On-screen links, notes or annotations.</li>
+<li>End-of-video summary statement quizzes as well as a free text tool for those who want students to write their own summary</li>
+</ul>
+<p>This page explains tells you how to add an interactive video to a lesson. Once you&apos;ve added a video to your lesson &amp; are ready to create content in your video, find detailed instructions here: <a href="../videointeractions" class="is-internal-link is-valid-page">Learn how to Add Interactions in Interactive Video</a>.</p>
+<h1 id="h-2-add-an-interactive-video-to-lesson" class="toc-header"><a class="toc-anchor" href="interactivevideo#h-2-add-an-interactive-video-to-lesson">¶</a> 2. Add an Interactive Video to Lesson</h1>
+<ol>
+<li>Open your ANVILL Lesson. <a href="../createlesson#h-3-open-an-existing-lesson" class="is-internal-link is-valid-page">(<em>Click here to learn how)</em></a></li>
+<li>Click on &quot;+ Add Content&quot; at the top of your open Lesson Page.</li>
+<li>In the &quot;Add Content&quot; Menu, click on Interactive Video.</li>
+<li>The &quot;Interactive Video&quot; editor will open on your lesson.</li>
+<li>Give your Interactive Video a title.</li>
+<li>Click the gray box to Add your video.</li>
+<li>Select how to add your video. All three options can be done on a computer, phone, or tablet.</li>
+</ol>
+<ul>
+<li>Embed URL (Vimeo or YouTube)</li>
+<li>Upload file</li>
+<li>Record video using ANVILL&apos;s internal recorder</li>
+</ul>
+<ol start="8">
+<li>It may take your video or audio a moment to upload. When it does, a black icon appears where the gray box was.</li>
+<li>Once uploaded, you can begin creating content! You will find instructions here:<br>
+<a href="../videointeractions" class="is-internal-link is-valid-page">Learn how to Add Interactions to an Interactive Video</a>.</li>
+</ol>
+<p><em>Important note:</em> While most teachers want to use video here, do know that an audio file (a lecture, poem, or newscast off the radio) saved as a movie file can be equally as useful for audio comprehension work.</p>
+<h1 id="h-3-create-new-interactive-video-from-old-interactive-video" class="toc-header"><a class="toc-anchor" href="interactivevideo#h-3-create-new-interactive-video-from-old-interactive-video">¶</a> 3. Create New Interactive Video from Old Interactive Video</h1>
+<p>You can create a New Interactive Video from any previous Interactive Video you created in ANVILL. It is a simple and quick &quot;Copy &amp; Paste&quot; process.</p>
+<h2 id="h-31-copy-interactive-video" class="toc-header"><a class="toc-anchor" href="interactivevideo#h-31-copy-interactive-video">¶</a> 3.1 Copy Interactive Video</h2>
+<ol>
+<li>Open the lesson with the Interactive Video you want to copy.</li>
+<li>Click on the pencil icon in the top right above that Interactive Video.</li>
+<li>Select &quot;Edit&quot; from the drop down menu.</li>
+<li>When the Interactive Video Editor opens, click on the blue &quot;Copy&quot; button below the title. This duplicates and adds your Interactive Video to your clipboard.</li>
+<li>Click on the check mark icon in the top right to exit the Interactive Video editor.<br>
+content to close out of the screen.</li>
+<li>Click on &quot;+ Add Content&quot; at the top of your Lesson Page.</li>
+</ol>
+<h2 id="h-32-paste-interactive-video" class="toc-header"><a class="toc-anchor" href="interactivevideo#h-32-paste-interactive-video">¶</a> 3.2 Paste Interactive Video</h2>
+<ol>
+<li>Click on &quot;+ Add Content&quot; at the top of the Lesson Page in which you want to paste the old Interactive Video you copied.</li>
+<li>In the &quot;Add Content&quot; menu, click on the &quot;Interactive Video&quot; icon.</li>
+<li>When the Interactive Video Editor opens, click on the &quot;Paste and Replace&quot; button below the title.</li>
+<li>When asked for permission to &quot;replace current content with content from your clipboard.&quot; Click on &quot;Replace Content&quot; to do so.</li>
+<li>Once the Interactive Video you copy and pasted appears, you can click on the check mark to save and exit or begin editing.</li>
+</ol>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Voiceboard | ANVILL Help</title><meta name="description" content="Discover how to use and create Voiceboards, both for instructors and students.  "><meta property="og:title" content="Voiceboard"><meta property="og:type" content="website"><meta property="og:description" content="Discover how to use and create Voiceboards, both for instructors and students.  "><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/teachers/voiceboards"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="teachers/voiceboards" title="Voiceboard" description="Discover how to use and create Voiceboards, both for instructors and students.  " :tags="[{&quot;tag&quot;:&quot;voiceboard&quot;,&quot;title&quot;:&quot;voiceboard&quot;},{&quot;tag&quot;:&quot;speaking&quot;,&quot;title&quot;:&quot;speaking&quot;},{&quot;tag&quot;:&quot;speaking practice&quot;,&quot;title&quot;:&quot;speaking practice&quot;},{&quot;tag&quot;:&quot;speech&quot;,&quot;title&quot;:&quot;speech&quot;},{&quot;tag&quot;:&quot;multimedia&quot;,&quot;title&quot;:&quot;multimedia&quot;},{&quot;tag&quot;:&quot;interactive&quot;,&quot;title&quot;:&quot;interactive&quot;},{&quot;tag&quot;:&quot;oral&quot;,&quot;title&quot;:&quot;oral&quot;}]" created-at="2020-04-20T20:13:02.383Z" updated-at="2021-01-07T02:56:32.631Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJWb2ljZWJvYXJkIChWQikiLCJhbmNob3IiOiIjdm9pY2Vib2FyZC12YiIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IkNvbnRlbnQiLCJhbmNob3IiOiIjY29udGVudCIsImNoaWxkcmVuIjpbXX1dfSx7InRpdGxlIjoiMS4gVm9pY2Vib2FyZDogT3ZlcnZpZXciLCJhbmNob3IiOiIjaC0xLXZvaWNlYm9hcmQtb3ZlcnZpZXciLCJjaGlsZHJlbiI6W3sidGl0bGUiOiIxLjEgV2hhdCBpcyBcIlZvaWNlYm9hcmRcIj8iLCJhbmNob3IiOiIjaC0xMS13aGF0LWlzLXZvaWNlYm9hcmQiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJXaGF0IGtpbmQgb2YgbWVkaWEgZmlsZXMgY2FuIEkgdXNlPyIsImFuY2hvciI6IiN3aGF0LWtpbmQtb2YtbWVkaWEtZmlsZXMtY2FuLWktdXNlIiwiY2hpbGRyZW4iOltdfV19LHsidGl0bGUiOiIyLiBWb2ljZWJvYXJkOiBBZGQgdG8gYSBMZXNzb24iLCJhbmNob3IiOiIjaC0yLXZvaWNlYm9hcmQtYWRkLXRvLWEtbGVzc29uIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiMy4gVm9pY2Vib2FyZDogQ3JlYXRlIENvbnRlbnQiLCJhbmNob3IiOiIjaC0zLXZvaWNlYm9hcmQtY3JlYXRlLWNvbnRlbnQiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiI0LiAgVm9pY2Vib2FyZDogU2hhcmUgd2l0aCBTdHVkZW50cyIsImFuY2hvciI6IiNoLTQtdm9pY2Vib2FyZC1zaGFyZS13aXRoLXN0dWRlbnRzIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiNS4gUXVlc3Rpb25zIEFib3V0IFN0dWRlbnRzICYgVm9pY2Vib2FyZCIsImFuY2hvciI6IiNoLTUtcXVlc3Rpb25zLWFib3V0LXN0dWRlbnRzLXZvaWNlYm9hcmQiLCJjaGlsZHJlbiI6W3sidGl0bGUiOiI1LjEgQ2FuIHN0dWRlbnRzIHNlZSBlYWNoIG90aGVyJ3MgVm9pY2Vib2FyZCByZXNwb25zZXM/IiwiYW5jaG9yIjoiI2gtNTEtY2FuLXN0dWRlbnRzLXNlZS1lYWNoLW90aGVycy12b2ljZWJvYXJkLXJlc3BvbnNlcyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjUuMiBRdWljayBMaW5rcyBmb3IgU3R1ZGVudHMgdG8gRmluZCBIZWxwIiwiYW5jaG9yIjoiI2gtNTItcXVpY2stbGlua3MtZm9yLXN0dWRlbnRzLXRvLWZpbmQtaGVscCIsImNoaWxkcmVuIjpbXX1dfV0=" :page-id="4" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/teachers/voiceboards.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="voiceboard-vb" class="toc-header"><a class="toc-anchor" href="voiceboards#voiceboard-vb">¶</a> Voiceboard (VB)</h1>
+<h2 id="content" class="toc-header"><a class="toc-anchor" href="voiceboards#content">¶</a> Content</h2>
+<p>Click on any of the below links to jump immediately to that Help Section.</p>
+<ol>
+<li><a href="voiceboards#voiceboard-overview" class="is-internal-link is-valid-page">Voiceboard: Overview</a></li>
+</ol>
+<ul>
+<li>1.1 <a href="voiceboards#voiceboard-overview" class="is-internal-link is-valid-page">What is &quot;Voiceboard&quot;?</a></li>
+<li>1.2 <a href="voiceboards#what-kind-of-media-files-can-i-use" class="is-internal-link is-valid-page">What kind of media files can I use?</a></li>
+</ul>
+<ol start="2">
+<li><a href="voiceboards#h-1-add-a-voiceboard-to-an-anvill-lesson" class="is-internal-link is-valid-page">Add VB to a Lesson</a></li>
+<li><a href="voiceboards#h-2-add-or-edit-content-in-a-voiceboard" class="is-internal-link is-valid-page">Create Content in VB</a></li>
+<li><a href="voiceboards#share-voiceboard-content" class="is-internal-link is-valid-page">Share VB with Students</a></li>
+<li><a href="voiceboards#h-5-addressing-your-questions-about-students-voiceboard" class="is-internal-link is-valid-page">Questions About Students Using Voiceboard</a></li>
+</ol>
+<ul>
+<li>5.1 <a href="voiceboards#can-students-see-each-others-responses" class="is-internal-link is-valid-page">Can students see each other&apos;s Voiceboard responses?</a></li>
+<li>5.2 <a href="voiceboards#h-52-quick-links-for-students-to-find-help" class="is-internal-link is-valid-page">Quick Links for Students to Find Help</a></li>
+</ul>
+<h1 id="h-1-voiceboard-overview" class="toc-header"><a class="toc-anchor" href="voiceboards#h-1-voiceboard-overview">¶</a> 1. Voiceboard: Overview</h1>
+<h2 id="h-11-what-is-voiceboard" class="toc-header"><a class="toc-anchor" href="voiceboards#h-11-what-is-voiceboard">¶</a> 1.1 What is &quot;Voiceboard&quot;?</h2>
+<p>Voiceboard activities support meaningful speaking practice beyond the classroom. Instructors can easily post audio and/or video messages plus add images, documents, and written comments too. Multimedia can be uploaded, embedded, or recorded in ANVILL.</p>
+<p>Students  can respond with their own Voiceboard. Students also have the ability to add images, documents, or written comments though the instructor can choose which options are available to students.</p>
+<h2 id="what-kind-of-media-files-can-i-use" class="toc-header"><a class="toc-anchor" href="voiceboards#what-kind-of-media-files-can-i-use">¶</a> <strong>What kind of media files can I use?</strong></h2>
+<p>ANVILL supports all standard file types. Here are common examples:</p>
+<ul>
+<li><strong>Audio:</strong>  m4a, mp3, oga, ogg, wav, wma</li>
+<li><strong>Video:</strong> riles 3gp, avi, m4v, mov, mp4, mpg, mpeg, ogm, ogv, webm</li>
+<li><strong>Documents:</strong> csv, doc, docx, epub, mobi, odp, ods, odt, pages, pdf, pps, ppt, pptx, rtf, txt, xls, xlsx</li>
+<li><strong>Images:</strong> gif, jpg, jpeg, png, webp</li>
+</ul>
+<h1 id="h-2-voiceboard-add-to-a-lesson" class="toc-header"><a class="toc-anchor" href="voiceboards#h-2-voiceboard-add-to-a-lesson">¶</a> 2. Voiceboard: Add to a Lesson</h1>
+<ol>
+<li>Open the ANVILL Lesson in which to want to create a Voiceboard. If you need to learn how:</li>
+</ol>
+<ul>
+<li><a href="../createlesson#h-3-open-an-existing-lesson" class="is-internal-link is-valid-page">Click here to learn how to Open an ANVILL Lesson You Created</a></li>
+<li><a href="../createlesson#h-1-create-a-new-lesson" class="is-internal-link is-valid-page">Click here to learn how to Add a New ANVILL Lesson</a></li>
+</ul>
+<ol start="2">
+<li>In the ANVILL Lesson in which you want to add a Voiceboard, Click on &quot;+ Add Content.&quot;</li>
+</ol>
+<p><img src="../../add_voiceboard.png" alt="add_voiceboard.png" height="400" class="align-center"><br>
+3. Click on the Voiceboard icon in the open &quot;Add Content&quot; menu.</p>
+<ol start="4">
+<li>
+<p>A Voiceboard activity for you to complete will now open on your ANVILL Lesson page.</p>
+</li>
+<li>
+<p>For details on how to Create or Edit your Voiceboard content, read Section 2 below.</p>
+</li>
+</ol>
+<h1 id="h-3-voiceboard-create-content" class="toc-header"><a class="toc-anchor" href="voiceboards#h-3-voiceboard-create-content">¶</a> 3. Voiceboard: Create Content</h1>
+<ol>
+<li>Click on the green pencil icon above your Voiceboard.<img src="../../voiceboard_options_.png" alt="voiceboard_options_.png" height="500" class="align-right"></li>
+<li>Select &quot;Edit.&quot; The Voiceboard editor will now open.</li>
+<li>Write a Voiceboard title (just type over &quot;Untitled&quot;)</li>
+<li>Write a description for your assignment, relevant instructions, or any necessary background information</li>
+<li>Click on &quot;+ Add Media&quot; to add audio or video to your Voiceboard.</li>
+<li>You will be given the option to embed a URL, upload a existing file, or record your media.</li>
+</ol>
+<ul>
+<li>Note: A window may open asking permission to use your camera &amp;/or microphone to record. If that happens, you must accept &amp; select &quot;yes/permit&quot; for your video or audio to record.</li>
+</ul>
+<ol start="7">
+<li>Once your media has uploaded, click &quot;Done.&quot; If you are recording audio or video, please note that after you have recorded your file, you have an option to &quot;Try again&quot; (computer) or &quot;Retake&quot; (iOs).</li>
+<li>Choose how students can respond to your Voiceboard under &quot;Restrict Media Types.&quot; Example:</li>
+</ol>
+<p><img src="../../engagements_vb.png" alt="engagements_vb.png" class="align-center"><br>
+9. If you DO NOT want your student responses to be Public (meaning both instructor and classmates can see and comment on all responses), change the Privacy Setting by sliding the little circle right until you see the color change and word &quot;Private&quot; appear.<br>
+<img src="../../privacy_setting_publicprivate.png" alt="privacy_setting_publicprivate.png" height="102"><img src="../../screen_shot_2020-08-09_at_4.02.07_pm.png" alt="privacy_setting_private.png" height="100"><br>
+10. Your Voiceboard is ready to go! Click the check mark icon to save and exit.</p>
+<h1 id="h-4-voiceboard-share-with-students" class="toc-header"><a class="toc-anchor" href="voiceboards#h-4-voiceboard-share-with-students">¶</a> 4.  Voiceboard: Share with Students</h1>
+<p>To notify students a Voiceboard activity is ready for completion, you can Share the Lesson. <a href="../sharelesson" class="is-internal-link is-valid-page">See Section 1.2 in our &quot;Share Lesson&quot; Help Page to learn how</a>.</p>
+<h1 id="h-5-questions-about-students-voiceboard" class="toc-header"><a class="toc-anchor" href="voiceboards#h-5-questions-about-students-voiceboard">¶</a> 5. Questions About Students &amp; Voiceboard</h1>
+<h2 id="h-51-can-students-see-each-others-voiceboard-responses" class="toc-header"><a class="toc-anchor" href="voiceboards#h-51-can-students-see-each-others-voiceboard-responses">¶</a> 5.1 Can students see each other&apos;s Voiceboard responses?</h2>
+<p>It depends! Voiceboard&apos;s Privacy Setting lets the instructor to decide. There are two options:</p>
+<ul>
+<li>&quot;<strong>Public</strong>&quot;:<br>
+Instructor &amp; students can see (and comment on) all student responses. This is the default Privacy Setting.</li>
+<li>&quot;<strong>Private&quot;</strong>:<br>
+Only the instructor and student can see and comment on that individual student&apos;s responses.</li>
+</ul>
+<h2 id="h-52-quick-links-for-students-to-find-help" class="toc-header"><a class="toc-anchor" href="voiceboards#h-52-quick-links-for-students-to-find-help">¶</a> 5.2 Quick Links for Students to Find Help</h2>
+<p>You can link students to any of the below sections in our ANVILL Help Desk so they can quickly find the answers they are looking for about using Voiceboard.</p>
+<p>Just copy &amp; paste the link, then send it to students or even pase it in an ANVILL activity.</p>
+<ol>
+<li><a href="../../e/en/voiceboardforstudents" class="is-system-link">Voiceboard for Students Home Page</a></li>
+<li><a href="../voiceboardforstudents#locate-a-voiceboard-activity" class="is-internal-link is-valid-page">Students: Find Voiceboard in a Lesson</a></li>
+<li><a href="../voiceboardforstudents#complete-a-voiceboard-activity" class="is-internal-link is-valid-page">Students: Comment on a Voiceboard</a></li>
+<li><a href="../voiceboardforstudents#adding-video-or-audio-files" class="is-internal-link is-valid-page">Students: Add Audio or Video to your Voiceboard:</a><br>
+3.1 <a href="../voiceboardforstudents#embed-a-url-video-only" class="is-internal-link is-valid-page">Embed URL</a> (Video only)<br>
+3.2 <a href="../voiceboardforstudents#upload-a-file-video-or-audio" class="is-internal-link is-valid-page">Upload</a> (Audio or Video)<br>
+3.3 <a href="../voiceboardforstudents#record-response-inside-anvill-video-or-audio" class="is-internal-link is-valid-page">Record in ANVILL</a> (Audio or Video)</li>
+</ol>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

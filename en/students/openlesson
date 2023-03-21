@@ -1,0 +1,59 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Open an ANVILL Lesson (Students) | ANVILL Help</title><meta name="description" content="How to open a particular lesson in ANVILL if you're a student"><meta property="og:title" content="Open an ANVILL Lesson (Students)"><meta property="og:type" content="website"><meta property="og:description" content="How to open a particular lesson in ANVILL if you're a student"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/students/openlesson"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="students/openlesson" title="Open an ANVILL Lesson (Students)" description="How to open a particular lesson in ANVILL if you're a student" :tags="[{&quot;tag&quot;:&quot;open a lesson&quot;,&quot;title&quot;:&quot;open a lesson&quot;},{&quot;tag&quot;:&quot;open anvill lesson&quot;,&quot;title&quot;:&quot;open anvill lesson&quot;},{&quot;tag&quot;:&quot;opening lesson&quot;,&quot;title&quot;:&quot;opening lesson&quot;},{&quot;tag&quot;:&quot;how to open a lesson&quot;,&quot;title&quot;:&quot;how to open a lesson&quot;},{&quot;tag&quot;:&quot;how to open lesson&quot;,&quot;title&quot;:&quot;how to open lesson&quot;},{&quot;tag&quot;:&quot;open my anvill lesson&quot;,&quot;title&quot;:&quot;open my anvill lesson&quot;},{&quot;tag&quot;:&quot;find my lesson&quot;,&quot;title&quot;:&quot;find my lesson&quot;},{&quot;tag&quot;:&quot;find lesson&quot;,&quot;title&quot;:&quot;find lesson&quot;},{&quot;tag&quot;:&quot;anvill lesson&quot;,&quot;title&quot;:&quot;anvill lesson&quot;},{&quot;tag&quot;:&quot;where is my lesson&quot;,&quot;title&quot;:&quot;where is my lesson&quot;},{&quot;tag&quot;:&quot;can't find my lesson&quot;,&quot;title&quot;:&quot;can't find my lesson&quot;}]" created-at="2020-06-06T02:42:06.097Z" updated-at="2020-09-08T02:10:05.688Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJPcGVuIGEgTGVzc29uIGluIEFOVklMTCIsImFuY2hvciI6IiNvcGVuLWEtbGVzc29uLWluLWFudmlsbCIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IkNvbnRlbnRzIiwiYW5jaG9yIjoiI2NvbnRlbnRzIiwiY2hpbGRyZW4iOltdfV19LHsidGl0bGUiOiIxLiBPdmVydmlldyIsImFuY2hvciI6IiNoLTEtb3ZlcnZpZXciLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIyLiBPcGVuIGEgTmV3IExlc3NvbiIsImFuY2hvciI6IiNoLTItb3Blbi1hLW5ldy1sZXNzb24iLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIzLiBPcGVuIGFuIEV4aXN0aW5nIExlc3NvbiIsImFuY2hvciI6IiNoLTMtb3Blbi1hbi1leGlzdGluZy1sZXNzb24iLCJjaGlsZHJlbiI6W119XQ==" :page-id="39" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/students/openlesson.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;"> Information on this page applies to both the ANVILL desktop version and upcoming (fall 2020) mobile app. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="open-a-lesson-in-anvill" class="toc-header"><a class="toc-anchor" href="openlesson#open-a-lesson-in-anvill">¶</a> Open a Lesson in ANVILL</h1>
+<h2 id="contents" class="toc-header"><a class="toc-anchor" href="openlesson#contents">¶</a> Contents</h2>
+<p>Click on any link below to go directly to that topic.</p>
+<ol>
+<li>
+<p><a href="openlesson#overview" class="is-internal-link is-valid-page">Overview</a></p>
+</li>
+<li>
+<p><a href="openlesson#h-2-open-a-new-lesson" class="is-internal-link is-valid-page">Open a New Lesson</a></p>
+</li>
+<li>
+<p><a href="openlesson#open-an-existing-lesson" class="is-internal-link is-valid-page">Open an Existing Lesson</a></p>
+</li>
+</ol>
+<h1 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="openlesson#h-1-overview">¶</a> 1. Overview</h1>
+<p>There&apos;s more than one way to open an ANVILL Lesson. Access them using Lesson Links or from inside your ANVILL account. You can bookmark Lesson Links for easy access.</p>
+<h1 id="h-2-open-a-new-lesson" class="toc-header"><a class="toc-anchor" href="openlesson#h-2-open-a-new-lesson">¶</a> 2. Open a New Lesson</h1>
+<ol>
+<li>Your instructor will provide you with a link to the lesson. They usually do this one of two ways:</li>
+</ol>
+<ul>
+<li>Posting the link in a platform such as Canvas, Moodle, or Blackboard.</li>
+<li>Email invitation. So you know what to look for in your inbox, see below example.</li>
+</ul>
+<p>Email Invitation Example:<br>
+ <br>
+<img src="../../email_invite.png" alt="email_invite.png" height="200" class="align-center"></p>
+<ol start="2">
+<li>Click on the Lesson Link.</li>
+<li>Log in to ANVILL if prompted. If you&apos;re already logged in, the lesson will automatically open.</li>
+</ol>
+<p><em>Note: If you cannot find a Lesson Link, ask a classmate or your instructor for help.</em></p>
+<h1 id="h-3-open-an-existing-lesson" class="toc-header"><a class="toc-anchor" href="openlesson#h-3-open-an-existing-lesson">¶</a> 3. Open an Existing Lesson</h1>
+<p><em>Option 1:</em> <a href="openlesson#h-2-open-a-new-lesson" class="is-internal-link is-valid-page">Use the Lesson Link your instructor provided</a> the first time you opened the lesson. You can bookmark Lesson Links for easy access.</p>
+<p><em>Option 2:</em> Access any lesson you&apos;ve previously opened from inside ANVILL. Below explains how:</p>
+<ol>
+<li>Log in to your account. <a href="https://anvill.uoregon.edu/" class="is-external-link">(Click here to open ANVILL&apos;s log in page)</a>.</li>
+<li>Click on the hamburger menu in the upper left.</li>
+</ol>
+<p><img src="../../hamburger_menu.png" alt="hamburger_menu.png" height="125"><br>
+3. Select &apos;Lessons&apos; from the dropdown menu.</p>
+<p><img src="../../lessons_in_menu.png" alt="lessons_in_menu.png" height="200">{</p>
+<ol start="4">
+<li>Once in your &quot;Lessons&quot; library, find the lesson you want to open and click on it.</li>
+<li>Watch your lesson open!</li>
+</ol>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

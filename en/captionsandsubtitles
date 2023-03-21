@@ -1,0 +1,70 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Captions and Subtitles | ANVILL Help</title><meta name="description" content="This page tells you how to use the &quot;Add a Text Track&quot; feature to add captions and subtitles to videos"><meta property="og:title" content="Captions and Subtitles"><meta property="og:type" content="website"><meta property="og:description" content="This page tells you how to use the &quot;Add a Text Track&quot; feature to add captions and subtitles to videos"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/captionsandsubtitles"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="captionsandsubtitles" title="Captions and Subtitles" description="This page tells you how to use the &quot;Add a Text Track&quot; feature to add captions and subtitles to videos" :tags="[{&quot;tag&quot;:&quot;captions&quot;,&quot;title&quot;:&quot;captions&quot;},{&quot;tag&quot;:&quot;subtitles&quot;,&quot;title&quot;:&quot;subtitles&quot;},{&quot;tag&quot;:&quot;add text track&quot;,&quot;title&quot;:&quot;add text track&quot;},{&quot;tag&quot;:&quot;add captions&quot;,&quot;title&quot;:&quot;add captions&quot;},{&quot;tag&quot;:&quot;add subtitles&quot;,&quot;title&quot;:&quot;add subtitles&quot;},{&quot;tag&quot;:&quot;vtt&quot;,&quot;title&quot;:&quot;vtt&quot;},{&quot;tag&quot;:&quot;vtt file&quot;,&quot;title&quot;:&quot;vtt file&quot;},{&quot;tag&quot;:&quot;accessibility&quot;,&quot;title&quot;:&quot;accessibility&quot;},{&quot;tag&quot;:&quot;text track&quot;,&quot;title&quot;:&quot;text track&quot;},{&quot;tag&quot;:&quot;closed captioning&quot;,&quot;title&quot;:&quot;closed captioning&quot;}]" created-at="2020-08-16T00:10:54.210Z" updated-at="2021-01-14T20:47:07.467Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJDYXB0aW9ucyBhbmQgU3VidGl0bGVzOiBPdmVydmlldyIsImFuY2hvciI6IiNjYXB0aW9ucy1hbmQtc3VidGl0bGVzLW92ZXJ2aWV3IiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiQWRkIENhcHRpb25zIHRvIFZpZGVvIHdpdGggTWVkaWEgVXBsb2FkIiwiYW5jaG9yIjoiI2FkZC1jYXB0aW9ucy10by12aWRlby13aXRoLW1lZGlhLXVwbG9hZCIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IkFkZCBTdWJ0aXRsZXMgdG8gVmlkZW8gd2l0aCBNZWRpYSBVcGxvYWQiLCJhbmNob3IiOiIjYWRkLXN1YnRpdGxlcy10by12aWRlby13aXRoLW1lZGlhLXVwbG9hZCIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IkFkZCBDYXB0aW9ucyB0byBJbnRlcmFjdGl2ZSBWaWRlbyIsImFuY2hvciI6IiNhZGQtY2FwdGlvbnMtdG8taW50ZXJhY3RpdmUtdmlkZW8iLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJBZGQgU3VidGl0bGVzIHRvIEludGVyYWN0aXZlIFZpZGVvIiwiYW5jaG9yIjoiI2FkZC1zdWJ0aXRsZXMtdG8taW50ZXJhY3RpdmUtdmlkZW8iLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJDYXB0aW9ucyBhbmQgU3VidGl0bGVzIHdpdGggWW91VHViZSIsImFuY2hvciI6IiNjYXB0aW9ucy1hbmQtc3VidGl0bGVzLXdpdGgteW91dHViZSIsImNoaWxkcmVuIjpbXX1d" :page-id="54" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/captionsandsubtitles.md"><template slot="contents"><div><p><big>Please note:</big><br>
+<span style="color: yellow;"><big><strong>Captions and subtitles <em>ARE NOT</em> currently working with Interactive Video</strong>, though we are working hard to change that as soon as possible.</big></span></p><div>
+</div><p><span style="color: yellow;"><big><strong>Captions and subtitles <em>ARE</em> working with the Media Upload</strong> content tool meanwhile.</big></span></p><div>
+</div><h1 id="captions-and-subtitles-overview" class="toc-header"><a class="toc-anchor" href="captionsandsubtitles#captions-and-subtitles-overview">¶</a> <big>Captions and Subtitles: Overview</big></h1><big>
+<p>The &quot;Add Text Track&quot; feature in ANVILL allows you to add captions and subtitles to a video. Captions are the transcription of spoken dialogue into that same language. Subtitles are translations of that dialogue.</p>
+<p>Please note YouTube videos are unsupported in ANVLL. However, YouTube videos have their own captions and subtitles available on their website.</p>
+<h1 id="add-captions-to-video-with-media-upload" class="toc-header"><a class="toc-anchor" href="captionsandsubtitles#add-captions-to-video-with-media-upload">¶</a> Add Captions to Video with Media Upload</h1>
+<ol>
+<li>Add your video file (embed, upload, or record).</li>
+<li>In the &quot;Type of text track&quot; menu, make sure to choose &quot;Captions.&quot;</li>
+<li>Give your captions a &quot;Label.&quot;</li>
+<li>Click on  &quot;+ Add VTT File.&quot; Upload the VTT File for your captions</li>
+</ol>
+<ul>
+<li><a href="https://www.vtt-creator.com/" class="is-external-link"><em>If you need help creating a VTT File for captions for your video, this VTT Creator website could be helpful.</em></a></li>
+</ul>
+<h1 id="add-subtitles-to-video-with-media-upload" class="toc-header"><a class="toc-anchor" href="captionsandsubtitles#add-subtitles-to-video-with-media-upload">¶</a> Add Subtitles to Video with Media Upload</h1>
+<ol>
+<li>Add your video file (embed, upload, or record).</li>
+<li>In the &quot;Type of text track&quot; menu, make sure to choose &quot;Subtitles&quot;</li>
+<li>Give your subtitles a &quot;Label.&quot;</li>
+<li>CLick on the &quot;Subtitle Language&quot; dropdown menu. Choose the language for your subtitles from the list.</li>
+<li>Click on  &quot;+ Add VTT File.&quot; Upload the VTT File for your subtitles.</li>
+</ol>
+<h1 id="add-captions-to-interactive-video" class="toc-header"><a class="toc-anchor" href="captionsandsubtitles#add-captions-to-interactive-video">¶</a> Add Captions to Interactive Video</h1>
+<p><big>Please note:</big> <big><span style="color: yellow;"><strong>Captions are not currently working</strong> for Interactive Video, though we are working hard to change that as soon as possible</span></big></p><big>
+<ol>
+<li>Add your video file (embed, upload, or record).</li>
+<li>Click on the &quot;Text tracks&quot; dropdown menu below your video.</li>
+</ol>
+<p><img src="../add_text_tracks.png" alt="add_text_tracks.png" height="350"></p>
+</big><ol start="3"><big>
+</big><li><big>&quot;Captions&quot; is the default setting in &quot;Text Tracks.&quot; If you want to add captions, just click on the gray box with the plus sign in the middle of it to add your VTT file.</big></li>
+</ol>
+<ul>
+<li><a href="https://www.vtt-creator.com/" class="is-external-link"><em>If you need help creating a VTT File for captions for your video, this VTT Creator website could be helpful.</em></a></li>
+</ul>
+<h1 id="add-subtitles-to-interactive-video" class="toc-header"><a class="toc-anchor" href="captionsandsubtitles#add-subtitles-to-interactive-video">¶</a> Add Subtitles to Interactive Video</h1>
+<p>Please note: <span style="color: yellow;"><strong>Subtitles are not currently working</strong> for Interactive Video, though we are working hard to change that as soon as possible</span></p>
+<ol>
+<li>Add your video file (embed, upload, or record).</li>
+<li>Click to open the &quot;Type of text tracks&quot; dropdown menu.</li>
+<li>Choose &quot;Subtitles.&quot;</li>
+<li>It is also is a good idea to change the &quot;Track label&quot; above the &quot;Type of text track&quot; menu to something that reflects the change. (e.g. change &quot;Captions&quot; to &quot;Spanish subtitles&quot;).<br>
+<img src="../captions_to_subtitles_2.png" alt="captions_to_subtitles_2.png"></li>
+<li>For your subtitles to work, you must indicate the subtitle language. To do this, you have to type in the correct &quot;language tag.&quot;</li>
+</ol>
+<p>Here are some examples by language:<br>
+English: en<br>
+Chinese: zh<br>
+Cree: cr<br>
+Spanish: es<br>
+Modern Greek: el</p>
+<ol start="2">
+<li>You are now ready to add your VTT file. Click on the gray box with the plus sign in the middle, to do so.</li>
+</ol>
+<h1 id="captions-and-subtitles-with-youtube" class="toc-header"><a class="toc-anchor" href="captionsandsubtitles#captions-and-subtitles-with-youtube">¶</a> Captions and Subtitles with YouTube</h1>
+<p>Another option for captioning and subtitles is to upload a Youtube video with media uploader.</p>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

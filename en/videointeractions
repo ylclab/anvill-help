@@ -1,0 +1,328 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Add Interactions to &quot;Interactive Video&quot; | ANVILL Help</title><meta name="description" content="Learn about available video interactions plus how to add each one to your video"><meta property="og:title" content="Add Interactions to &quot;Interactive Video&quot;"><meta property="og:type" content="website"><meta property="og:description" content="Learn about available video interactions plus how to add each one to your video"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/videointeractions"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="videointeractions" title="Add Interactions to &quot;Interactive Video&quot;" description="Learn about available video interactions plus how to add each one to your video" :tags="[{&quot;tag&quot;:&quot;multimedia&quot;,&quot;title&quot;:&quot;multimedia&quot;},{&quot;tag&quot;:&quot;video quiz&quot;,&quot;title&quot;:&quot;video quiz&quot;},{&quot;tag&quot;:&quot;interactive content&quot;,&quot;title&quot;:&quot;interactive content&quot;},{&quot;tag&quot;:&quot;interaction options&quot;,&quot;title&quot;:&quot;interaction options&quot;},{&quot;tag&quot;:&quot;video&quot;,&quot;title&quot;:&quot;video&quot;},{&quot;tag&quot;:&quot;interactive video&quot;,&quot;title&quot;:&quot;interactive video&quot;},{&quot;tag&quot;:&quot;video interactions&quot;,&quot;title&quot;:&quot;video interactions&quot;},{&quot;tag&quot;:&quot;add interaction&quot;,&quot;title&quot;:&quot;add interaction&quot;}]" created-at="2020-05-03T21:14:56.208Z" updated-at="2021-01-14T22:41:53.492Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJBZGQgSW50ZXJhY3Rpb25zIHRvIFwiSW50ZXJhY3RpdmUgVmlkZW9cIiIsImFuY2hvciI6IiNhZGQtaW50ZXJhY3Rpb25zLXRvLWludGVyYWN0aXZlLXZpZGVvIiwiY2hpbGRyZW4iOlt7InRpdGxlIjoiMS4gT3ZlcnZpZXciLCJhbmNob3IiOiIjaC0xLW92ZXJ2aWV3IiwiY2hpbGRyZW4iOltdfV19LHsidGl0bGUiOiIyLiBMaXN0IG9mIEludGVyYWN0aXZlIEVsZW1lbnRzIiwiYW5jaG9yIjoiI2gtMi1saXN0LW9mLWludGVyYWN0aXZlLWVsZW1lbnRzIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiMy4gRmlyc3QgU3RlcHMgdG8gQWRkIEludGVyYWN0aW9ucyIsImFuY2hvciI6IiNoLTMtZmlyc3Qtc3RlcHMtdG8tYWRkLWludGVyYWN0aW9ucyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjQuIEluc3RydWN0aW9ucyBmb3IgU3BlY2lmaWMgSW50ZXJhY3Rpb25zIiwiYW5jaG9yIjoiI2gtNC1pbnN0cnVjdGlvbnMtZm9yLXNwZWNpZmljLWludGVyYWN0aW9ucyIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IkNyb3Nzcm9hZHMiLCJhbmNob3IiOiIjY3Jvc3Nyb2FkcyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IkRyYWcgJiBEcm9wIiwiYW5jaG9yIjoiI2RyYWctZHJvcCIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IkRyYWcgVGV4dCIsImFuY2hvciI6IiNkcmFnLXRleHQiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJGaWxsIGluIHRoZSBCbGFuayIsImFuY2hvciI6IiNmaWxsLWluLXRoZS1ibGFuayIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IkltYWdlIiwiYW5jaG9yIjoiI2ltYWdlIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiTGFiZWwiLCJhbmNob3IiOiIjbGFiZWwiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJMaW5rcyIsImFuY2hvciI6IiNsaW5rcyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6Ik11bHRpcGxlIENob2ljZSBTZXQiLCJhbmNob3IiOiIjbXVsdGlwbGUtY2hvaWNlLXNldCIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6Ik5hdmlnYXRpb24gSG90c3BvdCIsImFuY2hvciI6IiNuYXZpZ2F0aW9uLWhvdHNwb3QiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJRdWVzdGlvbm5haXJlIiwiYW5jaG9yIjoiI3F1ZXN0aW9ubmFpcmUiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJTaW5nbGUgQ2hvaWNlIFNldCIsImFuY2hvciI6IiNzaW5nbGUtY2hvaWNlLXNldCIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IlRhYmxlIiwiYW5jaG9yIjoiI3RhYmxlIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiVGV4dCIsImFuY2hvciI6IiN0ZXh0IiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiVHJ1ZS9GYWxzZSIsImFuY2hvciI6IiN0cnVlZmFsc2UiLCJjaGlsZHJlbiI6W119XX0seyJ0aXRsZSI6IlBvc3Qtdmlld2luZzogVmlkZW8gXCJTdW1tYXJ5IFRhc2tcIiIsImFuY2hvciI6IiNwb3N0LXZpZXdpbmctdmlkZW8tc3VtbWFyeS10YXNrIiwiY2hpbGRyZW4iOltdfV0=" :page-id="16" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/videointeractions.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;"> Information on this page applies to both the (existing) ANVILL Desktop version and the upcoming Mobile App (2021). Any relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="add-interactions-to-interactive-video" class="toc-header"><a class="toc-anchor" href="videointeractions#add-interactions-to-interactive-video">¶</a> Add Interactions to &quot;Interactive Video&quot;</h1>
+<h2 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="videointeractions#h-1-overview">¶</a> 1. Overview</h2>
+<p>There are more than 15 interactive elements you can add to any moment of a video to enhance viewer engagement and comprehension. This possibility increases when you choose to pause the video when arriving at an interaction, thus requiring viewer engagement for the video to continue.</p>
+<p>Read below to learn about each interactive element and how to add them.</p>
+<h1 id="h-2-list-of-interactive-elements" class="toc-header"><a class="toc-anchor" href="videointeractions#h-2-list-of-interactive-elements">¶</a> 2. List of Interactive Elements</h1>
+<p><img src="../interactive_video.png" alt="interactive_video.png" height="235" class="align-right"> Below are descriptions of each interactive element you can add to your video.</p>
+<ul>
+<li><strong>Crossroads</strong><br>
+Create questions that take viewers to a different spot in the video based on their answer.</li>
+<li><strong>Drag and drop questions</strong><br>
+Learners to select a word, phrase, or image to match with and &quot;drop&quot; on a corresponding place you, the creator, have selected on the screen prior.</li>
+<li><strong>Drag Text</strong><br>
+Create a list of questions and/or statements with missing information viewers must select, drag, and drop the correct answer to.</li>
+<li><strong>Fill in the blank questions</strong><br>
+Write sentences leaving an empty word or phrase students must complete.</li>
+<li><strong>Images</strong><br>
+Use a compelling or relevant image to complement slide information.</li>
+<li><strong>Free text</strong><br>
+A free form written response tool. One use is as a tool for student&apos;s to author summaries,</li>
+<li><strong>Labels</strong><br>
+Add a label to quickly clarify, associate, or highlight content for a viewer.</li>
+<li><strong>Links</strong><br>
+Add a relevant link to another page for students to check out.</li>
+<li><strong>Mark the Words</strong><br>
+If you want your viewer to notice specific vocabulary and/or grammar elements (ex. verbs, nouns), this tool is designed to test that knowledge via word sets.</li>
+<li><strong>Multiple choice questions</strong><br>
+Write a question with several answer choices, amongst which one or more are correct.</li>
+<li><strong>Navigation Hotspot</strong><br>
+Enter a time spot in the video or URL to which the viewer will go if they click.</li>
+<li><strong>Questionnaire</strong><br>
+Author open ended or multiple choice questions to survey viewer knowlege or opinions.</li>
+<li><strong>Single choice questions</strong><br>
+Write a question with several answer choices, amongst which only one is correct.</li>
+<li><strong>Statements</strong><br>
+Author sets of two or more statements from which the learner selects the correct one.</li>
+<li><strong>Summary Statements</strong><br>
+An End-of-Video task designed to both help your viewers synthesize information. Free Text tool can also be used to create more open-ended End-of-Video tasks.</li>
+<li><strong>Tables</strong><br>
+Add a table to organize and present complementary or supplementary facts and statistics.</li>
+<li><strong>Text</strong><br>
+Add text to introduce, emphasize, or annotate important content.</li>
+<li><strong>True/False</strong><br>
+Create a True/False statement the viewer must respond to.</li>
+</ul>
+<h1 id="h-3-first-steps-to-add-interactions" class="toc-header"><a class="toc-anchor" href="videointeractions#h-3-first-steps-to-add-interactions">¶</a> 3. First Steps to Add Interactions</h1>
+<p>This section explains the universal first steps to add any interaction to your video. You can find detailed instructions on what to do with each specific interactive element once added, in the section devoted to that topic below.</p>
+<ol>
+<li><a href="createlesson" class="is-internal-link is-valid-page">Open your lesson</a>.
+<ul>
+<li>If you need to learn how, click the above link.</li>
+</ul>
+</li>
+<li>Now you have two options:
+<ul>
+<li><a href="../e/en/interactivevideo" class="is-system-link">Add a new video</a>.
+<ul>
+<li>If you need to learn how, click the above link.</li>
+</ul>
+</li>
+<li>Edit an existing video. Click the green pencil icon above your video to open the  edit screen. Example:</li>
+</ul>
+</li>
+</ol>
+<p><img src="../pencil_half.png" alt="pencil_half.png" height="250"></p>
+<ol>
+<li>Click on the “Step 2: Add Interactions” tab.</li>
+</ol>
+<p><img src="../add_interactions.png" alt="add_interactions.png"><br>
+3. Move the slider below the video to the moment you want the interaction to appear.<br>
+4. In the &quot;Interactions Toolbar,&quot; click on the interactive element you want to add.</p>
+<p><img src="../interactions_toolbar.png" alt="interactions_toolbar.png"></p>
+<ol start="5">
+<li>You can make the video pause when it reaches your interaction by selecting &quot;Pause Video.&quot; The video will then pause &amp; not continue until your student engages with the interaction.</li>
+<li>Write in the &quot;End Time&quot; under the &quot;Display Time&quot; markers. This will determine the moment your interaction dissapears from the video screen.</li>
+</ol>
+<ul>
+<li>(Note: The &quot;Start Time&quot; marker will already be set based on where you placed the slider in Step 4).</li>
+</ul>
+<ol start="7">
+<li>Complete the steps required by the specific interactive element you have added. For detailed instructions how, find your interaction below.</li>
+</ol>
+<h1 id="h-4-instructions-for-specific-interactions" class="toc-header"><a class="toc-anchor" href="videointeractions#h-4-instructions-for-specific-interactions">¶</a> 4. Instructions for Specific Interactions</h1>
+<h2 id="crossroads" class="toc-header"><a class="toc-anchor" href="videointeractions#crossroads">¶</a> Crossroads</h2>
+<p><img src="../(interaction)_crossroads.png" alt="(interaction)_crossroads.png" height="40"></p>
+<ol>
+<li>Add the Crossroads interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li><strong>You can author one or more &quot;choice(s)&quot; for your viewer to select from. Each choice, when selected by your viewer will automatically take your viewer to a moment in the video you have chosen</strong></li>
+<li>In the &quot;Go to&quot; field, enter the exact time the viewer will be taken to in the video if they select that &quot;choice&quot;
+<ul>
+<li><em>Note:</em> Enter the time using a Minutes-to-Seconds &quot;M:SS&quot; format</li>
+</ul>
+</li>
+<li>To add more choices, select &quot;Add Choice&quot;</li>
+<li>When finished, click the blue &apos;Done&apos; button in the top right</li>
+</ol>
+<h2 id="drag-drop" class="toc-header"><a class="toc-anchor" href="videointeractions#drag-drop">¶</a> Drag &amp; Drop</h2>
+<p><img src="../drag_and_drop_button.png" alt="drag_and_drop_button.png" height="50"></p>
+<ol>
+<li>Add the Drag &amp; Drop interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>Give a your Drag &amp; Drop a title.</li>
+<li>If you want to include an image in the background of your Drag &amp; Drop task, click on the gray box with the plus sign in the &quot;Step 1: Settings&quot; tab to upload</li>
+<li>Click on the &quot;Step 2: Task.&quot; To create your Drag &amp; Drop task you must:
+<ul>
+<li>Place your &quot;Drop Zones&quot;: To do this, click on the &quot;Add Drop Zone&quot; icon in the upper left then drag and drop it on your desired location</li>
+<li>Now, place your &quot;droppable elements.&quot; To do this, select the text or image icon then drag and drop it.</li>
+<li>After you place a droppable element, the &quot;Step 1: Settings&quot; Task tab opens. Here you need to &quot;Select drop zone.&quot; If the the element you dropped was &quot;text,&quot; write the corresponding text here too.</li>
+</ul>
+</li>
+<li>When finished, click the blue &apos;Done&apos; button in the top right</li>
+</ol>
+<h2 id="drag-text" class="toc-header"><a class="toc-anchor" href="videointeractions#drag-text">¶</a> Drag Text</h2>
+<p><img src="../drag_text.png" alt="drag_text.png"></p>
+<ol>
+<li>Add the Drag Text interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>“Label” the interaction. The label you add will be the word that appears on the screen when your video reaches the moment you selected the interaction to appear.</li>
+<li>Add a title by typing over &quot;Untitled Drag Text&quot;</li>
+<li>You are now ready to author your &quot;Drag Text&quot; questions. As indicated in the yellow &quot;Important Information&quot; box in the H5P Drag Text tool:
+<ul>
+<li>Put an asterix in front of &quot;Droppable words&quot; (i.e. the words students have to drop and match with the question or statement you write):<br>
+<img src="../drag_text_important_information.png" alt="drag_text_important_information.png"><br>
+##Free Text</li>
+</ul>
+</li>
+</ol>
+<ul>
+<li>See example at the very bottom of this page</li>
+</ul>
+<h2 id="fill-in-the-blank" class="toc-header"><a class="toc-anchor" href="videointeractions#fill-in-the-blank">¶</a> Fill in the Blank</h2>
+<p><img src="../fill_in_the_blanks_button.png" alt="fill_in_the_blanks_button.png"></p>
+<ol>
+<li>Add the Fill in the Blank interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>“Label” the interaction. The label you add will be the word that appears on the screen when your video reaches the moment you selected the interaction to appear.</li>
+<li>Change the description or add instructions for your activity in the &quot;Task Description&quot; field</li>
+<li>You are now ready to write the actual Fill-in-the-Blank questions. Here is how:
+<ul>
+<li>Under the blue &quot;Line of text&quot; heading, write your statement in the white text field</li>
+<li>You may see an example in that white text field, &quot;Oslo is the capital of *<em><em>Norway</em>/</em>&quot;. Follow this example. Type your sentence, but place * astericks * on either side of the word where you want a &quot;blank&quot; to appear.</li>
+<li>If there is more than one possible answer, you can simple place a forward slash (/) between the words</li>
+</ul>
+</li>
+<li>To add more than one Fill-in-the-Blank statement, simply click &quot;Add Text Block&quot;</li>
+<li>When finished, click the blue “Done” button in the upper right</li>
+</ol>
+<h2 id="image" class="toc-header"><a class="toc-anchor" href="videointeractions#image">¶</a> Image</h2>
+<p><img src="../add_image_button.png" alt="add_image_button.png"></p>
+<ol>
+<li>Add the Image interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>Give a your Drag &amp; Drop a title.</li>
+<li>Click the gray box with the plus sign inside to add your image</li>
+<li>Select whether to embed your image using a link or to upload it</li>
+<li>Lastly, in the &quot;Alternative Text&quot; field, write what you would like to be displayed on the slide screen if for some reason the image does not upload</li>
+<li>When finished, click the blue &apos;Done&apos; button in the top right</li>
+</ol>
+<h2 id="label" class="toc-header"><a class="toc-anchor" href="videointeractions#label">¶</a> Label</h2>
+<p><img src="../(interaction)_label.png" alt="(interaction)_label.png" height="50"></p>
+<ol>
+<li>Add the Label interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>Give a your Drag &amp; Drop a title.</li>
+<li>In the blank &quot;label&quot; field, write and format the text you want to appear in your label</li>
+<li>To save your work and exit select the blue done button</li>
+</ol>
+<h2 id="links" class="toc-header"><a class="toc-anchor" href="videointeractions#links">¶</a> Links</h2>
+<p><img src="../hyperlink_button.png" alt="hyperlink_button.png" height="50"></p>
+<ol>
+<li>Add the Link interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>Give a your Drag &amp; Drop a title.</li>
+<li>Add a Title by typing in the Title field. The title you enter will appear on the screen when your video reaches the moment you selected the interaction to appear</li>
+<li>When finished, click the blue &apos;Done&apos; button in the top right</li>
+</ol>
+<h2 id="multiple-choice-set" class="toc-header"><a class="toc-anchor" href="videointeractions#multiple-choice-set">¶</a> Multiple Choice Set</h2>
+<p><img src="../multiple_choice_button.png" alt="multiple_choice_button.png" height="50"></p>
+<ol>
+<li>
+<p>Add the Multiple Choice Set interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</p>
+</li>
+<li>
+<p>“Label” the interaction. The label you add will be the word that appears on the screen when your video reaches the moment you selected the interaction to appear</p>
+</li>
+<li>
+<p>Enter the question &amp; then your “alternatives” (answers), being sure to enter the correct response first</p>
+</li>
+<li>
+<p>When finished, click the blue &apos;Done&apos; button in the top right</p>
+</li>
+</ol>
+<h2 id="navigation-hotspot" class="toc-header"><a class="toc-anchor" href="videointeractions#navigation-hotspot">¶</a> Navigation Hotspot</h2>
+<p><img src="../(interaction)_navigation_hotspot.png" alt="(interaction)_navigation_hotspot.png" height="50"></p>
+<ol>
+<li>Add the Navigation Hotspot interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>When finished, select the &quot;Type&quot; of destination for your hotspot, either:
+<ul>
+<li>Timecode (which means a selected moment in the video)</li>
+<li>Another Page (URL)</li>
+</ul>
+</li>
+<li>If you select Timecode, enter the time the Navigation Hotspot will take the viewer to in your video</li>
+<li>If you select Another Page (URL) for the destination, copy and paste the URL</li>
+<li>Under &quot;Visuals,&quot; choose how the hotspot will appear (shape and background color) on your video content</li>
+<li><strong>Add a brief desctiption of the hotspot&apos;s topic in the &quot;Alternative Text&quot; field and add a label if you want</strong></li>
+<li>When finished, click the blue &apos;Done&apos; button in the top right</li>
+</ol>
+<h2 id="questionnaire" class="toc-header"><a class="toc-anchor" href="videointeractions#questionnaire">¶</a> Questionnaire</h2>
+<p><img src="../questionnaire.png" alt="questionnaire.png"></p>
+<ol>
+<li>Add the Questionnaire interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>Click on the vertical elipses on the right of the interactions menu bar. A new menu will drop down with two items. Select the item on top, &quot;Questionnaire.&quot;</li>
+<li>Write a label for your interaction if you want text to appear with the visual icon appearing on your video ocntent</li>
+<li>Add a title by typing over &quot;Untitled Questionnaire&quot;</li>
+<li>Now, you have two options for question types:
+<ul>
+<li>Open Ended Questions</li>
+<li>Simple Multiple Choice</li>
+</ul>
+</li>
+<li>These choices are in the drop-down menu labeled &quot;Library&quot; under the &quot;Questionnaire Elements&quot; heading</li>
+<li>If you choose Open Ended Questions:
+<ul>
+<li>Title the quesiton by typing over &quot;Untitled Open Ended Question&quot;</li>
+<li>Author the question or description/statement you want to appear in the questionnaire</li>
+</ul>
+</li>
+<li>If you choose Simple Multiple Choice Questions:
+<ul>
+<li>Title the quesiton by typing over &quot;Simple Multiple Choice Question&quot;</li>
+</ul>
+</li>
+</ol>
+<ul>
+<li>Write the question
+<ul>
+<li>Select whether you want there to be a single answer choice or multiple answer choices that are correct</li>
+<li>Enter your alternatives (answer choices). To add more alternatives, select &quot;Add Alternative&quot;</li>
+</ul>
+</li>
+</ul>
+<ol start="9">
+<li>You can combine both &quot;Open Ended Quesiton&quot; and &quot;Simple Multiple Choice&quot; question types in your Questionnaire. To do so, select the blue &quot;Add Element&quot; button.</li>
+</ol>
+<h2 id="single-choice-set" class="toc-header"><a class="toc-anchor" href="videointeractions#single-choice-set">¶</a> Single Choice Set</h2>
+<p><img src="../single_choice_set.png" alt="single_choice_set.png"></p>
+<ol>
+<li>Add the Single Choice Set interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>“Label” the interaction. The label you add will be the word that appears on the screen when your video reaches the moment you selected the interaction to appear</li>
+<li>Enter the question &amp; then your “alternatives” (answers), being sure to enter the correct response first</li>
+<li>When finished, click the blue &apos;Done&apos; button in the top right</li>
+</ol>
+<h2 id="table" class="toc-header"><a class="toc-anchor" href="videointeractions#table">¶</a> Table</h2>
+<p><img src="../(interaction)_table.png" alt="(interaction)_table.png" height="40"></p>
+<ol>
+<li>Add the Table interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>“Label” the interaction. The label you add will be the word that appears on the screen when your video reaches the moment you selected the interaction to appear</li>
+<li>Now, add the “Text” you would like included in the interaction</li>
+<li>When finished, click the blue &apos;Done&apos; button in the top right</li>
+</ol>
+<h2 id="text" class="toc-header"><a class="toc-anchor" href="videointeractions#text">¶</a> Text</h2>
+<p><img src="../add_text_button.png" alt="add_text_button.png"></p>
+<ol>
+<li>Add the Text interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>“Label” the interaction. The label you add will be the word that appears on the screen when your video reaches the moment you selected the interaction to appear</li>
+<li>Now, add the “Text” you would like included in the interaction</li>
+<li>When finished, click the blue &apos;Done&apos; button in the top right</li>
+</ol>
+<h2 id="truefalse" class="toc-header"><a class="toc-anchor" href="videointeractions#truefalse">¶</a> True/False</h2>
+<p><img src="../truefalse.png" alt="truefalse.png" height="50"></p>
+<ol>
+<li>Add the Drag &amp; Drop interaction to your video. If you don&apos;t know how, review the &quot;First Steps to Add Any Interactive Element&quot; section above.</li>
+<li>“Label” the interaction. The label you add will be the word that appears on the screen when your video reaches the moment you selected the interaction to appear</li>
+<li>Enter the question &amp; then select whether the answer is true or false</li>
+<li>When finished, click the blue &apos;Done&apos; button in the top right</li>
+</ol>
+<h1 id="post-viewing-video-summary-task" class="toc-header"><a class="toc-anchor" href="videointeractions#post-viewing-video-summary-task">¶</a> Post-viewing: Video &quot;Summary Task&quot;</h1>
+<p>Interactive video has a built-in <a href="https://h5p.org/summary" class="is-external-link">Summary Task</a> to add at the end of the video.  You can also use the &quot;Free &quot;Text&quot; tool for a Summary Based Task instead. Check out both options below.</p>
+<ul>
+<li><big><strong>Post-Viewing: Video &quot;Summary Task&quot;</strong></big><br>
+Your learners engage with a set of statements to identify the correct one, which can generate reflection and discussion but also constructs a &quot;summary&quot; as learners select their answers one by one.</li>
+</ul>
+<p><img src="../summary_task.png" alt="summary_task.png"></p>
+<p><img src="../trad_sum.png" alt="trad_sum.png" height="500" class="align-right"></p>
+<ol>
+<li>Navigate to the “Step 3: Summary Task” tab in the Interactive Video editor.</li>
+<li>Enter the “Introduction text” to your Summary Task, which will indicate to your viewer the action to take</li>
+<li>Enter your chosen statements about the video, making sure to enter the correct statement first</li>
+<li>Add more statements to a question, as needed, by using the grey “Add Statement” button on the bottom left</li>
+<li>When done entering all statements, click on &quot;Save.&quot;</li>
+</ol>
+<p> </p>
+<p> </p>
+<ul>
+<li><big><strong>Alternative Option:</strong> &quot;Free Text&quot; Tool</big><br>
+You can also have learners create a summary independently rather than build a summary through the &quot;Summary Statements&quot; tool.</li>
+</ul>
+<p><img src="../example_free_text_quesiton.png" alt="example_free_text_quesiton.png" height="600"><br>
+ </p>
+<ol>
+<li>To <strong>create a Free Text question</strong>, select &quot;Free Text&quot; in the intreractions menu. We&apos;ve embedded an example as you have to <strong>open a small drop down menu first</strong>,</li>
+</ol>
+<p><img src="../open_free_text_tool.png" alt="open_free_text_tool.png" height="400" class="align-right"></p>
+<ol>
+<li>Set the slider below the video to the moment you want the Free Text tool to appear.<br>
+ </li>
+<li>In the Free Text Edit Screen, give the Free Text question a title.<br>
+ </li>
+<li>In the &quot;Display Time&quot; settings, add a defined end time.</li>
+</ol>
+<p><em>Note:</em> The Start Time is already set based on where you set the slider in Step One.</p>
+<ol start="4">
+<li>Write the question or prompt for your activity.</li>
+<li>The &quot;Label&quot; is the icon that appears on-screen when the video reaches the moment of interaction. It&apos;s hepful to the viewer to:
+<ul>
+<li>Write a brief title (&quot;Your Summary&quot;) or instruction here (Ex. &quot;Open Me!&quot;) to accompany the label.</li>
+</ul>
+</li>
+<li>Write the prompt or question for your Free Text activity in the &quot;Question&quot; field.</li>
+<li>Click on the blue &quot;Done&quot; button to save and exit.</li>
+</ol>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

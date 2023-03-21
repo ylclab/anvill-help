@@ -1,0 +1,175 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Voiceboard for Students | ANVILL Help</title><meta name="description" content="Learn what a Voiceboard is &amp; how to respond to them"><meta property="og:title" content="Voiceboard for Students"><meta property="og:type" content="website"><meta property="og:description" content="Learn what a Voiceboard is &amp; how to respond to them"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/voiceboardforstudents"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="voiceboardforstudents" title="Voiceboard for Students" description="Learn what a Voiceboard is &amp; how to respond to them" :tags="[{&quot;tag&quot;:&quot;voiceboard&quot;,&quot;title&quot;:&quot;voiceboard&quot;},{&quot;tag&quot;:&quot;student&quot;,&quot;title&quot;:&quot;student&quot;},{&quot;tag&quot;:&quot;respond to voiceboard&quot;,&quot;title&quot;:&quot;respond to voiceboard&quot;},{&quot;tag&quot;:&quot;student voiceboard&quot;,&quot;title&quot;:&quot;student voiceboard&quot;},{&quot;tag&quot;:&quot;voiceboard message&quot;,&quot;title&quot;:&quot;voiceboard message&quot;},{&quot;tag&quot;:&quot;how to answer voiceboard&quot;,&quot;title&quot;:&quot;how to answer voiceboard&quot;},{&quot;tag&quot;:&quot;voiceboard audio&quot;,&quot;title&quot;:&quot;voiceboard audio&quot;},{&quot;tag&quot;:&quot;voiceboard video&quot;,&quot;title&quot;:&quot;voiceboard video&quot;},{&quot;tag&quot;:&quot;what is voiceboard&quot;,&quot;title&quot;:&quot;what is voiceboard&quot;},{&quot;tag&quot;:&quot;anvill voiceboard&quot;,&quot;title&quot;:&quot;anvill voiceboard&quot;},{&quot;tag&quot;:&quot;record voiceboard message&quot;,&quot;title&quot;:&quot;record voiceboard message&quot;},{&quot;tag&quot;:&quot;comment on voiceboard&quot;,&quot;title&quot;:&quot;comment on voiceboard&quot;},{&quot;tag&quot;:&quot;add a comment&quot;,&quot;title&quot;:&quot;add a comment&quot;},{&quot;tag&quot;:&quot;leave a message&quot;,&quot;title&quot;:&quot;leave a message&quot;},{&quot;tag&quot;:&quot;respond&quot;,&quot;title&quot;:&quot;respond&quot;}]" created-at="2020-05-31T20:48:47.024Z" updated-at="2021-01-07T02:55:15.350Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJWb2ljZWJvYXJkIGZvciBTdHVkZW50cyIsImFuY2hvciI6IiN2b2ljZWJvYXJkLWZvci1zdHVkZW50cyIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IkNvbnRlbnRzIiwiYW5jaG9yIjoiI2NvbnRlbnRzIiwiY2hpbGRyZW4iOltdfV19LHsidGl0bGUiOiIxLiBPdmVydmlldyIsImFuY2hvciI6IiNoLTEtb3ZlcnZpZXciLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIyLiBGaW5kIFRlYWNoZXIncyBWb2ljZWJvYXJkIFBvc3QiLCJhbmNob3IiOiIjaC0yLWZpbmQtdGVhY2hlcnMtdm9pY2Vib2FyZC1wb3N0IiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiMy4gUmVzcG9uZCB0byBUZWFjaGVyJ3MgVm9pY2Vib2FyZCBQb3N0IiwiYW5jaG9yIjoiI2gtMy1yZXNwb25kLXRvLXRlYWNoZXJzLXZvaWNlYm9hcmQtcG9zdCIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjQuIENvbW1lbnQgb24gQ2xhc3NtYXRlJ3MgVm9pY2Vib2FyZCBSZXNwb25zZSIsImFuY2hvciI6IiNoLTQtY29tbWVudC1vbi1jbGFzc21hdGVzLXZvaWNlYm9hcmQtcmVzcG9uc2UiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiI1LiBBZGQgVmlkZW8gb3IgQXVkaW8gdG8gWW91ciBSZXNwb25zZSIsImFuY2hvciI6IiNoLTUtYWRkLXZpZGVvLW9yLWF1ZGlvLXRvLXlvdXItcmVzcG9uc2UiLCJjaGlsZHJlbiI6W3sidGl0bGUiOiI1LjEgRW1iZWQgYSBVUkwgKFZpZGVvIE9ubHkpIiwiYW5jaG9yIjoiI2gtNTEtZW1iZWQtYS11cmwtdmlkZW8tb25seSIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjUuMiBVcGxvYWQgRmlsZSIsImFuY2hvciI6IiNoLTUyLXVwbG9hZC1maWxlIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiNS4zIFJlY29yZCBpbiBBTlZJTEwiLCJhbmNob3IiOiIjaC01My1yZWNvcmQtaW4tYW52aWxsIiwiY2hpbGRyZW4iOltdfV19LHsidGl0bGUiOiJTY3JlZW5jYXN0IEluc3RydWN0aW9ucyIsImFuY2hvciI6IiNzY3JlZW5jYXN0LWluc3RydWN0aW9ucyIsImNoaWxkcmVuIjpbXX1d" :page-id="34" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/voiceboardforstudents.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;"> Information on this page applies to both the ANVILL desktop version and upcoming 2021 mobile app. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="voiceboard-for-students" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#voiceboard-for-students">¶</a> <big>Voiceboard for Students</big></h1>
+<h2 id="contents" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#contents">¶</a> Contents</h2>
+<p>Click on any link below to go directly to that topic.</p>
+<ol>
+<li><a href="voiceboardforstudents#h-1-overview" class="is-internal-link is-valid-page">Overview</a></li>
+<li><a href="voiceboardforstudents#h-2-find-teachers-voiceboard-post" class="is-internal-link is-valid-page">Find Teacher&apos;s Voiceboard Post</a></li>
+<li><a href="voiceboardforstudents#h-3-respond-to-teachers-voiceboard-post" class="is-internal-link is-valid-page">Comment on Teacher&apos;s Voiceboard Post</a></li>
+<li><a href="voiceboardforstudents#h-4-comment-on-classmates-voiceboard-response" class="is-internal-link is-valid-page">Comment on Classmate&apos;s Voiceboard Response</a></li>
+<li><a href="voiceboardforstudents#h-5-add-video-or-audio-to-your-response" class="is-internal-link is-valid-page">Add Audio or Video to Your Response</a><br>
+3.1 <a href="voiceboardforstudents#h-51-embed-a-url-video-only" class="is-internal-link is-valid-page">Embed URL</a> (Video only)<br>
+3.2 <a href="voiceboardforstudents#h-52-upload-file" class="is-internal-link is-valid-page">Upload Audio </a><br>
+3.3 <a href="voiceboardforstudents#h-53-record-in-anvill" class="is-internal-link is-valid-page">Record Audio or Video Message in ANVILL</a></li>
+<li>Screencast Instructions</li>
+</ol>
+<h1 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#h-1-overview">¶</a> 1. Overview</h1>
+<p>Your instructor has posted a Voiceboard activity as part of your out-of-class work to better prepare you for what you’ll be asked to do in-class (and in real life): demonstrate your understanding of “authentic” language and respond to it accurately and appropriately.</p>
+<p>It&apos;s important you review and understand your Teacher&apos;s instructions on how to respond to their Voiceboard Post. There are many options in Voiceboard and you need to know which to use. You may be asked to respond to the instructor only, comment on classmate responses, and/or include video, audio, or a written message.</p>
+<h1 id="h-2-find-teachers-voiceboard-post" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#h-2-find-teachers-voiceboard-post">¶</a> 2. Find Teacher&apos;s Voiceboard Post</h1>
+<p><img src="../screen_shot_2020-07-12_at_8.46.20_pm.png" alt="screen_shot_2020-07-12_at_8.46.20_pm.png" height="75"><br>
+<big><strong>Voiceboard Icon</strong></big></p>
+<ol>
+<li>Open your teacher&apos;s ANVILL Lesson. <a href="students/openlesson" class="is-internal-link is-valid-page">(Click here to learn how)</a></li>
+<li>In the Lesson, look for a post with a Voiceboard Icon in the top left.</li>
+</ol>
+<p>For a visual reference, examples of two Voiceboard posts:</p>
+<p><img src="../student_vb_response_example.png" alt="student_vb_response_example.png" height="600"></p>
+<h1 id="h-3-respond-to-teachers-voiceboard-post" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#h-3-respond-to-teachers-voiceboard-post">¶</a> 3. Respond to Teacher&apos;s Voiceboard Post</h1>
+<ol>
+<li><strong>Review</strong> all content and instructions in your teacher&apos;s <strong>Voiceboard Post</strong>.</li>
+<li>When  ready <strong>to respond, click on &quot;+ Add Message:&quot;</strong></li>
+</ol>
+<p><img src="../add_message.png" alt="add_message.png" height="50"></p>
+<ol start="3">
+<li>A window to <strong>&quot;Create a New Message&quot;</strong> will open.<br>
+<em>Hint: Before creating your Voiceboard response, it&apos;s a good idea to plan your response and what you want to say.</em></li>
+<li><strong>Create your Voiceboard response</strong>. Depending on your teacher&apos;s instructions, this may be a written, audio, and/or video message<br>
+- <a href="voiceboardforstudents#h-5-add-video-or-audio-to-your-response" class="is-internal-link is-valid-page">(Click here to learn how to Add Audio or Video)</a></li>
+<li><strong>Review</strong> your Voiceboard Response. <strong>Edit</strong> if needed.</li>
+<li><strong>When ready, click on &quot;Send Message&quot; to post your Voiceboard response</strong>.</li>
+<li>Wait for your name appear under &quot;+ Add Message&quot; to confirm your message has posted.</li>
+</ol>
+<p><img src="../success_posts.png" alt="success_posts.png" height="150"></p>
+<p><a href="students/voiceboard/edit" class="is-internal-link is-valid-page">Need to edit a Voiceboard after posting? Click here to learn how</a>.</p>
+<h1 id="h-4-comment-on-classmates-voiceboard-response" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#h-4-comment-on-classmates-voiceboard-response">¶</a> 4. Comment on Classmate&apos;s Voiceboard Response</h1>
+<ol>
+<li>Locate the &quot;+ Add Message&quot; icon in a Voiceboard Post.</li>
+<li>Below the &quot;+ Add Message&quot; icon is a list of names. They are the names of people who have responded.</li>
+<li>Click on a name to open that classmate&apos;s response.</li>
+<li>To comment on your classmate&apos;s Voiceboard response, click on the plus sign.</li>
+<li>Write and/or <a href="voiceboardforstudents#h-5-add-video-or-audio-to-your-response" class="is-internal-link is-valid-page">add an audio or video response</a>. You can also add an image.</li>
+<li>When satisfied with your message, click on &quot;Send Message.&quot;</li>
+</ol>
+<h1 id="h-5-add-video-or-audio-to-your-response" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#h-5-add-video-or-audio-to-your-response">¶</a> 5. Add Video or Audio to Your Response</h1>
+<p>There are three ways to add audio or video to a Voiceboard response:</p>
+<ul>
+<li><a href="voiceboardforstudents#h-51-embed-a-url-video-only" class="is-internal-link is-valid-page">Embed URL</a> (video only) from Vimeo or YouTube</li>
+<li><a href="voiceboardforstudents#h-52-upload-file" class="is-internal-link is-valid-page">Upload</a> from a computer or phone</li>
+<li><a href="voiceboardforstudents#h-53-record-in-anvill" class="is-internal-link is-valid-page">Record in ANVILL</a> from a computer or phone with ANVILL&apos;s built-in recorder</li>
+</ul>
+<p>Click any link above to go directly to the section on how to upload, embed, or record.</p>
+<p><img src="../create_vb_response_student.png" alt="create_vb_response_student.png" height="300"><br>
+ </p>
+<h2 id="h-51-embed-a-url-video-only" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#h-51-embed-a-url-video-only">¶</a> 5.1 Embed a URL (Video Only)</h2>
+<ol>
+<li>
+<p>Click on &quot;+ Add Message&quot; in the Voiceboard post.</p>
+</li>
+<li>
+<p>Click on the &quot;Embed Video/URL&quot; icon in the &quot;Create a New Message window.&quot;<br>
+<img src="../embed_video.png" alt="embed_video.png"></p>
+</li>
+<li>
+<p>Copy &amp; paste link from YouTube or Vimeo.</p>
+</li>
+<li>
+<p>Click the green &quot;Save&quot; button.</p>
+</li>
+<li>
+<p>Type over &quot;Add a message&quot; to include a written comment.<br>
+ <br>
+<img src="../caption_&amp;_comment.png" alt="caption_&amp;_comment.png" height="200"></p>
+</li>
+<li>
+<p>When you are ready to post your response, click on &quot;Send Message.&quot;</p>
+</li>
+<li>
+<p>Wait for your name appear under &quot;+ Add Message&quot; to confirm your message has posted.<br>
+<img src="../success_posts.png" alt="success_posts.png" height="150"></p>
+</li>
+<li>
+<p>If you need to make any changes after posting:</p>
+<ul>
+<li><a href="students/voiceboard/edit" class="is-internal-link is-valid-page">Click here to edit or delete a posted Voiceboard</a>.</li>
+</ul>
+</li>
+</ol>
+<h2 id="h-52-upload-file" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#h-52-upload-file">¶</a> 5.2 Upload File</h2>
+<ol>
+<li>Click on &quot;+ Add Message&quot; in the Voiceboard Post.</li>
+<li>Click on the &quot;Upload File&quot; icon in the &quot;Create a New Message&quot; window.<br>
+<img src="../upload_file.png" alt="upload_file.png"></li>
+<li>Drag or select the file you want to upload from your computer or phone.</li>
+<li>Wait a moment for your file to upload.</li>
+<li>Type over &quot;Add a message&quot; to include a written comment.<br>
+ <br>
+<img src="../caption_&amp;_comment.png" alt="caption_&amp;_comment.png" height="200"></li>
+<li>When ready to post, click on &quot;Send Message.&quot;</li>
+<li>Wait for your name appear under &quot;+ Add Message&quot; to confirm your message has posted.<br>
+<img src="../success_posts.png" alt="success_posts.png" height="150"></li>
+<li>If you need to make any changes after posting:
+<ul>
+<li><a href="students/voiceboard/edit" class="is-internal-link is-valid-page">Click here to edit or delete a posted Voiceboard</a>.</li>
+</ul>
+</li>
+</ol>
+<h2 id="h-53-record-in-anvill" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#h-53-record-in-anvill">¶</a> 5.3 Record in ANVILL</h2>
+<ol>
+<li>
+<p>Click on &quot;+ Add Message&quot; in the Voiceboard activity.</p>
+</li>
+<li>
+<p>When the &quot;Create a new message&quot; window opens, click on the &quot;Record&quot; icon.<br>
+<img src="../screen_shot_2020-06-05_at_8.04.14_pm.png" alt="screen_shot_2020-06-05_at_8.04.14_pm.png" height="65"></p>
+</li>
+<li>
+<p>When ready to record, click &quot;Begin recording&quot;. Make sure you can see your level (in the volume).</p>
+<ul>
+<li>Note: to record audio instead of video, click on the camera icon in the top right.<br>
+<img src="../switch_audio_&amp;_video_recording.png" alt="switch_audio_&amp;_video_recording.png" height="350"></li>
+</ul>
+</li>
+<li>
+<p>Click &quot;Done&quot; when finished recording.</p>
+</li>
+<li>
+<p>Listen to your message.</p>
+<ul>
+<li>If you are happy with the message, click &quot;Looks Good&quot;.</li>
+<li>If you want to rerecord the message, click &quot;Try Again&quot;.</li>
+</ul>
+</li>
+<li>
+<p>When you are ready to post your response, click on &quot;Send Message.&quot;<br>
+<img src="../caption_&amp;_comment.png" alt="caption_&amp;_comment.png" height="200"></p>
+</li>
+<li>
+<p>Wait for your name appear under &quot;+ Add Message&quot; to confirm your message has posted.<br>
+<img src="../success_posts.png" alt="success_posts.png" height="150"></p>
+</li>
+<li>
+<p>If you need to make any changes after posting:</p>
+<ul>
+<li><a href="students/voiceboard/edit" class="is-internal-link is-valid-page">Click here to edit or delete a posted Voiceboard</a>.</li>
+</ul>
+</li>
+</ol>
+<h1 id="screencast-instructions" class="toc-header"><a class="toc-anchor" href="voiceboardforstudents#screencast-instructions">¶</a> Screencast Instructions</h1>
+<p>Click on the below link to view an:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ia6-UlQ6u0w&amp;list=PL6XRmVqz3rRbCWwifxWRiS7waXnt5k3Xj&amp;index=4" class="is-external-link">Instructional Video on How to Respond to a Voiceboard</a></li>
+</ul>
+<p><img src="../respond_to_voiceboard_screencast_.png" alt="respond_to_voiceboard_screencast_.png"></p>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Add Audio Files | ANVILL Help</title><meta name="description" content="The basics on how to insert audio files in ANVILL based tools"><meta property="og:title" content="Add Audio Files"><meta property="og:type" content="website"><meta property="og:description" content="The basics on how to insert audio files in ANVILL based tools"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/audiofiles"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="audiofiles" title="Add Audio Files" description="The basics on how to insert audio files in ANVILL based tools" :tags="[{&quot;tag&quot;:&quot;multimedia&quot;,&quot;title&quot;:&quot;multimedia&quot;},{&quot;tag&quot;:&quot;audio&quot;,&quot;title&quot;:&quot;audio&quot;},{&quot;tag&quot;:&quot;add audio&quot;,&quot;title&quot;:&quot;add audio&quot;},{&quot;tag&quot;:&quot;insert audio&quot;,&quot;title&quot;:&quot;insert audio&quot;},{&quot;tag&quot;:&quot;audio files&quot;,&quot;title&quot;:&quot;audio files&quot;},{&quot;tag&quot;:&quot;sound&quot;,&quot;title&quot;:&quot;sound&quot;},{&quot;tag&quot;:&quot;sound files&quot;,&quot;title&quot;:&quot;sound files&quot;},{&quot;tag&quot;:&quot;insert sound&quot;,&quot;title&quot;:&quot;insert sound&quot;},{&quot;tag&quot;:&quot;add sound&quot;,&quot;title&quot;:&quot;add sound&quot;},{&quot;tag&quot;:&quot;listen&quot;,&quot;title&quot;:&quot;listen&quot;},{&quot;tag&quot;:&quot;play sound&quot;,&quot;title&quot;:&quot;play sound&quot;}]" created-at="2020-05-05T20:10:35.256Z" updated-at="2020-10-01T03:23:16.164Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJBZGRpbmcgQXVkaW8gRmlsZXMiLCJhbmNob3IiOiIjYWRkaW5nLWF1ZGlvLWZpbGVzIiwiY2hpbGRyZW4iOlt7InRpdGxlIjoiQ29udGVudHMiLCJhbmNob3IiOiIjY29udGVudHMiLCJjaGlsZHJlbiI6W119XX0seyJ0aXRsZSI6IjEuIE92ZXJ2aWV3IiwiYW5jaG9yIjoiI2gtMS1vdmVydmlldyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjIuIEF1ZGlvIEZpbGUgRm9ybWF0cyIsImFuY2hvciI6IiNoLTItYXVkaW8tZmlsZS1mb3JtYXRzIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiMy4gQWRkIEF1ZGlvIHRvIENvdXJzZSBQcmVzZW50YXRpb24iLCJhbmNob3IiOiIjaC0zLWFkZC1hdWRpby10by1jb3Vyc2UtcHJlc2VudGF0aW9uIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiNC4gQWRkIEF1ZGlvIGluIENvbHVtbiBMYXlvdXQiLCJhbmNob3IiOiIjaC00LWFkZC1hdWRpby1pbi1jb2x1bW4tbGF5b3V0IiwiY2hpbGRyZW4iOltdfV0=" :page-id="20" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/audiofiles.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="adding-audio-files" class="toc-header"><a class="toc-anchor" href="audiofiles#adding-audio-files">¶</a> <big>Adding Audio Files</big></h1>
+<h2 id="contents" class="toc-header"><a class="toc-anchor" href="audiofiles#contents">¶</a> Contents</h2>
+<ol>
+<li><a href="audiofiles#h-1-overview" class="is-internal-link is-valid-page">Overview</a></li>
+<li><a href="audiofiles#h-2-audio-file-formats" class="is-internal-link is-valid-page">Audio File Formats</a></li>
+<li><a href="audiofiles#h-3-add-audio-to-course-presentation" class="is-internal-link is-valid-page">Add Audio to Course Presentation</a></li>
+<li><a href="audiofiles#h-4-add-audio-in-column-layout" class="is-internal-link is-valid-page">Add Audio in Column Layout</a></li>
+</ol>
+<h1 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="audiofiles#h-1-overview">¶</a> 1. Overview</h1>
+<p>You can add audio to a variety of ANVILL activities. Examples include:</p>
+<ul>
+<li>Interactive Course Presentation</li>
+<li><a href="column" class="is-internal-link is-valid-page">Column Layout</a></li>
+<li><a href="quiz" class="is-internal-link is-valid-page">Quiz</a></li>
+<li><a href="teachers/voiceboards" class="is-internal-link is-valid-page">Voiceboard</a></li>
+</ul>
+<p>There are <strong><big>Two Ways to Add Audio</big></strong>:<br>
+<big>Option 1:</big> <big><strong>Upload an exisiting audio file</strong></big> from your computer or phone<br>
+<big>Option 2:</big> <big><strong>Record audio</strong></big> using ANVILL&apos;s internal recorder</p>
+<p>Below details how specifically to add audio within an Interactive Course Presentation or using ANVILL&apos;s Column Layout tool.</p>
+<h1 id="h-2-audio-file-formats" class="toc-header"><a class="toc-anchor" href="audiofiles#h-2-audio-file-formats">¶</a> 2. Audio File Formats</h1>
+<p>Upload any standard Audio file format:</p>
+<ul>
+<li><strong>m4a, mp3, oga, ogg, wav, wma</strong></li>
+</ul>
+<h1 id="h-3-add-audio-to-course-presentation" class="toc-header"><a class="toc-anchor" href="audiofiles#h-3-add-audio-to-course-presentation">¶</a> 3. Add Audio to Course Presentation</h1>
+<p><img src="../audio_button.png" alt="audio_button.png"></p>
+<p>Below explains how to add audio to an existing Course Presentation. Navigate here for  <a href="coursepresentation" class="is-internal-link is-valid-page">information on how to <em>create</em> a Course Presentation</a>.</p>
+<ol>
+<li>In your Lesson select the green pencil icon above the Course Presentation to edit.</li>
+<li>Now, in the Course Presentation Editor, navigate to the slide for which you want to add audio.</li>
+<li>Select the audio icon in the menu above your slide. A new screen will open.</li>
+<li>Enter a title for your audio by typing over &quot;Untitled Audio&quot;</li>
+<li>You are ready to add the audio Source File. Click on the gray box with the plus sign. You have two options:
+<ul>
+<li>Record your audio</li>
+<li>Upload your audio from an existing file</li>
+</ul>
+</li>
+<li>When your file has sucessfully uploaded, use the &quot;Player Mode&quot; menu to choose how you want the file to appear on your slide:
+<ul>
+<li>Minimalistic</li>
+<li>Full</li>
+<li>Transparent</li>
+</ul>
+</li>
+<li>When your file has uploaded, use the &quot;Player Mode&quot; menu to choose how the file will appear in your column:</li>
+<li>Activate &quot;Autoplay&quot; if you want your audio file to play automatically when you reach the slide the file is in.</li>
+<li>To save your work and exit, click on the check mark icon in the top right.</li>
+</ol>
+<h1 id="h-4-add-audio-in-column-layout" class="toc-header"><a class="toc-anchor" href="audiofiles#h-4-add-audio-in-column-layout">¶</a> 4. Add Audio in Column Layout</h1>
+<p>The <a href="https://h5p.org/column" class="is-external-link">Column</a> tool allows you to organize information vertically on your lesson page. You can add any a wide variety of content tools in the same column. See our dedicated <a href="../e/en/column" class="is-system-link">Column</a> page for more information.</p>
+</big><ol><big>
+<li>In your Lesson Page, click on the green pencil icon above the column in which you want to add audio. You will now be in the edit screen and able to change and add content.</li>
+<li>Click on the drop-down Content menu and select Audio.</li>
+<li>Enter a title for your audio by typing over &quot;Untitled Audio&quot;</li>
+<li>Click on the gray box with the plus sign. You have two options:
+<ul>
+<li>Record your audio</li>
+<li>Upload your audio from an existing file<br>
+<em>Note:</em> Our system accepts all common audio file formats (m4a, mp3, oga, ogg, wav, wma)</li>
+</ul>
+</li>
+<li>When your file has uploaded, use the &quot;Player Mode&quot; menu to choose how the file will appear in your column:
+<ul>
+<li>Minimalistic</li>
+<li>Full</li>
+<li>Transparent</li>
+</ul>
+</li>
+<li>To add additional audio files or other content types in your column before exiting, select Add Content.</li>
+</big><li><big>To save your work and exit, click on the check mark icon in the top right.</big></li>
+</ol><div>
+</div></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

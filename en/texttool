@@ -1,0 +1,45 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Text Tool | ANVILL Help</title><meta name="description" content="Learn what ANVILL's Text tool can be useful for and how to use it"><meta property="og:title" content="Text Tool"><meta property="og:type" content="website"><meta property="og:description" content="Learn what ANVILL's Text tool can be useful for and how to use it"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/texttool"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="texttool" title="Text Tool" description="Learn what ANVILL's Text tool can be useful for and how to use it" :tags="[{&quot;tag&quot;:&quot;authoring&quot;,&quot;title&quot;:&quot;authoring&quot;},{&quot;tag&quot;:&quot;text tool&quot;,&quot;title&quot;:&quot;text tool&quot;},{&quot;tag&quot;:&quot;word document&quot;,&quot;title&quot;:&quot;word document&quot;},{&quot;tag&quot;:&quot;text&quot;,&quot;title&quot;:&quot;text&quot;},{&quot;tag&quot;:&quot;text document&quot;,&quot;title&quot;:&quot;text document&quot;},{&quot;tag&quot;:&quot;writing&quot;,&quot;title&quot;:&quot;writing&quot;},{&quot;tag&quot;:&quot;written message&quot;,&quot;title&quot;:&quot;written message&quot;},{&quot;tag&quot;:&quot;add written message&quot;,&quot;title&quot;:&quot;add written message&quot;},{&quot;tag&quot;:&quot;written document&quot;,&quot;title&quot;:&quot;written document&quot;},{&quot;tag&quot;:&quot;word processor&quot;,&quot;title&quot;:&quot;word processor&quot;},{&quot;tag&quot;:&quot;google doc&quot;,&quot;title&quot;:&quot;google doc&quot;},{&quot;tag&quot;:&quot;add google doc&quot;,&quot;title&quot;:&quot;add google doc&quot;},{&quot;tag&quot;:&quot;add word document&quot;,&quot;title&quot;:&quot;add word document&quot;}]" created-at="2020-09-08T01:07:47.698Z" updated-at="2020-10-01T03:27:23.391Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJUZXh0IHRvb2wiLCJhbmNob3IiOiIjdGV4dC10b29sIiwiY2hpbGRyZW4iOlt7InRpdGxlIjoiQ29udGVudHMiLCJhbmNob3IiOiIjY29udGVudHMiLCJjaGlsZHJlbiI6W119XX0seyJ0aXRsZSI6IjEuIE92ZXJ2aWV3IiwiYW5jaG9yIjoiI2gtMS1vdmVydmlldyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjIuIEFkZCBUZXh0IHRvIGEgTGVzc29uIiwiYW5jaG9yIjoiI2gtMi1hZGQtdGV4dC10by1hLWxlc3NvbiIsImNoaWxkcmVuIjpbXX1d" :page-id="58" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/texttool.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="text-tool" class="toc-header"><a class="toc-anchor" href="texttool#text-tool">¶</a> <big>Text tool</big></h1><big>
+<h2 id="contents" class="toc-header"><a class="toc-anchor" href="texttool#contents">¶</a> Contents</h2>
+<ol>
+<li><a href="texttool#h-1-overview" class="is-internal-link is-valid-page">Overview</a></li>
+<li><a href="texttool#h-2-add-text-to-a-lesson" class="is-internal-link is-valid-page">Add Text to a Lesson</a></li>
+</ol>
+<h1 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="texttool#h-1-overview">¶</a> 1. Overview</h1>
+<p>ANVILL&apos;s Text tool provides a straightforward way to author and post written content on a lesson. It allows you to include hyperlinks, bulleted lists, and Youtube or Vimeo videos.</p>
+<p>The Text Tool is a great way to:</p>
+<ul>
+<li>Communicate simple, clear messages or instructions on the actual lesson page.</li>
+<li>Compile an easily accessible list of references to your page.</li>
+<li>Add lesson content such as short stories.</li>
+<li>Model a writing activity; add samples.</li>
+<li>Delineate lesson goals</li>
+</ul>
+<p>Example of a Text post in an ANVILL Lesson:<br>
+<img src="../text_sample.png" alt="text_sample.png" height="250"></p>
+<h1 id="h-2-add-text-to-a-lesson" class="toc-header"><a class="toc-anchor" href="texttool#h-2-add-text-to-a-lesson">¶</a> 2. Add Text to a Lesson</h1>
+<ol>
+<li>Open your Lesson.</li>
+<li>Click on &quot;+ Add Content&quot; at the top of your lesson.</li>
+<li>In the Content menu, locate and click on &quot;Text&quot; icon.</li>
+<li>The &quot;Text&quot; Editor will now open in your lesson.</li>
+<li>Give your written Text post a title.</li>
+<li>Author your content in the &quot;Text&quot; box.</li>
+</ol>
+<p><img src="../text_tool.png" alt="text_tool.png" height="300"></p>
+<ol start="7">
+<li>Use the toolbar to add hyperlinks, insert a table or bulleted list, and embed video (you can also copy and paste a Youtube or Vimeo link directly into your content to add video.)</li>
+<li>When ready to publish your content, click on the check mark icon in the top right.</li>
+</ol>
+</big></big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

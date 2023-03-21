@@ -1,0 +1,76 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Share Your Lesson | ANVILL Help</title><meta name="description" content="How to share your lesson and lesson content."><meta property="og:title" content="Share Your Lesson"><meta property="og:type" content="website"><meta property="og:description" content="How to share your lesson and lesson content."><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/sharelesson"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="sharelesson" title="Share Your Lesson" description="How to share your lesson and lesson content." :tags="[{&quot;tag&quot;:&quot;share lesson&quot;,&quot;title&quot;:&quot;share lesson&quot;},{&quot;tag&quot;:&quot;share&quot;,&quot;title&quot;:&quot;share&quot;},{&quot;tag&quot;:&quot;share content&quot;,&quot;title&quot;:&quot;share content&quot;}]" created-at="2020-05-20T21:46:06.871Z" updated-at="2020-10-01T03:30:02.140Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJTaGFyZSBZb3VyIExlc3NvbjogT3ZlcnZpZXciLCJhbmNob3IiOiIjc2hhcmUteW91ci1sZXNzb24tb3ZlcnZpZXciLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJTaGFyZSBZb3VyIExlc3NvbjogUGFnZSBDb250ZW50cyIsImFuY2hvciI6IiNzaGFyZS15b3VyLWxlc3Nvbi1wYWdlLWNvbnRlbnRzIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiMS4gT3BlbiB0aGUgTGVzc29uIFlvdSBXYW50IHRvIFNoYXJlIiwiYW5jaG9yIjoiI2gtMS1vcGVuLXRoZS1sZXNzb24teW91LXdhbnQtdG8tc2hhcmUiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIyLiBTaGFyZSBZb3VyIEFOVklMTCBMZXNzb24iLCJhbmNob3IiOiIjaC0yLXNoYXJlLXlvdXItYW52aWxsLWxlc3NvbiIsImNoaWxkcmVuIjpbXX1d" :page-id="28" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/sharelesson.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="share-your-lesson-overview" class="toc-header"><a class="toc-anchor" href="sharelesson#share-your-lesson-overview">¶</a> Share Your Lesson: Overview</h1>
+<p>Sharing your Lesson is a convenient way to share both:</p>
+<ul>
+<li>A new lesson you&apos;ve created.</li>
+<li>Any new activities you&apos;ve created within an existing lesson.</li>
+</ul>
+</big><p><big>You can share your lesson with anyone who has an ANVILL account by copying and providing a direct link to the lesson page, and/or e-mailing invitations to view the lesson. Read below to learn how.</big></p><div>
+</div><h1 id="share-your-lesson-page-contents" class="toc-header"><a class="toc-anchor" href="sharelesson#share-your-lesson-page-contents">¶</a> <big>Share Your Lesson: Page Contents</big></h1><div>
+</div><p><big><strong>Section 1:</strong><br>
+Open the Lesson You Want to Share</big></p><big>
+</big><p><big><strong>Section 2:</strong><br>
+Share Your ANVILL Lesson</big></p><div>
+</div><h1 id="h-1-open-the-lesson-you-want-to-share" class="toc-header"><a class="toc-anchor" href="sharelesson#h-1-open-the-lesson-you-want-to-share">¶</a> 1. Open the Lesson You Want to Share</h1><div>
+</div><p><big>1. Log in to your ANVILL account.</big></p><big>
+<ul>
+<li><em>Note:</em> <a href="teachers/accountlogin" class="is-internal-link is-valid-page">Open this link to learn how to Log in to ANVILL</a> if you need help.</li>
+</ul>
+<ol start="2">
+<li>
+<p>Once logged in, click or tap on the &quot;hamburger menu&quot;   <img src="../screen_shot_2020-05-17_at_12.38.57_pm.png" alt="screen_shot_2020-05-17_at_12.38.57_pm.png" height="20"> in the top left corner of your screen.</p>
+</li>
+<li>
+<p>Select &apos;Lessons&apos; from the menu that opens.</p>
+</li>
+</ol>
+<p><img src="../lessons_in_menu.png" alt="lessons_in_menu.png" height="150" class="align-left"></p>
+<p> <br>
+ <br>
+ <br>
+ <br>
+ </p>
+<ol start="4">
+<li>You will now be taken to the &quot;Lessons Page&quot; in your ANVILL account. It&apos;s a library of all your lessons.</li>
+<li>Locate the lesson you want to share in the open &quot;Lessons Page,&quot; then click or tap on that lesson&apos;s title.</li>
+</ol>
+<h1 id="h-2-share-your-anvill-lesson" class="toc-header"><a class="toc-anchor" href="sharelesson#h-2-share-your-anvill-lesson">¶</a> 2. Share Your ANVILL Lesson</h1>
+<p><img src="../vertical_ellipses_in_context.png" alt="vertical_ellipses_in_context.png"></p>
+<ol>
+<li>Click on the green circle with the vertical ellipses in the bottom right of your lesson screen:  	<br>
+<img src="../vertical_ellipses_circe_icon.png" alt="vertical_ellipses_circe_icon.png" height="70" class="align-left"><br>
+ <br>
+ </li>
+<li>Select &quot;Share&quot; from the menu that opens. A small window titled &quot;Share this Lesson&quot; will now pop open.</li>
+</ol>
+<p><img src="../urlurl.png" alt="urlurl.png" height="250" class="align-center"></p>
+<ol start="3">
+<li>In the &quot;Share this Lesson&quot; window, select the appropriate choices (e.g. copy the green URL and/or enter e-mail addresses to send invitations).</li>
+</ol>
+<ul>
+<li><em>Note</em>: The URL can be copied and sent to students in an email, pasted into an assignment page (e.g. in Canvas, Moodle, Blackboard, or an existing learning platform to which you have integrated ANVILL), or shared another way you find convenient.</li>
+</ul>
+<ol start="4">
+<li>If you want to send email invitations:</li>
+</ol>
+<ul>
+<li>Enter your destination e-mail addresses. If entering multiple addresses, separate with a comma.</li>
+</ul>
+<p><img src="../separate_by_commas.png" alt="separate_by_commas.png" height="125"></p>
+<ul>
+<li>Click or tap on &quot;Invite.&quot; A list of the e-mail addresses you entered will now appear below.</li>
+<li>Review the email list for accuracy.</li>
+<li>When ready to send the invitations and exit, click or tap on the check mark icon in the top right to exit.</li>
+</ul>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

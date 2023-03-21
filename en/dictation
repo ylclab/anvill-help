@@ -1,0 +1,142 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Dictation | ANVILL Help</title><meta name="description" content="How to create, use, and maximize  Dictation content"><meta property="og:title" content="Dictation"><meta property="og:type" content="website"><meta property="og:description" content="How to create, use, and maximize  Dictation content"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/dictation"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="dictation" title="Dictation" description="How to create, use, and maximize  Dictation content" :tags="[{&quot;tag&quot;:&quot;audio&quot;,&quot;title&quot;:&quot;audio&quot;},{&quot;tag&quot;:&quot;dication&quot;,&quot;title&quot;:&quot;dication&quot;},{&quot;tag&quot;:&quot;listening&quot;,&quot;title&quot;:&quot;listening&quot;},{&quot;tag&quot;:&quot;listening comprehension&quot;,&quot;title&quot;:&quot;listening comprehension&quot;},{&quot;tag&quot;:&quot;t&quot;,&quot;title&quot;:&quot;t&quot;}]" created-at="2020-05-19T10:22:42.722Z" updated-at="2020-08-26T23:40:36.233Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJEaWN0YXRpb246IE92ZXJ2aWV3IiwiYW5jaG9yIjoiI2RpY3RhdGlvbi1vdmVydmlldyIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IkltcG9ydGFudDogQnJvd3NlciBDb21wYXRpYmlsaXR5IiwiYW5jaG9yIjoiI2ltcG9ydGFudC1icm93c2VyLWNvbXBhdGliaWxpdHkiLCJjaGlsZHJlbiI6W119XX0seyJ0aXRsZSI6IjEuIEFjY2VzcyBcIkRpY3RhdGlvblwiIGluIExlc3NvbiIsImFuY2hvciI6IiNoLTEtYWNjZXNzLWRpY3RhdGlvbi1pbi1sZXNzb24iLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIyLiBDcmVhdGUgRGljdGF0aW9uIEFjdGl2aXR5IENvbnRlbnQiLCJhbmNob3IiOiIjaC0yLWNyZWF0ZS1kaWN0YXRpb24tYWN0aXZpdHktY29udGVudCIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IjIuMSBSZWNvcmQgYW5kIFVwbG9hZCBTb3VuZCBTYW1wbGVzIiwiYW5jaG9yIjoiI2gtMjEtcmVjb3JkLWFuZC11cGxvYWQtc291bmQtc2FtcGxlcyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjIuMiBBZGRpdGlvbmFsIERpY3RhdGlvbiBGZWF0dXJlcyBXb3J0aCBLbm93aW5nIiwiYW5jaG9yIjoiI2gtMjItYWRkaXRpb25hbC1kaWN0YXRpb24tZmVhdHVyZXMtd29ydGgta25vd2luZyIsImNoaWxkcmVuIjpbXX1dfV0=" :page-id="26" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/dictation.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;"><br>
+Information on this page applies to both the (existing) ANVILL Desktop version and the (upcoming) Mobile App (Fall 2020). Any relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="dictation-overview" class="toc-header"><a class="toc-anchor" href="dictation#dictation-overview">¶</a> Dictation: Overview</h1>
+<p><a href="https://h5p.org/dictation" class="is-external-link">Dictation</a> supports focused, intentional listening opportunities. Learners must actively and carefully listen to what is said.  You can  create Dictation activities to require targeted, attentive listening to particular features of spoken language. Sound samples can include single words, phrases, or brief speech samples.</p>
+<p>While Dictation was originally designed for any kind of exercise where the student should transcribe something  spoken, you can easily design a variety of other listening-based exercises.</p>
+<p>Dictation tasks are flexible and also readily combined with other activities.</p>
+<p><big><strong>Some dictation tool ideas to get you started:</strong></big></p>
+<ul>
+<li>
+<p>Discriminate  minimal pair sounds (Ex. sheep/ship; cheep/chip)</p>
+</li>
+<li>
+<p>Respond to spoken interview or comprehension questions</p>
+</li>
+<li>
+<p>Identify how many words heard in a phrase, then compare how many words were actually said &amp; observe why: (e.g any words/sounds that dissapear, blend, etc)</p>
+</li>
+<li>
+<p>Phonetically represent what they hear (Ex. didja v. did you) to practice connected speech</p>
+</li>
+<li>
+<p>Listen for and identify word stress or intonation</p>
+</li>
+<li>
+<p>Complete intentional &quot;gaps&quot; left in a recording with an appropriate/correct word or phrase</p>
+</li>
+<li>
+<p>Use verbal context clues &amp; connectors to reconstruct a story or conversation added in Dictation out of order</p>
+</li>
+<li>
+<p>Flip dication into a production activity: learners make &amp; send recordings to add to a Dictation activity</p>
+</li>
+</ul>
+<hr>
+<h2 id="important-browser-compatibility" class="toc-header"><a class="toc-anchor" href="dictation#important-browser-compatibility">¶</a> <p style="color:yellow;font-size:25px;">Important: Browser Compatibility</p></h2>
+<ul>
+<li>Apple&apos;s Safari browser and Microsoft&apos;s Edge browser do not work well with Dictation activities.</li>
+<li><mark><big>Use a <strong>Google Chrome or Mozilla Firefox</strong> browser</big></mark></li>
+<li>You can <a href="https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;hl=en" class="is-external-link">download Chrome</a> for Windows, Mac, or Linux and <a href="https://www.mozilla.org/en-US/firefox/new/" class="is-external-link">download Mozilla</a> Firefox for free.</li>
+</ul>
+<h1 id="h-1-access-dictation-in-lesson" class="toc-header"><a class="toc-anchor" href="dictation#h-1-access-dictation-in-lesson">¶</a> 1. Access &quot;Dictation&quot; in Lesson</h1>
+<p>This section explains how to add a new Dictation activity or locate an existing one in your lesson.</p>
+<ol>
+<li>Login to ANVILL.</li>
+<li>If you want to add a new dictation activity or edit a previous dictation activity in an existing lesson: <a href="https://localhost/en/lesson" class="is-internal-link is-invalid-page">open your lesson</a>. If not, you will need to <a href="https://localhost/en/lesson" class="is-internal-link is-invalid-page">create a new lesson</a> first.</li>
+<li>Once you are inside your Lesson, you can:</li>
+</ol>
+<ul>
+<li>
+<p><strong>Add a New Dictation Activity:</strong><br>
+Click on &quot;+ Add Content.<br>
+Select &quot;Dictation&quot; from the content menu.</p>
+</li>
+<li>
+<p><strong>Edit an Existing Dictation Activity:</strong><br>
+Click on the green pencil above your &apos;Dictation&apos; activity.<br>
+Select &quot;Edit&quot; from the dropdown menu.</p>
+</li>
+</ul>
+<ol start="4">
+<li>Step 3 above will open your Dictation &apos;Edit Screen.&apos; You can now add or change content. See Section 1.2 below.</li>
+</ol>
+<h1 id="h-2-create-dictation-activity-content" class="toc-header"><a class="toc-anchor" href="dictation#h-2-create-dictation-activity-content">¶</a> 2. Create Dictation Activity Content</h1>
+<ol>
+<li>Open the Dictation activity Edit Screen. See Section 1.1 above for information how.</li>
+<li>Give your Dictation activity a title by typing over &quot;Untitled.&quot;</li>
+<li>Write clear activity instructions for your learner in the &quot;Task Description&quot; field.<br>
+Notice there are Default instructions for this field: &quot;Please listen carefully and write what you hear&quot; . That description will automatically save if you don&apos;t change anything.</li>
+<li>You are now ready to add sound files to your Dictation task. See detailed instructions below.</li>
+</ol>
+<h2 id="h-21-record-and-upload-sound-samples" class="toc-header"><a class="toc-anchor" href="dictation#h-21-record-and-upload-sound-samples">¶</a> 2.1 Record and Upload Sound Samples</h2>
+<ol>
+<li>
+<p>To add a sound sample, first you must click on the gray box with the plus sign. You will see two boxes like this. Click on the top one. You can use the bottom one to add a secondary sample later if desired.</p>
+<ul>
+<li>Top <strong>&quot;Sound Sample&quot; (required):</strong> This is where you add your primary sound sample</li>
+<li>Bottom <strong>&quot;Sound Sample Slow&quot; (optional):</strong> Add a slower version of your speech sample if wanted</li>
+</ul>
+</li>
+<li>
+<p>After you click on the gray box with the plus sign, you will be prompted to upload or record your Sound Sample.<br>
+ <br>
+<strong>To Upload:</strong></p>
+<ul>
+<li>Click on &quot;upload&quot;</li>
+<li>Drag &amp; drop or select the sound file you want to add from your phone or compute<br>
+(Our system accepts all common audio file formats: m4a, mp3, oga, ogg, wav, wma)<br>
+ </li>
+</ul>
+<p><strong>To Record:</strong></p>
+<ul>
+<li>Click on  &quot;record.&quot;</li>
+<li>Click on the camera icon in the bottom right of the recording screen.</li>
+<li>After prompted (3-2-1), begin to speak.</li>
+<li>When finished recording, select &quot;Done.&quot;</li>
+<li>Now, listen to your recording.<br>
+. . . . If it needs improvement: Select &quot;Try Again.&quot; <br>
+. . . .If it is ready and perfect as is: Select &quot;Looks Good!&quot;<br>
+ </li>
+</ul>
+</li>
+<li>
+<p>It may take a moment for your sound samples to upload or save. Please be patient.</p>
+</li>
+<li>
+<p>You now need to input the word(s) learners must type when completing the dictation task. Do this in the &quot;Text&quot; field.</p>
+</li>
+<li>
+<p><em>Useful Tip</em>: You can include acceptable alternate word spellings in answers. Here&apos;s how:</p>
+<ul>
+<li>Add a vertical line (|) behind the word followed by your alternative.<br>
+Ex. Cancelled|Canceled; Kathryn|Catherine|Kathrine</li>
+</ul>
+</li>
+<li>
+<p>That&apos;s it! You have completed your first Dictation activity. Now:</p>
+<ul>
+<li>Click on the blue &quot;+ Add Sentence&quot; button on the left to add another Dictation</li>
+<li>To save your work and exit, click on the check mark icon above your Dictation activity.</li>
+</ul>
+</li>
+</ol>
+<h2 id="h-22-additional-dictation-features-worth-knowing" class="toc-header"><a class="toc-anchor" href="dictation#h-22-additional-dictation-features-worth-knowing">¶</a> 2.2 Additional Dictation Features Worth Knowing</h2>
+<p>With the dictation tool, you can also:</p>
+<ul>
+<li>Limit the numbers of times a student can listen to a sample</li>
+<li>Decide whether punctuation matters in responses</li>
+<li>Assign a point value to typos, and/or choose whether students can see the &quot;solution&quot; to the question</li>
+</ul>
+</big><p><big>To access these features, open the &quot;Behavioral Settings&quot; drop-down bar in the Dictation Task&apos;s edit screen.</big></p><div>
+</div></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

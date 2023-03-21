@@ -1,0 +1,81 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Interactive Book | ANVILL Help</title><meta name="description" content="Information on adding and creating an Interactive Book"><meta property="og:title" content="Interactive Book"><meta property="og:type" content="website"><meta property="og:description" content="Information on adding and creating an Interactive Book"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/interactivebook"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="interactivebook" title="Interactive Book" description="Information on adding and creating an Interactive Book" :tags="[{&quot;tag&quot;:&quot;h5p&quot;,&quot;title&quot;:&quot;h5p&quot;},{&quot;tag&quot;:&quot;multimedia&quot;,&quot;title&quot;:&quot;multimedia&quot;},{&quot;tag&quot;:&quot;interactive&quot;,&quot;title&quot;:&quot;interactive&quot;},{&quot;tag&quot;:&quot;interactive book&quot;,&quot;title&quot;:&quot;interactive book&quot;},{&quot;tag&quot;:&quot;book&quot;,&quot;title&quot;:&quot;book&quot;},{&quot;tag&quot;:&quot;slide deck&quot;,&quot;title&quot;:&quot;slide deck&quot;},{&quot;tag&quot;:&quot;interactions&quot;,&quot;title&quot;:&quot;interactions&quot;},{&quot;tag&quot;:&quot;add interactions&quot;,&quot;title&quot;:&quot;add interactions&quot;}]" created-at="2020-08-29T00:45:21.863Z" updated-at="2020-10-01T03:23:55.352Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJJbnRlcmFjdGl2ZSBCb29rIiwiYW5jaG9yIjoiI2ludGVyYWN0aXZlLWJvb2siLCJjaGlsZHJlbiI6W3sidGl0bGUiOiJDb250ZW50cyIsImFuY2hvciI6IiNjb250ZW50cyIsImNoaWxkcmVuIjpbXX1dfSx7InRpdGxlIjoiMS4gT3ZlcnZpZXciLCJhbmNob3IiOiIjaC0xLW92ZXJ2aWV3IiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiMi4gQWRkIEJvb2sgdG8gTGVzc29uIiwiYW5jaG9yIjoiI2gtMi1hZGQtYm9vay10by1sZXNzb24iLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIzLiBDcmVhdGUgQ29udGVudCBpbiBCb29rIiwiYW5jaG9yIjoiI2gtMy1jcmVhdGUtY29udGVudC1pbi1ib29rIiwiY2hpbGRyZW4iOlt7InRpdGxlIjoiMy4xIENyZWF0ZSBDb3ZlciBQYWdlIChPcHRpb25hbCkiLCJhbmNob3IiOiIjaC0zMS1jcmVhdGUtY292ZXItcGFnZS1vcHRpb25hbCIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjMuMiBDcmVhdGUgSW50ZXJhY3RpdmUgQ29udGVudCIsImFuY2hvciI6IiNoLTMyLWNyZWF0ZS1pbnRlcmFjdGl2ZS1jb250ZW50IiwiY2hpbGRyZW4iOltdfV19LHsidGl0bGUiOiI0LiBIZWxwIFdpdGggUG9wdWxhciBDb250ZW50IiwiYW5jaG9yIjoiI2gtNC1oZWxwLXdpdGgtcG9wdWxhci1jb250ZW50IiwiY2hpbGRyZW4iOltdfV0=" :page-id="55" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/interactivebook.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="interactive-book" class="toc-header"><a class="toc-anchor" href="interactivebook#interactive-book">¶</a> <big>Interactive Book</big></h1>
+<h2 id="contents" class="toc-header"><a class="toc-anchor" href="interactivebook#contents">¶</a> Contents</h2>
+<p>Click a link below to go directly to that topic.</p>
+<ol>
+<li><a href="interactivebook#h-1-overview" class="is-internal-link is-valid-page"><strong>Overview</strong></a></li>
+<li><a href="interactivebook#h-2-add-book-to-lesson" class="is-internal-link is-valid-page"><strong>Add Book to Lesson</strong></a></li>
+<li><a href="interactivebook#h-3-create-content-in-book" class="is-internal-link is-valid-page"><strong>Create Content in Book</strong></a></li>
+<li><a href="interactivebook#h-4-help-with-popular-content" class="is-internal-link is-valid-page"><strong>Help with Popular Content</strong></a></li>
+</ol>
+<h1 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="interactivebook#h-1-overview">¶</a> 1. Overview</h1>
+<p>You may want to combine multiple ANVILL content options in one place or activity in your lesson. Interactive Book and <a href="column" class="is-internal-link is-valid-page">Column</a> Layout are the ideal tools with which to do so. You can always of course add individual content to the ANVILL lesson one by one, but Interactive Book and Column allow you to do so in one single organized container on an ANVILL lesson page.</p>
+<h1 id="h-2-add-book-to-lesson" class="toc-header"><a class="toc-anchor" href="interactivebook#h-2-add-book-to-lesson">¶</a> 2. Add Book to Lesson</h1>
+<ol>
+<li><a href="createlesson" class="is-internal-link is-valid-page">Open the ANVILL Lesson in which you want to add an Interactive Book</a>.</li>
+</ol>
+<ul>
+<li><em>Note:</em> Click on the above link if you need to learn how.</li>
+</ul>
+<ol start="2">
+<li>Click or tap on &quot;+ Add Content&quot; at the top of your ANVILL Lesson screen. A menu will now open with a variety of content choices.</li>
+<li>Click or tap on the &quot;Interactive Book&quot; icon in the Add Content Menu.</li>
+<li>An Interactive Book will now open on your ANVILL Lesson page.</li>
+</ol>
+<h1 id="h-3-create-content-in-book" class="toc-header"><a class="toc-anchor" href="interactivebook#h-3-create-content-in-book">¶</a> 3. Create Content in Book</h1>
+<h2 id="h-31-create-cover-page-optional" class="toc-header"><a class="toc-anchor" href="interactivebook#h-31-create-cover-page-optional">¶</a> 3.1 Create Cover Page (Optional)</h2>
+<ol>
+<li>Select &quot;Enable Book Cover.&quot;</li>
+<li>Add a description, instructions, or introduction to the text under &quot;Cover Description.&quot;</li>
+<li>Click on the gray box with a plus sign to add a &quot;Cover image&quot;. Once your image is succesfully added, you will see a black icon as pictured below.<br>
+<img src="../cover_page.png" alt="cover_page.png" height="450"></li>
+<li>When your Book Cover is ready, review Section 3.2 below to begin creating interactive book content.</li>
+</ol>
+<p><img src="../optional_cover_page_example_.png" alt="optional_cover_page_example_.png" height="550"></p>
+<h2 id="h-32-create-interactive-content" class="toc-header"><a class="toc-anchor" href="interactivebook#h-32-create-interactive-content">¶</a> 3.2 Create Interactive Content</h2>
+<ol>
+<li>
+<p>Give your Interactive Book a title.</p>
+</li>
+<li>
+<p>Click on the &quot;Content&quot; dropdown menu.</p>
+</li>
+<li>
+<p>Select the content you want to add. (Ex. &quot;Audio&quot;)</p>
+</li>
+</ol>
+<p><img src="../interactive_book_(add_content).png" alt="interactive_book_(add_content).png" height="310"></p>
+<ol start="4">
+<li>Once you select your Content, the next steps will vary according to that chosen content. <a href="interactivebook#h-4-help-with-popular-content" class="is-internal-link is-valid-page">Section 4 below has links to help with some content</a>.</li>
+<li>After you have finished creating your chosen content in Step 3 (Ex. audio, image, interactive video, etc.), you have two options:</li>
+</ol>
+<ul>
+<li><img class="emoji" draggable="false" alt="👇" src="../_assets/svg/twemoji/1f447.svg"> <em>Option 1:</em> Add a page to book.</li>
+<li><img class="emoji" draggable="false" alt="👇" src="../_assets/svg/twemoji/1f447.svg"> <em>Option 2:</em> Add content to existing page.</li>
+</ul>
+<p><img src="../add_page_add_content_two_options.png" alt="add_page_add_content_two_options.png" height="400"></p>
+<ol start="6">
+<li>When done creating your Interactive Book, click on the check mark at the top right of your book to save your work and exit.</li>
+</ol>
+<p><img src="../save_work_&amp;_exit_book.png" alt="save_work_&amp;_exit_book.png" height="75"></p>
+<h1 id="h-4-help-with-popular-content" class="toc-header"><a class="toc-anchor" href="interactivebook#h-4-help-with-popular-content">¶</a> 4. Help With Popular Content</h1>
+<ul>
+<li><a href="coursepresentationinteractions" class="is-internal-link is-valid-page">Create Content in Course Presentation</a></li>
+<li><a href="videointeractions" class="is-internal-link is-valid-page">Create Content in Interactive Video</a></li>
+<li><a href="quiz" class="is-internal-link is-valid-page">Quiz</a></li>
+<li><a href="dictation" class="is-internal-link is-valid-page">Dictation</a></li>
+<li><a href="speakthewords" class="is-internal-link is-valid-page">Speak the Words</a></li>
+<li><a href="https://localhost/en/text" class="is-internal-link is-invalid-page">Text</a></li>
+</ul>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

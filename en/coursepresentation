@@ -1,0 +1,83 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Add Course Presentation to a Lesson | ANVILL Help</title><meta name="description" content=""><meta property="og:title" content="Add Course Presentation to a Lesson"><meta property="og:type" content="website"><meta property="og:description" content=""><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/coursepresentation"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="coursepresentation" title="Add Course Presentation to a Lesson" description="" :tags="[{&quot;tag&quot;:&quot;multimedia&quot;,&quot;title&quot;:&quot;multimedia&quot;},{&quot;tag&quot;:&quot;course presentation&quot;,&quot;title&quot;:&quot;course presentation&quot;},{&quot;tag&quot;:&quot;presentation&quot;,&quot;title&quot;:&quot;presentation&quot;},{&quot;tag&quot;:&quot;slides&quot;,&quot;title&quot;:&quot;slides&quot;}]" created-at="2020-04-29T00:09:33.372Z" updated-at="2020-10-01T03:25:53.049Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJBZGQgQ291cnNlIFByZXNlbnRhdGlvbiB0byBMZXNzb24iLCJhbmNob3IiOiIjYWRkLWNvdXJzZS1wcmVzZW50YXRpb24tdG8tbGVzc29uIiwiY2hpbGRyZW4iOlt7InRpdGxlIjoiQ29udGVudHMiLCJhbmNob3IiOiIjY29udGVudHMiLCJjaGlsZHJlbiI6W119XX0seyJ0aXRsZSI6IjEuIE92ZXJ2aWV3IiwiYW5jaG9yIjoiI2gtMS1vdmVydmlldyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjIuIEZpbmQgQ291cnNlIFByZXNlbnRhdGlvbiBpbiBMZXNzb24iLCJhbmNob3IiOiIjaC0yLWZpbmQtY291cnNlLXByZXNlbnRhdGlvbi1pbi1sZXNzb24iLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIzLiBCZWdpbiB0byBBZGQgQ29udGVudCIsImFuY2hvciI6IiNoLTMtYmVnaW4tdG8tYWRkLWNvbnRlbnQiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiI0LiBBZGQgTmV3IENvdXJzZSBQcmVzZW50YXRpb24gZnJvbSBPbGQgQ291cnNlIFByZXNlbnRhdGlvbiIsImFuY2hvciI6IiNoLTQtYWRkLW5ldy1jb3Vyc2UtcHJlc2VudGF0aW9uLWZyb20tb2xkLWNvdXJzZS1wcmVzZW50YXRpb24iLCJjaGlsZHJlbiI6W119XQ==" :page-id="14" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/coursepresentation.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="add-course-presentation-to-lesson" class="toc-header"><a class="toc-anchor" href="coursepresentation#add-course-presentation-to-lesson">¶</a> Add Course Presentation to Lesson</h1>
+<h2 id="contents" class="toc-header"><a class="toc-anchor" href="coursepresentation#contents">¶</a> Contents</h2>
+<ol>
+<li><a href="coursepresentation#h-1-overview" class="is-internal-link is-valid-page">Overview</a></li>
+<li><a href="coursepresentation#h-2-find-course-presentation-in-lesson" class="is-internal-link is-valid-page">Find Course Presentation in Lesson</a></li>
+<li><a href="coursepresentation#h-3-begin-to-add-content" class="is-internal-link is-valid-page">Begin to Add Content</a></li>
+<li><a href="coursepresentation#h-4-add-new-course-presentation-from-old-course-presentation" class="is-internal-link is-valid-page">Add New Course Presentation from Old Course Presentation</a></li>
+</ol>
+<h1 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="coursepresentation#h-1-overview">¶</a> 1. Overview</h1>
+<p><big><a href="https://h5p.org/presentation" class="is-external-link">Course Presentation</a> takes the traditional slide deck and turns into an interactive tool with many possibilties: tutorials, adventure stories, and, well presentations.</big></p><big>
+<p>Quiz questions, hypertext, and audio and visual media that can be marked up and linked in many different ways are some examples of the ways learners can be invited to expore and respond to content.</p>
+<p>For now, we&apos;ll show you how to get a Course Presentation up and running in your lesson. After we do, you&apos;ll ready to review all the available interactions &amp; learn how to add them to slides in our <a href="../e/en/coursepresentationinteractions" class="is-system-link">Add Interactions to Course Presentation Interactions</a> Help Page.</p>
+<h1 id="h-2-find-course-presentation-in-lesson" class="toc-header"><a class="toc-anchor" href="coursepresentation#h-2-find-course-presentation-in-lesson">¶</a> 2. Find Course Presentation in Lesson</h1>
+<p>This section explains how to add a new voiceboard or edit an exisiting Course Presentation.</p>
+<ol>
+<li>Login to ANVILL</li>
+<li>To add/edit Course Presentation in an existing lesson, <a href="https://localhost/en/openalesson" class="is-internal-link is-invalid-page">navigate to your lesson page</a>. Otherwise, <a href="../e/en/lesson" class="is-system-link">create a new lesson</a>.</li>
+<li>Once inside your lesson page:</li>
+</ol>
+<ul>
+<li>
+<p><strong>Add New Course Presentation to Lesson</strong><br>
+Click on &quot;+ Add Content.&quot;<br>
+Select &quot;Course Presentation&quot; from the content menu.</p>
+</li>
+<li>
+<p><strong>Edit Existing Course Presentation</strong><br>
+Click on the green pencil  above your Course Presentation.<br>
+Select &quot;Edit&quot; from the dropdown menu.</p>
+</li>
+</ul>
+<h1 id="h-3-begin-to-add-content" class="toc-header"><a class="toc-anchor" href="coursepresentation#h-3-begin-to-add-content">¶</a> 3. Begin to Add Content</h1>
+<ol>
+<li>
+<p>Open the Course Presentation Edit Screen. See Section 1.1 above to learn how.</p>
+</li>
+<li>
+<p>Create a title for your slide show by typing over &quot;Untitled.&quot;</p>
+</li>
+<li>
+<p>To add a background image or color (optional) to a slide, click on the &quot;Slide Background&quot; icon below your slide:<br>
+<img src="../screen_shot_2020-05-10_at_11.26.40_pm.png" alt="screen_shot_2020-05-10_at_11.26.40_pm.png" class="align-left"></p>
+</li>
+<li>
+<p>Use the gray menu above your slide to select and add slide content and interactions.</p>
+</li>
+</ol>
+<p><img src="../course_presentation_interactions.png" alt="course_presentation_interactions.png"></p>
+<ul>
+<li><em>Note:</em> Visit our <a href="coursepresentationinteractions" class="is-internal-link is-valid-page">Course Presentation Interactions</a> page for details on each individual interaction. That page describes how to use and how to add each interaction.</li>
+</ul>
+</big><ol start="5"><big>
+</big><li><big>
+</big><p><big>When ready to add a new slide, select the &quot;New Slide&quot; icon in the menu below your slide:</big></p>
+<p><img src="../add_new_slide.png" alt="add_new_slide.png" height="50" class="align-left"></p>
+</li>
+</ol>
+<h1 id="h-4-add-new-course-presentation-from-old-course-presentation" class="toc-header"><a class="toc-anchor" href="coursepresentation#h-4-add-new-course-presentation-from-old-course-presentation">¶</a> 4. Add New Course Presentation from Old Course Presentation</h1>
+<p><big>It is possible to create a New Interactive Video from any Existing Interactive Video you have created in an ANVILL lesson. It is a simple and quick &quot;Copy &amp; Paste&quot; process.</big></p><big>
+<p>Learn how below:</p>
+</big><ol><big>
+<li>Locate the Interactive Course Presentation you want to duplicate in your ANVILL Lesson.</li>
+<li>Now, open the Course Presentation Editor for that video. If you need to learn how, see Section 1 above.</li>
+<li>Once the Editor is open, click on the blue &quot;Copy&quot; button below the title. The content will now automatically copy to your clipboard.</li>
+<li>Click on the green check mark icon above your Course Presentation content to close out of the screen.</li>
+<li>Now, click on  &quot;+ Add Content&quot; at the top of your Lesson.</li>
+<li>Click on the &quot;Course Presentation&quot; icon in the &quot;Add Content&quot; menu that opens. Please note that in the Mobile App, you will have the option to &quot;Search&quot; for content, which can make it faster to find it,</li>
+<li>The &quot;Course Presentation Editor&quot; screen will now open for your new video. When it does, click on the blue &quot;Paste and Replace&quot; button below the title for your content.</li>
+</big><li><big>You will be asked for permission to &quot;replace current content with content from your clipboard&quot;. Click on &quot;Replace Content&quot; to do so. The Course Presentation you copied earlier, will now paste to this new location.</big></li>
+</ol>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

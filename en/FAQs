@@ -1,0 +1,72 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Frequently Asked Questions | ANVILL Help</title><meta name="description" content="Answers to the most common ANVILL concerns"><meta property="og:title" content="Frequently Asked Questions"><meta property="og:type" content="website"><meta property="og:description" content="Answers to the most common ANVILL concerns"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/FAQs"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="FAQs" title="Frequently Asked Questions" description="Answers to the most common ANVILL concerns" :tags="[{&quot;tag&quot;:&quot;help&quot;,&quot;title&quot;:&quot;help&quot;},{&quot;tag&quot;:&quot;faqs&quot;,&quot;title&quot;:&quot;faqs&quot;},{&quot;tag&quot;:&quot;frequently asked questions&quot;,&quot;title&quot;:&quot;frequently asked questions&quot;},{&quot;tag&quot;:&quot;question&quot;,&quot;title&quot;:&quot;question&quot;},{&quot;tag&quot;:&quot;questions&quot;,&quot;title&quot;:&quot;questions&quot;},{&quot;tag&quot;:&quot;common questions&quot;,&quot;title&quot;:&quot;common questions&quot;},{&quot;tag&quot;:&quot;common problems&quot;,&quot;title&quot;:&quot;common problems&quot;},{&quot;tag&quot;:&quot;typical questions&quot;,&quot;title&quot;:&quot;typical questions&quot;}]" created-at="2020-06-06T21:49:04.026Z" updated-at="2021-01-05T01:03:30.839Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJGcmVxdWVudGx5IEFza2VkIFF1ZXN0aW9ucyAoRkFRJ3MpIiwiYW5jaG9yIjoiI2ZyZXF1ZW50bHktYXNrZWQtcXVlc3Rpb25zLWZhcXMiLCJjaGlsZHJlbiI6W3sidGl0bGUiOiIxLiBGQVFzIGZvciBUZWFjaGVycyAmIFN0dWRlbnRzIiwiYW5jaG9yIjoiI2gtMS1mYXFzLWZvci10ZWFjaGVycy1zdHVkZW50cyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjIuIEZBUSdzIGZvciBUZWFjaGVycyIsImFuY2hvciI6IiNoLTItZmFxcy1mb3ItdGVhY2hlcnMiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIzLiBGQVEncyBmb3IgU3R1ZGVudHMiLCJhbmNob3IiOiIjaC0zLWZhcXMtZm9yLXN0dWRlbnRzIiwiY2hpbGRyZW4iOltdfV19XQ==" :page-id="40" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/FAQs.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming 2021 Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="frequently-asked-questions-faqs" class="toc-header"><a class="toc-anchor" href="FAQs#frequently-asked-questions-faqs">¶</a> Frequently Asked Questions (FAQ&apos;s)</h1>
+<p>The FAQs on this page are divided into three sections:</p>
+<ol>
+<li><a href="FAQs#h-1-faqs-for-teachers-students" class="is-internal-link is-valid-page">FAQs for Teachers &amp; Students</a></li>
+<li><a href="FAQs#h-2-faqs-for-teachers" class="is-internal-link is-valid-page">FAQs for Teachers</a></li>
+<li><a href="FAQs#h-2-faqs-for-students" class="is-internal-link is-valid-page">FAQs for Students</a></li>
+</ol>
+<h2 id="h-1-faqs-for-teachers-students" class="toc-header"><a class="toc-anchor" href="FAQs#h-1-faqs-for-teachers-students">¶</a> <big>1. <strong>FAQs for Teachers &amp; Students</strong></big></h2>
+<p><big><big><strong>Where is my data stored?</strong></big></big></p>
+<p>Your data is stored in the University of Oregon cloud.</p>
+<p><big><big><strong>What type of media files can I use in ANVILL?</strong></big></big></p>
+<p>ANVILL supports standard media file options for upload.</p>
+<ul>
+<li><strong>Audio files:</strong><br>
+m4a, mp3, oga, ogg, wav, wma</li>
+<li><strong>Document files:</strong><br>
+csv, doc, docx, epub, mobi, odp, ods, odt, pages, pdf, pps, ppt, pptx, rtf, txt, xls, xlsx</li>
+<li><strong>Image files:</strong><br>
+gif, jpg, jpeg, png, webp</li>
+<li><strong>Video:</strong><br>
+riles 3gp, avi, m4v, mov, mp4, mpg, mpeg, ogm, ogv, webm</li>
+</ul>
+<p><big><big><strong>Does it matter which browser I use with ANVILL?</strong> </big></big></p>
+<p>It does! Chrome is optimal. It&apos;s compatible with all features and functions of ANVILL. Navigate here to <a href="https://www.google.com/chrome/?brand=CHBD&amp;gclid=CjwKCAjwjqT5BRAPEiwAJlBuBb63lTQ9DoEoGrUCP7jXcAJI-6KhH37icXutSoxWwxGete1woDJ4iBoCuNcQAvD_BwE&amp;gclsrc=aw.ds" class="is-external-link">download Google Chrome for free</a>.</p>
+<p>Firefox also works well, though if you use a an ANVILL activity that requires speech recognition (e.g. Dictation, &quot;Speak the Words&quot;) you&apos;ll need Chrome.</p>
+<p>Microsoft Edge and Safari are NOT recommended and likely to cause unnecessary issues.</p>
+<p><big><big><strong>Can I use audio &amp; video files in ANVILL?</strong> </big></big></p>
+<p>Absoluetly. In fact, you have options! You can upload an existing file, embed a URL (Vimeo, Youtube), or conveniently record your video or audio within ANVILL itself.</p>
+<p>Here are some pages to help you learn how to record in ANVILL:</p>
+<ul>
+<li><a href="students/recordvideoandaudio" class="is-internal-link is-valid-page">Students learn how to Record audio or video in ANVILL</a>.</li>
+<li><a href="teachers/recordvideoandaudio" class="is-internal-link is-valid-page">Teachers learn how to Record audio or video in ANVILL</a></li>
+</ul>
+<p><big><big><strong>Is there an ANVILL app??</strong></big></big></p>
+<p><em>Very soon!</em> The app will be available Fall 2020.</p>
+<p><big><big><strong>How do I create/login to an ANVILL account?</strong> </big></big></p>
+<p>Navigate here to <a href="students/accountlogin" class="is-internal-link is-valid-page">learn how to create or login to an ANVILL account</a>. You can do so using an email &amp; password, DUCK ID (if you are a University of Oregon student), Facebook, or Google account. What matters is that you choose one way to login and use it every time.</p>
+<p><big><big><strong>How do I change my password?</strong></big></big></p>
+<p>If you want to change your password, click on the green hamburger menu in the upper left portion of your ANVILL ccount screen. Select &quot;Settings&quot; from the menu that opens. You will now see the option to change your password.</p>
+<p>If you have forgotten your password and need to login, simoply click &quot;forgot password&quot; on the login page and follow instructions.</p>
+<h2 id="h-2-faqs-for-teachers" class="toc-header"><a class="toc-anchor" href="FAQs#h-2-faqs-for-teachers">¶</a> <big><strong>2. FAQ&apos;s for Teachers</strong></big></h2>
+<p><big><big><strong>Can I use ANVILL inside an existing Learning Management System (LMS) or platform (e.g. Canvas, Blackboard, Moodle, etc.)?</strong> </big></big></p>
+<p><em>Yes!</em> You can do so through a simple application process accessible through your ANVILL account. The application will take no more than a few minutes to complete. <a href="teachers/LMSintegration" class="is-internal-link is-valid-page">Click here for instructions on completing the application</a>.</p>
+<p><big><big><strong>Can I see statistics on student performance  outcomes?</strong></big></big></p>
+<p><em>Yes!</em> You can see learner outcome reports for each lesson you&apos;ve created in ANVILL. You can review reports by activity or by learner, as well as seeing a general overview report. Navigate here to <a href="lessonoutcomes" class="is-internal-link is-valid-page">learn how to see learner outcomes from your ANVILL lesson</a>.</p>
+<p><big><big><strong>Can I reorganize the way things look on my ANVILL lesson?</strong></big></big></p>
+<p><em>Yes!</em> We have an ANVILL Help Wiki Page for that. Navigate here to <a href="organizelesson" class="is-internal-link is-valid-page">learn about lesson layout options</a>.</p>
+<p><big><big><strong>Who can use ANVILL &amp; is there a cost to use it?</strong></big></big></p>
+<p>ANVILL-LTI is a web-based service of the Yamada Language Center at the University of Oregon —there&apos;s nothing to download. Like its predecessor, ANVILL-LTI is free to qualified language educators—those working in not-for-profit educational institutions around the world.</p>
+<p><big><big><strong>I can&apos;t find an answer to my question in the ANVILL Help Desk Wiki. What are my options now?</strong></big></big><br>
+Oh no! Sorry you could not find what you were looking for. Please get in touch with us directly (<a href="contact" class="is-internal-link is-valid-page">find our information on the Contact Us page</a>), and feel free to let us know the information you were seeking was not in our Help Pages so we can consider adding it. Thanks!</p>
+<h2 id="h-3-faqs-for-students" class="toc-header"><a class="toc-anchor" href="FAQs#h-3-faqs-for-students">¶</a> <big><strong>3. FAQ&apos;s for Students</strong></big></h2>
+<p><big><big><strong>What is ANVILL?</strong></big></big></p>
+<p>ANVILL is a learning platform that helps your teacher create interactive, engaging, and multimedia language activities for you. This supports your enhanced learning through the dynamism of multi-faceted content and targeting of diverse language skills. Visit our ANVILL Help Desk home page to learn more about the ANVILL learning platform.</p>
+<p><big><big><strong>What is a Voiceboard and how can I create one?</strong></big></big></p>
+<p>A Voiceboard is a speech-based discussion activity your teacher has included to give you a chance at engaging with authentic, real-world listening or speaking content. Navigate here to <a href="voiceboardforstudents" class="is-internal-link is-valid-page">learn how to leave or respond to a Voiceboard message</a>.</p>
+<p><big><big><strong>Why won&apos;t my ANVILL activity work?</strong></big></big></p>
+<p>There is more than one reason an ANVILL activity may not be working right, but the first thing to do if your activity isn&apos;t working correctly is to check what browser you are using. This is a common issue with an easy, quick fix! For ANVILL to work well with all activiites, you need a Google Chrome browser &amp; can navigate here to <a href="https://www.google.com/chrome/?brand=CHBD&amp;gclid=CjwKCAjwjqT5BRAPEiwAJlBuBb63lTQ9DoEoGrUCP7jXcAJI-6KhH37icXutSoxWwxGete1woDJ4iBoCuNcQAvD_BwE&amp;gclsrc=aw.ds" class="is-external-link">download Google Chrome for free</a>.</p>
+</big><p><big>Vist our ANVILL Help Page on <a href="browser" class="is-internal-link is-valid-page">which web browser to use and why</a>, if interested in learning more.</big></p><div>
+</div></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

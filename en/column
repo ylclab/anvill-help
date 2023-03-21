@@ -1,0 +1,63 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Column | ANVILL Help</title><meta name="description" content="Organize content vertically then to integrate multiple activities "><meta property="og:title" content="Column"><meta property="og:type" content="website"><meta property="og:description" content="Organize content vertically then to integrate multiple activities "><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/column"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="column" title="Column" description="Organize content vertically then to integrate multiple activities " :tags="[{&quot;tag&quot;:&quot;column&quot;,&quot;title&quot;:&quot;column&quot;},{&quot;tag&quot;:&quot;layout&quot;,&quot;title&quot;:&quot;layout&quot;},{&quot;tag&quot;:&quot;content tool&quot;,&quot;title&quot;:&quot;content tool&quot;},{&quot;tag&quot;:&quot;add multimedia&quot;,&quot;title&quot;:&quot;add multimedia&quot;}]" created-at="2020-05-21T11:29:46.165Z" updated-at="2020-10-01T03:26:36.809Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJDb2x1bW4iLCJhbmNob3IiOiIjY29sdW1uIiwiY2hpbGRyZW4iOlt7InRpdGxlIjoiQ29udGVudHMiLCJhbmNob3IiOiIjY29udGVudHMiLCJjaGlsZHJlbiI6W119XX0seyJ0aXRsZSI6IjEuIE92ZXJ2aWV3IiwiYW5jaG9yIjoiI2gtMS1vdmVydmlldyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjIuIEFkZCBDb2x1bW4gdG8gTGVzc29uIiwiYW5jaG9yIjoiI2gtMi1hZGQtY29sdW1uLXRvLWxlc3NvbiIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjMuIENyZWF0ZSBDb250ZW50IGluIENvbHVtbiIsImFuY2hvciI6IiNoLTMtY3JlYXRlLWNvbnRlbnQtaW4tY29sdW1uIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiNC4gIEhlbHAgd2l0aCBQb3B1bGFyIENvbnRlbnQ6IiwiYW5jaG9yIjoiI2gtNC1oZWxwLXdpdGgtcG9wdWxhci1jb250ZW50IiwiY2hpbGRyZW4iOltdfV0=" :page-id="31" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/column.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="column" class="toc-header"><a class="toc-anchor" href="column#column">¶</a> <big>Column</big></h1>
+<h2 id="contents" class="toc-header"><a class="toc-anchor" href="column#contents">¶</a> Contents</h2>
+<p>Click a link below to go directly to that topic.</p>
+<ol>
+<li><a href="column#h-1-column-overview" class="is-internal-link is-valid-page"><strong>Overview</strong></a></li>
+<li><a href="column#h-2-anvill-wiki-help-pages-on-popular-content-in-anvill" class="is-internal-link is-valid-page"><strong>Add Column to Lesson</strong></a></li>
+<li><a href="column#h-2-column-create-content" class="is-internal-link is-valid-page"><strong>Create Content in Column</strong></a></li>
+<li><a href="column#h-2-anvill-wiki-help-pages-on-popular-content-in-anvill" class="is-internal-link is-valid-page"><strong>Help with Popular Content</strong></a></li>
+</ol>
+<h1 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="column#h-1-overview">¶</a> 1. Overview</h1>
+<p>The Column  tool allows you to gather &amp; organize content in a vertical layout. It&apos;s the only tool that acts as a container in which to add multiple ANVILL activities and content.</p>
+<p>This helpful resource therefore allows you to create thoughtfully designed, well-scaffolded activities and/or compile interrelated content in one place.</p>
+<p><img src="../column_vb.png" alt="column_vb.png" height="600"><br>
+The above images show a Column and Voiceboard activity side-by-side. They are here to help you visualize how Column can organize diverse content in one vertical layout.</p>
+<p>This particular column example includes: text, an audio file, a multiple choice question set (the dots below the answers indicate its a four part set), and a summary statement activity. The Voiceboard activity to the right then builds even further off the Column activity, both in topic and task complexity.</p>
+<h1 id="h-2-add-column-to-lesson" class="toc-header"><a class="toc-anchor" href="column#h-2-add-column-to-lesson">¶</a> 2. Add Column to Lesson</h1>
+<ol>
+<li><a href="createlesson" class="is-internal-link is-valid-page">Open the ANVILL Lesson in which you want to add a Column</a>.</li>
+</ol>
+<ul>
+<li><em>Note:</em> Click on the above link if you need to learn how.</li>
+</ul>
+<ol start="2">
+<li>Click or tap on &quot;+ Add Content&quot; at the top of your ANVILL Lesson screen. A menu will now open with a variety of content choices.</li>
+<li>Click or tap on the &quot;Column&quot; icon in the Add Content Menu.</li>
+<li>A Column will now open on your ANVILL Lesson page.</li>
+</ol>
+<h1 id="h-3-create-content-in-column" class="toc-header"><a class="toc-anchor" href="column#h-3-create-content-in-column">¶</a> 3. Create Content in Column</h1>
+<ol>
+<li>Give your Column a title by typing over &quot;Untitled.&quot;</li>
+<li>Click on the &quot;Content&quot; drop-down menu to open it and see then choose your desired content options.</li>
+</ol>
+<ul>
+<li><em>Note:</em> To learn more about any or all of these options, check out this page on the <a href="https://h5p.org/content-types-and-applications" class="is-external-link">H5P website</a> (the original source of many ANVILL content tools) or our <a href="https://localhost/en/voiceboard" class="is-internal-link is-invalid-page">Voiceboard</a> page (a tool created by ANVILL).</li>
+</ul>
+<ol start="3">
+<li>Once you select the Content you want to add to your Column in the drop-down menu from Step 5 above, complete the steps to create that Content.</li>
+</ol>
+<ul>
+<li><em>Note</em>: The process to finish adding Content in a Column or directly to an ANVILL Lesson is the same once you&apos;ve added it to the Column or Lesson. You can find detailed information on the steps to do so with by visiting the dedicated ANVILL Wiki Help Desk page for that Content (Ex. Voicboard, Interactive Video). Popular Content pages are linked below in Section 2.</li>
+</ul>
+<h1 id="h-4-help-with-popular-content" class="toc-header"><a class="toc-anchor" href="column#h-4-help-with-popular-content">¶</a> 4.  <big>Help with Popular Content:</big></h1>
+<ul>
+<li><a href="coursepresentationinteractions" class="is-internal-link is-valid-page">Course Presentation</a></li>
+<li><a href="https://localhost/en/interactivevideointeractions" class="is-internal-link is-invalid-page">Interactive Video</a></li>
+<li><a href="https://localhost/en/column/Quiz" class="is-internal-link is-invalid-page">Quiz</a></li>
+<li><a href="dictation" class="is-internal-link is-valid-page">Dictation</a></li>
+<li><a href="speakthewords" class="is-internal-link is-valid-page">Speak the Words</a></li>
+<li><a href="https://localhost/en/column/Text" class="is-internal-link is-invalid-page">Text</a></li>
+</ul>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

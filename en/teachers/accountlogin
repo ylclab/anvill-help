@@ -1,0 +1,95 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Create &amp; Login to ANVILL Account  | ANVILL Help</title><meta name="description" content=""><meta property="og:title" content="Create &amp; Login to ANVILL Account "><meta property="og:type" content="website"><meta property="og:description" content=""><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/teachers/accountlogin"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="teachers/accountlogin" title="Create &amp; Login to ANVILL Account " description="" :tags="[{&quot;tag&quot;:&quot;login to anvill account&quot;,&quot;title&quot;:&quot;login to anvill account&quot;},{&quot;tag&quot;:&quot;create account&quot;,&quot;title&quot;:&quot;create account&quot;},{&quot;tag&quot;:&quot;create anvill account&quot;,&quot;title&quot;:&quot;create anvill account&quot;},{&quot;tag&quot;:&quot;login to anvill&quot;,&quot;title&quot;:&quot;login to anvill&quot;},{&quot;tag&quot;:&quot;access anvill account&quot;,&quot;title&quot;:&quot;access anvill account&quot;},{&quot;tag&quot;:&quot;access anvill&quot;,&quot;title&quot;:&quot;access anvill&quot;},{&quot;tag&quot;:&quot;get into anvill&quot;,&quot;title&quot;:&quot;get into anvill&quot;},{&quot;tag&quot;:&quot;start anvill&quot;,&quot;title&quot;:&quot;start anvill&quot;},{&quot;tag&quot;:&quot;open anvill&quot;,&quot;title&quot;:&quot;open anvill&quot;},{&quot;tag&quot;:&quot;open anvill account&quot;,&quot;title&quot;:&quot;open anvill account&quot;},{&quot;tag&quot;:&quot;start anvill account&quot;,&quot;title&quot;:&quot;start anvill account&quot;},{&quot;tag&quot;:&quot;enter anvill&quot;,&quot;title&quot;:&quot;enter anvill&quot;},{&quot;tag&quot;:&quot;enter anvill account&quot;,&quot;title&quot;:&quot;enter anvill account&quot;}]" created-at="2020-06-24T04:33:19.590Z" updated-at="2020-10-06T22:59:45.286Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJDcmVhdGUgJiBMb2dpbiB0byBBTlZJTEwiLCJhbmNob3IiOiIjY3JlYXRlLWxvZ2luLXRvLWFudmlsbCIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IkNvbnRlbnRzIiwiYW5jaG9yIjoiI2NvbnRlbnRzIiwiY2hpbGRyZW4iOltdfV19LHsidGl0bGUiOiJPdmVydmlldyIsImFuY2hvciI6IiNvdmVydmlldyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6Ik9wdGlvbiAxOiBFbWFpbCAmIFBhc3N3b3JkIiwiYW5jaG9yIjoiI29wdGlvbi0xLWVtYWlsLXBhc3N3b3JkIiwiY2hpbGRyZW4iOlt7InRpdGxlIjoiMS4xIENyZWF0ZSBBY2NvdW50IHdpdGggRW1haWwgJiBQYXNzd29yZCIsImFuY2hvciI6IiNoLTExLWNyZWF0ZS1hY2NvdW50LXdpdGgtZW1haWwtcGFzc3dvcmQiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIxLjIgTG9naW4gd2l0aCBFLW1haWwgJiBQYXNzd29yZCIsImFuY2hvciI6IiNoLTEyLWxvZ2luLXdpdGgtZS1tYWlsLXBhc3N3b3JkIiwiY2hpbGRyZW4iOltdfV19LHsidGl0bGUiOiJPcHRpb24gMjogRFVDSyBJRCAoVS4gb2YgT3JlZ29uIFN0YWZmICYgU3R1ZGVudHMgb25seSkiLCJhbmNob3IiOiIjb3B0aW9uLTItZHVjay1pZC11LW9mLW9yZWdvbi1zdGFmZi1zdHVkZW50cy1vbmx5IiwiY2hpbGRyZW4iOlt7InRpdGxlIjoiMi4xIENyZWF0ZSBBY2NvdW50IHdpdGggRFVDSyBJRCIsImFuY2hvciI6IiNoLTIxLWNyZWF0ZS1hY2NvdW50LXdpdGgtZHVjay1pZCIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjIuMiBMb2dpbiB3aXRoIERVQ0sgSUQiLCJhbmNob3IiOiIjaC0yMi1sb2dpbi13aXRoLWR1Y2staWQiLCJjaGlsZHJlbiI6W119XX0seyJ0aXRsZSI6Ik9wdGlvbiAzOiBHb29nbGUgQWNjb3VudCBDcmVkZW50aWFscyIsImFuY2hvciI6IiNvcHRpb24tMy1nb29nbGUtYWNjb3VudC1jcmVkZW50aWFscyIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IjMuMSBDcmVhdGUvTG9naW4gdG8gQU5WSUxMIEFjY291bnQgd2l0aCBHb29nbGUgQ3JlZGVudGlhbHMiLCJhbmNob3IiOiIjaC0zMS1jcmVhdGVsb2dpbi10by1hbnZpbGwtYWNjb3VudC13aXRoLWdvb2dsZS1jcmVkZW50aWFscyIsImNoaWxkcmVuIjpbXX1dfSx7InRpdGxlIjoiT3B0aW9uIDQ6IEZhY2Vib29rIEFjY291bnQgQ3JlZGVudGlhbHMiLCJhbmNob3IiOiIjb3B0aW9uLTQtZmFjZWJvb2stYWNjb3VudC1jcmVkZW50aWFscyIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IjQuMSBDcmVhdGUvTG9naW4gdG8gQU5WSUxMIEFjY291bnQgd2l0aCBGYWNlYm9vayBDcmVkZW50aWFscyIsImFuY2hvciI6IiNoLTQxLWNyZWF0ZWxvZ2luLXRvLWFudmlsbC1hY2NvdW50LXdpdGgtZmFjZWJvb2stY3JlZGVudGlhbHMiLCJjaGlsZHJlbiI6W119XX1d" :page-id="44" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/teachers/accountlogin.md"><template slot="contents"><div><p><big>NOTE: <span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="create-login-to-anvill" class="toc-header"><a class="toc-anchor" href="accountlogin#create-login-to-anvill">¶</a> Create &amp; Login to ANVILL</h1>
+<h2 id="contents" class="toc-header"><a class="toc-anchor" href="accountlogin#contents">¶</a> Contents</h2>
+<ul>
+<li><a href="accountlogin#create-login-to-anvill" class="is-internal-link is-valid-page">Overview</a></li>
+<li><a href="accountlogin#option-1-email-password" class="is-internal-link is-valid-page">Option 1: E-mail and Password</a></li>
+<li><a href="accountlogin#option-2-duck-id-u-of-oregon-staff-students-only" class="is-internal-link is-valid-page">Option 2: DUCK ID (U. Oregon Staff &amp; Students Only)</a></li>
+<li><a href="accountlogin#option-3-google-account-credentials" class="is-internal-link is-valid-page">Option 3: Google Account</a></li>
+<li><a href="accountlogin#option-4-facebook-account-credentials" class="is-internal-link is-valid-page">Option 4: Facebook Account</a></li>
+</ul>
+<h1 id="overview" class="toc-header"><a class="toc-anchor" href="accountlogin#overview">¶</a> Overview</h1>
+<p>There are <strong><big>4 ways to create &amp; log in</big></strong> to your ANVILL account but it is important you <strong><big>choose just one method</big></strong> and use it each time. Doing so will ensure your work is saved and organized in one place.</p>
+<p><strong><big>Your 4 options to create an account &amp; log in are</big></strong>:</p>
+<ol>
+<li>Use an email address &amp; password.</li>
+<li>University of Oregon instructors &amp; students can use their DUCK ID.</li>
+<li>Use your Google account credentials.</li>
+<li>Use your Facebook account credentials.</li>
+</ol>
+<p>Scroll down to learn how to use any of the above four options.</p>
+<p><img src="../../screen_shot_2020-05-31_at_3.26.15_pm.png" alt="screen_shot_2020-05-31_at_3.26.15_pm.png" height="500"></p>
+<h1 id="option-1-email-password" class="toc-header"><a class="toc-anchor" href="accountlogin#option-1-email-password">¶</a> Option 1: Email &amp; Password</h1>
+<h2 id="h-11-create-account-with-email-password" class="toc-header"><a class="toc-anchor" href="accountlogin#h-11-create-account-with-email-password">¶</a> 1.1 Create Account with Email &amp; Password</h2>
+<ol>
+<li>Open this link to <a href="https://anvill.uoregon.edu/user" class="is-external-link">create your ANVILL account with an email address and password</a>.</li>
+<li>Select &quot;Sign Up.&quot;</li>
+<li>Enter your name &amp; email address.</li>
+<li>Select &quot;Go&quot; to create your account.</li>
+<li>The below message will appear:</li>
+</ol>
+<p><img src="../../post_account_creation_message_.png" alt="post_account_creation_message_.png" height="290"></p>
+<ol start="6">
+<li>Open the email account for the email address you entered in Step 3 above.</li>
+<li>Open the email from ANVILL with subject line &quot;Account details for ....&quot;</li>
+<li>Click or tap on the link included in the e-mail, which will redirect you here:</li>
+</ol>
+<p><img src="../../screen_shot_2020-05-31_at_3.40.57_pm.png" alt="screen_shot_2020-05-31_at_3.40.57_pm.png" height="325"><br>
+9. Select &quot;Log in,&quot; then follow instructions to create your new password.</p>
+<h2 id="h-12-login-with-e-mail-password" class="toc-header"><a class="toc-anchor" href="accountlogin#h-12-login-with-e-mail-password">¶</a> 1.2 Login with E-mail &amp; Password</h2>
+<ol>
+<li>Open this link to <a href="https://anvill.uoregon.edu/user" class="is-external-link">login to ANVILL with an email address and password</a>.</li>
+<li>Enter the email address with which you registered your account.</li>
+<li>Enter your password.</li>
+<li>Select the green &quot;Go&quot; bar.</li>
+</ol>
+<h1 id="option-2-duck-id-u-of-oregon-staff-students-only" class="toc-header"><a class="toc-anchor" href="accountlogin#option-2-duck-id-u-of-oregon-staff-students-only">¶</a> Option 2: DUCK ID (U. of Oregon Staff &amp; Students only)</h1>
+<h2 id="h-21-create-account-with-duck-id" class="toc-header"><a class="toc-anchor" href="accountlogin#h-21-create-account-with-duck-id">¶</a> 2.1 Create Account with DUCK ID</h2>
+<ol>
+<li>Open this link to <a href="https://anvill.uoregon.edu/user" class="is-external-link">create your ANVILL Account with your UO Duck ID</a>.</li>
+<li>Select &quot;Sign in With Your DUCK ID.</li>
+</ol>
+<h2 id="h-22-login-with-duck-id" class="toc-header"><a class="toc-anchor" href="accountlogin#h-22-login-with-duck-id">¶</a> 2.2 Login with DUCK ID</h2>
+<ol>
+<li>Open this link to <a href="https://anvill.uoregon.edu/user" class="is-external-link">log in to your ANVILL account with your UO DUCK ID</a></li>
+<li>Select &quot;Sign in With Your DUCK ID.&quot;</li>
+<li>When prompted, enter your UO DUCK ID credentials.</li>
+</ol>
+<h1 id="option-3-google-account-credentials" class="toc-header"><a class="toc-anchor" href="accountlogin#option-3-google-account-credentials">¶</a> Option 3: Google Account Credentials</h1>
+<h2 id="h-31-createlogin-to-anvill-account-with-google-credentials" class="toc-header"><a class="toc-anchor" href="accountlogin#h-31-createlogin-to-anvill-account-with-google-credentials">¶</a> 3.1 Create/Login to ANVILL Account with Google Credentials</h2>
+<ol>
+<li>Open this link to <a href="https://anvill.uoregon.edu/user" class="is-external-link">create or log in to ANVILL with Google Credentials</a>.</li>
+<li>Select &quot;Sign in with Google.&quot;</li>
+<li>Now, one of two things will happen:</li>
+</ol>
+<ul>
+<li><strong>If</strong> you are <strong>NOT already logged into</strong> your <strong>Google</strong> account, you will be prompted to sign in to it. You will be logged into ANVILL once you do.</li>
+<li><strong>If</strong> you are <strong>ALREADY logged in to</strong>  your <strong>Google</strong> account, you will be automatically logged in to your ANVILL account.</li>
+</ul>
+<p>Important note:<br>
+<strong>If you are <big><strong>CREATING</strong></big> your ANVILL account</strong> using Google credentials, you will likely be asked to give permissions for ANVILL to access and use your Facebook account for this purpose. A little notification window will pop up prompting you to accept and give permissions.</p>
+<h1 id="option-4-facebook-account-credentials" class="toc-header"><a class="toc-anchor" href="accountlogin#option-4-facebook-account-credentials">¶</a> Option 4: Facebook Account Credentials</h1>
+<h2 id="h-41-createlogin-to-anvill-account-with-facebook-credentials" class="toc-header"><a class="toc-anchor" href="accountlogin#h-41-createlogin-to-anvill-account-with-facebook-credentials">¶</a> 4.1 Create/Login to ANVILL Account with Facebook Credentials</h2>
+<ol>
+<li>Open this link to <a href="https://anvill.uoregon.edu/user" class="is-external-link">create or login to ANVILL with Facebook Credentials</a>.</li>
+<li>Select &quot;Sign in with Facebook.&quot;</li>
+<li>Now, one of two things will happen:</li>
+</ol>
+<ul>
+<li><strong>If</strong> you are <strong>NOT already logged into</strong> your <strong>Facebook</strong> account, you will be prompted to sign in to it. You will be logged into ANVILL once you do.</li>
+<li><strong>If</strong> you are <strong>ALREADY logged in to</strong>  your <strong>Google</strong> account, you will be automatically logged in to your ANVILL account.</li>
+</ul>
+<p><em>Important note:</em><br>
+<strong>If you are <big><strong>CREATING</strong></big> your ANVILL account</strong> using Facebook credentials, you will likely be asked to give permissions for ANVILL to access and use your Facebook account for this purpose. A little notification window will pop up prompting you to accept and give permissions.</p>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

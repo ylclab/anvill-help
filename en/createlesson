@@ -1,0 +1,106 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Create or Open A Lesson | ANVILL Help</title><meta name="description" content="Learn how to get your first lesson going plus how to find it later"><meta property="og:title" content="Create or Open A Lesson"><meta property="og:type" content="website"><meta property="og:description" content="Learn how to get your first lesson going plus how to find it later"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/createlesson"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="createlesson" title="Create or Open A Lesson" description="Learn how to get your first lesson going plus how to find it later" :tags="[{&quot;tag&quot;:&quot;create lesson&quot;,&quot;title&quot;:&quot;create lesson&quot;},{&quot;tag&quot;:&quot;add lesson&quot;,&quot;title&quot;:&quot;add lesson&quot;},{&quot;tag&quot;:&quot;share lesson&quot;,&quot;title&quot;:&quot;share lesson&quot;},{&quot;tag&quot;:&quot;lesson&quot;,&quot;title&quot;:&quot;lesson&quot;}]" created-at="2020-05-14T20:03:08.868Z" updated-at="2020-10-01T03:30:54.552Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJDcmVhdGUgb3IgT3BlbiBhIExlc3NvbiIsImFuY2hvciI6IiNjcmVhdGUtb3Itb3Blbi1hLWxlc3NvbiIsImNoaWxkcmVuIjpbeyJ0aXRsZSI6IkNvbnRlbnRzIiwiYW5jaG9yIjoiI2NvbnRlbnRzIiwiY2hpbGRyZW4iOltdfV19LHsidGl0bGUiOiIxLiBPdmVydmlldyIsImFuY2hvciI6IiNoLTEtb3ZlcnZpZXciLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIyLiBBZGQgYSBOZXcgTGVzc29uIiwiYW5jaG9yIjoiI2gtMi1hZGQtYS1uZXctbGVzc29uIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiMy4gQ3JlYXRlIENvbnRlbnQgaW4gYSBOZXcgTGVzc29uIiwiYW5jaG9yIjoiI2gtMy1jcmVhdGUtY29udGVudC1pbi1hLW5ldy1sZXNzb24iLCJjaGlsZHJlbiI6W3sidGl0bGUiOiIzLjEgQWRkIFlvdXIgRmlyc3QgQ29udGVudDoiLCJhbmNob3IiOiIjaC0zMS1hZGQteW91ci1maXJzdC1jb250ZW50IiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiMy4yIEN1c3RvbWl6ZSBMZXNzb24gSGVhZGVyIiwiYW5jaG9yIjoiI2gtMzItY3VzdG9taXplLWxlc3Nvbi1oZWFkZXIiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiIzLjMgUmVuYW1lIFlvdXIgTGVzc29uOiIsImFuY2hvciI6IiNoLTMzLXJlbmFtZS15b3VyLWxlc3NvbiIsImNoaWxkcmVuIjpbXX1dfSx7InRpdGxlIjoiNC4gT3BlbiBhbiBFeGlzdGluZyBMZXNzb24iLCJhbmNob3IiOiIjaC00LW9wZW4tYW4tZXhpc3RpbmctbGVzc29uIiwiY2hpbGRyZW4iOltdfV0=" :page-id="25" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/createlesson.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="create-or-open-a-lesson" class="toc-header"><a class="toc-anchor" href="createlesson#create-or-open-a-lesson">¶</a> Create or Open a Lesson</h1>
+<h2 id="contents" class="toc-header"><a class="toc-anchor" href="createlesson#contents">¶</a> Contents</h2>
+<ol>
+<li>Overview</li>
+<li>Add a  New Lesson</li>
+<li>Create Content in New Lesson</li>
+<li>Open an Existing Lesson</li>
+</ol>
+<h1 id="h-1-overview" class="toc-header"><a class="toc-anchor" href="createlesson#h-1-overview">¶</a> 1. Overview</h1>
+<p>Creating a new lesson or finding an existing one in ANVILL is quick &amp; simple. Once created, all lessons get stored on one, easy-to-find page. There, you can also find ANVILL Lessons others have shared with you. Read below to learn what you need to know to get started!</p>
+<p>Once you&apos;ve set-up your first lesson and started working on it, these additional ANVILL Wiki Help Desk pages may be of help:</p>
+<ul>
+<li><a href="sharelesson" class="is-internal-link is-valid-page">Share Your Lesson</a></li>
+<li><a href="organizelesson" class="is-internal-link is-valid-page">Organize your Lesson Layout</a></li>
+<li><a href="lessonoutcomes" class="is-internal-link is-valid-page">See Reports on Lesson Outcomes</a><br>
+<em>Note:</em> Reports available for particular activities you&apos;ve created, by individual students (&quot;users&quot;), or as a general overview.</li>
+</ul>
+<h1 id="h-2-add-a-new-lesson" class="toc-header"><a class="toc-anchor" href="createlesson#h-2-add-a-new-lesson">¶</a> 2. Add a New Lesson</h1>
+<p><img src="../dashboard2.png" alt="dashboard2.png" height="200" class="align-right"></p>
+<ol>
+<li>Log in to ANVILL.</li>
+</ol>
+<ul>
+<li><a href="https://anvill.uoregon.edu/" class="is-external-link">Click here to open the ANVILL Login page</a>.<br>
+ </li>
+</ul>
+<ol start="2">
+<li>When you log in, your ANVILL &quot;Dashboard&quot; will open.</li>
+<li>Click or tap on &quot;+ Lesson&quot; from the Dashboard.  A &quot;Create a New Lesson&quot; window will open!<br>
+ <br>
+<img src="../create_2.png" alt="create_2.png" height="250" class="align-center"></li>
+<li>Give your new lesson a title.</li>
+<li>Click or tap on &quot;Create&quot;. If you&apos;re using the Mobile App and don&apos;t see the &quot;Create&quot; button on your screen, simply scroll down a little.</li>
+<li>Your new lesson page will now open.</li>
+</ol>
+<p><img src="../lesson_created.png" alt="lesson_created.png" height="600"></p>
+<p>Note:<br>
+If you want <strong><big>to start adding content and designing your lesson</big></strong><big> immediately, <strong>see Section 2 below</strong></big> to get started!</p>
+<p>(Section 2 also includes information on popular ANVILL content types &amp; links to ANVILL Wiki Help Desk pages on using them.)</p>
+<h1 id="h-3-create-content-in-a-new-lesson" class="toc-header"><a class="toc-anchor" href="createlesson#h-3-create-content-in-a-new-lesson">¶</a> 3. Create Content in a New Lesson</h1>
+<p><big><em><strong>Suggestions on how to start building your lesson:</strong></em></big></p>
+<h2 id="h-31-add-your-first-content" class="toc-header"><a class="toc-anchor" href="createlesson#h-31-add-your-first-content">¶</a> 3.1 <strong>Add Your First Content</strong>:</h2>
+<ol>
+<li>Click on &quot;+ Add Content&quot; at the top of your lesson page.</li>
+<li>An &quot;Add Content&quot; menu pop will open containing all of your content options.</li>
+<li>Find the content you want to add then  click on it.</li>
+</ol>
+<p><big><strong>Examples of Popular Content in ANVILL:</strong></big></p>
+<p>Click on the below links to learn more about individual content and adding it to your lesson.</p>
+<ul>
+<li><a href="../e/en/voiceboard" class="is-system-link">Voiceboard</a>: Design interactive speaking and discussion lessons with</li>
+<li><a href="interactivebook" class="is-internal-link is-valid-page">Interactive Book</a><br>
+<a href="coursepresentation" class="is-internal-link is-valid-page">Interactive Course Presentation</a>;<br>
+<a href="interactivevideo" class="is-internal-link is-valid-page">Interactive Video</a><br>
+Three options to increase engagement and comprehension with dynamic content. Each option allows you to add almost all other available ANVILL content as an interaction.</li>
+<li><a href="../e/en/column" class="is-system-link">Column</a><br>
+Layout tool and organizational container to organize and scaffold multiple ANVILL content and activities in one place on your lesson</li>
+<li><a href="https://localhost/en/text" class="is-internal-link is-invalid-page">Text</a><br>
+Straightforward way to publish written content in lesson (e.g. reference lists, instructions, background info, etc).</li>
+<li><a href="dictation" class="is-internal-link is-valid-page">Dictation</a><br>
+Record listening tasks.</li>
+<li><a href="speakthewords" class="is-internal-link is-valid-page">Speak the Words</a> activities<br>
+Learners can practice pronunciation using speech recognition software</li>
+<li><a href="quiz" class="is-internal-link is-valid-page">Quiz Question Sets</a><br>
+Add one ore more questions &amp; question types (e.g. Fill-in-the-Blank, Multiple Choice, True/False, Drag &amp; Drop, Essay) in a single quiz format.</li>
+</ul>
+<h2 id="h-32-customize-lesson-header" class="toc-header"><a class="toc-anchor" href="createlesson#h-32-customize-lesson-header">¶</a> 3.2 Customize Lesson Header</h2>
+<p><strong>Customize Lesson Header:</strong></p>
+<ul>
+<li>Click on the camera icon in the upper left corner of your lesson header.</li>
+<li>Select &quot;Choose Background Color&quot; or &apos;Upload Image&quot; in the drop-down menu.</li>
+</ul>
+<h2 id="h-33-rename-your-lesson" class="toc-header"><a class="toc-anchor" href="createlesson#h-33-rename-your-lesson">¶</a> 3.3 <strong>Rename Your Lesson:</strong></h2>
+<ul>
+<li>Click on the pencil icon in the bottom right corner of your header.</li>
+<li>Type over the original title.</li>
+<li>To save your work &amp; exit, click on the check mark icon in the bottom right of header.</li>
+</ul>
+<h1 id="h-4-open-an-existing-lesson" class="toc-header"><a class="toc-anchor" href="createlesson#h-4-open-an-existing-lesson">¶</a> 4. Open an Existing Lesson</h1>
+<p>All lessons you create and save will automatically be stored on a single, easy-to-locate page in your ANVILL account. This &quot;Lesson Library&quot; makes it easy to access any current or past lesson of yours.</p>
+<ol>
+<li><a href="https://anvill.uoregon.edu/" class="is-external-link">Login</a> to ANVILL.</li>
+<li>Click on the &quot;hamburger menu&quot;   <img src="../screen_shot_2020-05-17_at_12.38.57_pm.png" alt="screen_shot_2020-05-17_at_12.38.57_pm.png" height="20"> in the top left corner.</li>
+</ol>
+<p><img src="../hamburger_menu.png" alt="hamburger_menu.png" height="125"></p>
+<p><img src="../lessons_in_menu.png" alt="lessons_in_menu.png" height="200" class="align-right"><br>
+3. Select &apos;Lessons&apos; in the side-bar menu to open <strong>your ANVILL &quot;Lessons&quot; library.</strong></p>
+<p>Note: <em>All</em> of your lessons &amp; shared lessons are stored on this page. Create a Lesson Folders to help organize.<br>
+ <br>
+4.  Find your lesson &amp; click on it to open.</p>
+<ol start="5">
+<li>You will now be automatically taken to your lesson.</li>
+</ol>
+</big></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>

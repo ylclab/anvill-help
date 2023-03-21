@@ -1,0 +1,277 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta charset="UTF-8"><meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1, maximum-scale=5"><meta name="theme-color" content="#1976d2"><meta name="msapplication-TileColor" content="#1976d2"><meta name="msapplication-TileImage" content="/_assets/favicons/mstile-150x150.png"><title>Add Interactions to Course Presentation | ANVILL Help</title><meta name="description" content="Describes available Course Presentation interactions and how to add each one to a slide"><meta property="og:title" content="Add Interactions to Course Presentation"><meta property="og:type" content="website"><meta property="og:description" content="Describes available Course Presentation interactions and how to add each one to a slide"><meta property="og:image"><meta property="og:url" content="https://anvill-help.uoregon.edu/en/coursepresentationinteractions"><meta property="og:site_name" content="ANVILL Help"><link rel="apple-touch-icon" sizes="180x180" href="../_assets/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="../_assets/favicons/android-chrome-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="../_assets/favicons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="../_assets/favicons/favicon-16x16.png"><link rel="mask-icon" href="../_assets/favicons/safari-pinned-tab.svg" color="#1976d2"><link rel="manifest" href="../_assets/manifest.json"><script>var siteConfig = {"title":"ANVILL Help","theme":"default","darkMode":true,"tocPosition":"left","lang":"en","rtl":false,"company":"Yamada Language Center","contentLicense":"alr","footerOverride":"","logoUrl":"/logo.png"}
+var siteLangs = [{"code":"en","name":"English"}]
+</script><link type="text/css" rel="stylesheet" href="../_assets/css/app.2a024e052450338c062c.css"><script type="text/javascript" src="../_assets/js/runtime.js?1679101189"></script><script type="text/javascript" src="../_assets/js/app.js?1679101189"></script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57631312-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57631312-6');
+</script>
+</head><body><div id="root"><page locale="en" path="coursepresentationinteractions" title="Add Interactions to Course Presentation" description="Describes available Course Presentation interactions and how to add each one to a slide" :tags="[{&quot;tag&quot;:&quot;multimedia&quot;,&quot;title&quot;:&quot;multimedia&quot;},{&quot;tag&quot;:&quot;interactive&quot;,&quot;title&quot;:&quot;interactive&quot;},{&quot;tag&quot;:&quot;course presentation&quot;,&quot;title&quot;:&quot;course presentation&quot;},{&quot;tag&quot;:&quot;interactive content&quot;,&quot;title&quot;:&quot;interactive content&quot;},{&quot;tag&quot;:&quot;interaction options&quot;,&quot;title&quot;:&quot;interaction options&quot;},{&quot;tag&quot;:&quot;course presentation interactions&quot;,&quot;title&quot;:&quot;course presentation interactions&quot;},{&quot;tag&quot;:&quot;interactive course presentation&quot;,&quot;title&quot;:&quot;interactive course presentation&quot;},{&quot;tag&quot;:&quot;multimedia content&quot;,&quot;title&quot;:&quot;multimedia content&quot;},{&quot;tag&quot;:&quot;interacti&quot;,&quot;title&quot;:&quot;interacti&quot;},{&quot;tag&quot;:&quot;interactive media&quot;,&quot;title&quot;:&quot;interactive media&quot;}]" created-at="2020-05-03T22:14:47.484Z" updated-at="2020-10-01T03:25:06.458Z" author-name="Joliene" :author-id="4" editor="markdown" :is-published="true" toc="W3sidGl0bGUiOiJBZGQgSW50ZXJhY3Rpb25zIHRvIENvdXJzZSBQcmVzZW50YXRpb246IE92ZXJ2aWV3IiwiYW5jaG9yIjoiI2FkZC1pbnRlcmFjdGlvbnMtdG8tY291cnNlLXByZXNlbnRhdGlvbi1vdmVydmlldyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IjEuIExpc3Qgb2YgSW50ZXJhY3RpdmUgRWxlbWVudHMiLCJhbmNob3IiOiIjaC0xLWxpc3Qtb2YtaW50ZXJhY3RpdmUtZWxlbWVudHMiLCJjaGlsZHJlbiI6W3sidGl0bGUiOiIyLiBJbnN0cnVjdGlvbiBmb3IgU3BlY2lmaWMgSW50ZXJhY3Rpb25zIiwiYW5jaG9yIjoiI2gtMi1pbnN0cnVjdGlvbi1mb3Itc3BlY2lmaWMtaW50ZXJhY3Rpb25zIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiQXVkaW8gRmlsZSIsImFuY2hvciI6IiNhdWRpby1maWxlIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiRHJhZyAmIERyb3AgUXVlc3Rpb24iLCJhbmNob3IiOiIjZHJhZy1kcm9wLXF1ZXN0aW9uIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiRmlsbCBpbiB0aGUgQmxhbmsgUXVlc3Rpb25zIiwiYW5jaG9yIjoiI2ZpbGwtaW4tdGhlLWJsYW5rLXF1ZXN0aW9ucyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IkdvLXRvLVNsaWRlIiwiYW5jaG9yIjoiI2dvLXRvLXNsaWRlIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiSW1hZ2UiLCJhbmNob3IiOiIjaW1hZ2UiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJMaW5rIiwiYW5jaG9yIjoiI2xpbmsiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJNdWx0aXBsZSBDaG9pY2UgUXVlc3Rpb24iLCJhbmNob3IiOiIjbXVsdGlwbGUtY2hvaWNlLXF1ZXN0aW9uIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiU2hhcGUiLCJhbmNob3IiOiIjc2hhcGUiLCJjaGlsZHJlbiI6W119LHsidGl0bGUiOiJTaW5nbGUgQ2hvaWNlIFF1ZXN0aW9uIFNldCIsImFuY2hvciI6IiNzaW5nbGUtY2hvaWNlLXF1ZXN0aW9uLXNldCIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IlRleHQiLCJhbmNob3IiOiIjdGV4dCIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IlRydWUvRmFsc2UgUXVlc3Rpb24iLCJhbmNob3IiOiIjdHJ1ZWZhbHNlLXF1ZXN0aW9uIiwiY2hpbGRyZW4iOltdfSx7InRpdGxlIjoiU3VtbWFyeSBTdGF0ZW1lbnRzIiwiYW5jaG9yIjoiI3N1bW1hcnktc3RhdGVtZW50cyIsImNoaWxkcmVuIjpbXX0seyJ0aXRsZSI6IlZpZGVvIiwiYW5jaG9yIjoiI3ZpZGVvIiwiY2hpbGRyZW4iOltdfV19LHsidGl0bGUiOiIzLiBDaGFuZ2UgSG93IENvbnRlbnQgb24gU2xpZGUgTG9va3MiLCJhbmNob3IiOiIjaC0zLWNoYW5nZS1ob3ctY29udGVudC1vbi1zbGlkZS1sb29rcyIsImNoaWxkcmVuIjpbXX1d" :page-id="17" sidebar="W3siaSI6InNkaS0xIiwiayI6ImhlYWRlciIsImwiOiJHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBBTlZJTEwgJiBIZWxwIERlc2siLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktMiIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTMiLCJrIjoibGluayIsImwiOiJBTlZJTEw6IEFuIEludHJvZHVjdG9yeSBPdmVydmlldyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJwYWdlIiwidCI6Ii9lbi9ob21lIn0seyJpIjoic2RpLTQiLCJrIjoibGluayIsImwiOiJIb3cgdG8gVXNlIEFOVklMTCBIZWxwIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL2hvd3RvdXNlQU5WSUxMaGVscCJ9LHsiaSI6InNkaS01IiwiayI6ImxpbmsiLCJsIjoiRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnMgKEZBUXMpIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL0ZBUXMifSx7ImkiOiJzZGktNiIsImsiOiJoZWFkZXIiLCJsIjoiQU5WSUxMIEhlbHAgRGVzayAiLCJjIjpudWxsLCJ5IjpudWxsLCJ0IjpudWxsfSx7ImkiOiJzZGktNyIsImsiOiJkaXZpZGVyIiwibCI6bnVsbCwiYyI6bnVsbCwieSI6bnVsbCwidCI6bnVsbH0seyJpIjoic2RpLTgiLCJrIjoibGluayIsImwiOiJTdHVkZW50cyIsImMiOiJtZGktY2hldnJvbi1yaWdodCIsInkiOiJleHRlcm5hbCIsInQiOiIvc3R1ZGVudHMifSx7ImkiOiJzZGktOSIsImsiOiJsaW5rIiwibCI6IlRlYWNoZXJzIiwiYyI6Im1kaS1jaGV2cm9uLXJpZ2h0IiwieSI6InBhZ2UiLCJ0IjoiL2VuL3RlYWNoZXJzIn1d" nav-mode="MIXED" comments-enabled effective-permissions="eyJjb21tZW50cyI6eyJyZWFkIjp0cnVlLCJ3cml0ZSI6ZmFsc2UsIm1hbmFnZSI6ZmFsc2V9LCJoaXN0b3J5Ijp7InJlYWQiOmZhbHNlfSwic291cmNlIjp7InJlYWQiOmZhbHNlfSwicGFnZXMiOnsicmVhZCI6dHJ1ZSwid3JpdGUiOmZhbHNlLCJtYW5hZ2UiOmZhbHNlLCJkZWxldGUiOmZhbHNlLCJzY3JpcHQiOmZhbHNlLCJzdHlsZSI6ZmFsc2V9LCJzeXN0ZW0iOnsibWFuYWdlIjpmYWxzZX19" edit-shortcuts="eyJlZGl0RmFiIjp0cnVlLCJlZGl0TWVudUJhciI6ZmFsc2UsImVkaXRNZW51QnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsQnRuIjp0cnVlLCJlZGl0TWVudUV4dGVybmFsTmFtZSI6IkdpdEh1YiIsImVkaXRNZW51RXh0ZXJuYWxJY29uIjoibWRpLWdpdGh1YiIsImVkaXRNZW51RXh0ZXJuYWxVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vb3JnL3JlcG8vYmxvYi9tYWluL3tmaWxlbmFtZX0ifQ==" filename="en/coursepresentationinteractions.md"><template slot="contents"><div><p><big>NOTE:</big> <big><span style="color: yellow;">Information on this page applies to  the Desktop version ANVILL and the upcoming Mobile App. Relevant differences are noted when necessary.</span></big></p><big>
+<h1 id="add-interactions-to-course-presentation-overview" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#add-interactions-to-course-presentation-overview">¶</a> Add Interactions to Course Presentation: Overview</h1>
+<p>Add text, images, multimedia, tasks (summaries, various quiz questions), and more as complementary elements in a <a href="https://h5p.org/presentation" class="is-external-link">Course Presentation</a> designed to improve learner interactivty and strengthen content delivery.</p>
+<p>Course Presentations are easy to create, edit, and use. You have more than 15 interactions and content tools available for your Course Presenation.</p>
+<p>We explain all your options and how to add them below.</p>
+<h1 id="h-1-list-of-interactive-elements" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#h-1-list-of-interactive-elements">¶</a> 1. List of Interactive Elements</h1>
+<p>Below are descriptions about each interactive element you can add to your Course Presentation.</p>
+<ul>
+<li><strong>Audio</strong><br>
+Upload a sound file from a computer, tablet, or mobile device, or record one in ANVILL</li>
+<li><strong>Drag and Drop</strong><br>
+These activities promote learners appropriately associating content elements (images, words, or phrases). Students select and move content, trying to group together or correctly order one ore more elements</li>
+<li><strong>Fill-in-the-blank</strong><br>
+Write and add a set of statements that contain missing words or phrases. The audience or learner then must provide the missing information.</li>
+<li><strong>Go-to-Slide</strong><br>
+Instantly navigate from your current slide to any other slide in your course presentation</li>
+<li><strong>Images</strong><br>
+Add a compelling or relevant image to complement or illustrate your slide&apos;s information</li>
+<li><strong>Link</strong><br>
+Embed a clickable URL your learner can navigate directly to from your slide</li>
+<li><strong>Multiple Choice Question(s)</strong><br>
+Write a question with multiple answer choices that include more than one correct answer. If you want to write a Multiple Choice style question with <u>only one</u> correct answer, use the &quot;Single Choice Question&quot; tool</li>
+<li><strong>Shapes</strong><br>
+Add a circle, square, horizontal or vertical line to visually organize or emphasize information</li>
+<li><strong>Single Choice Question(s)</strong><br>
+Write a question with multiple answer choices, but only one that is correct. If you want to write a Multiple Choice question with <u>more</u> than one correct answer, use the &quot;Multiple Choice Question&quot; tool.</li>
+<li><strong>Summary Statements</strong><br>
+Write statement sets based on key presentation information. Designed to enable students to &quot;build&quot; a summary as they choose correct answers from your question sets.</li>
+<li><strong>Text</strong><br>
+Easily create and add written content to slides.</li>
+<li><strong>True/False</strong><br>
+Insert a True or False question</li>
+<li><strong>Video</strong><br>
+Uploaded video, embed a link, or recorded one ANVILL</li>
+</ul>
+<h2 id="h-2-instruction-for-specific-interactions" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#h-2-instruction-for-specific-interactions">¶</a> 2. Instruction for Specific Interactions</h2>
+<h2 id="audio-file" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#audio-file">¶</a> Audio File</h2>
+<p><img src="../audio_button.png" alt="audio_button.png"></p>
+<ol>
+<li>Select the &quot;Audio&quot; option from the gray interactions menu</li>
+<li>Add a title by typing over &quot;Untitled Audio&quot;</li>
+<li>Click on the gray box with the plus sign to add your audio content</li>
+<li>You have two options:
+<ul>
+<li>Record audio</li>
+<li>Upload an existing file</li>
+</ul>
+</li>
+<li>To record:
+<ul>
+<li>Select the &quot;Record&quot; camera icon</li>
+<li>In the recorder screen, select the camera icon in the bottom right of the window</li>
+<li>Record your message. You can pause if needed while recording</li>
+<li>Play your message back to yourself once recorded</li>
+<li>If you are satisfied with your message, select &quot;Looks Good!&quot; If you would like record your message again, select &quot;Try Again&quot;</li>
+</ul>
+</li>
+<li>To upload:
+<ul>
+<li>Click on the arrow above &quot;upload&quot;</li>
+<li>Drag and drop your file or search for and add your file</li>
+</ul>
+</li>
+<li>Note thta it may take a moment for your video to upload or recorded video to save.</li>
+<li>To save your work and exit, select the blue &quot;Done&quot; button</li>
+</ol>
+<h2 id="drag-drop-question" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#drag-drop-question">¶</a> Drag &amp; Drop Question</h2>
+<p><img src="../drag_and_drop_button.png" alt="drag_and_drop_button.png"></p>
+<ol>
+<li>Select the Drag &amp; Drop option from the interactions menu</li>
+<li>To add a title to your Drag &amp; Drop activity, type over &quot;Untitled Drag and Drop&quot;</li>
+<li>If you want to include an image in the background of your Drag &amp; Drop task, click on the gray box with the plus sign in the &quot;Step 1: Settings&quot; tab to upload</li>
+<li>Click on the &quot;Step 2: Task.&quot; To create your Drag &amp; Drop task you must:
+<ul>
+<li>Place your &quot;Drop Zones&quot;: To do this, click on the &quot;Add Drop Zone&quot; icon in the upper left then drag and drop it on your desired location</li>
+<li>Now, place your &quot;droppable elements.&quot; To do this, select the text or image icon then drag and drop it.</li>
+<li>After you place a droppable element, the &quot;Step 1: Settings&quot; Task tab opens. Here you need to &quot;Select drop zone.&quot; If the the element you dropped was &quot;text,&quot; write the corresponding text here too.</li>
+</ul>
+</li>
+<li>To save and exit your Drag &amp; Drop activity select the blue &apos;Done&apos; button in the top right</li>
+</ol>
+<h2 id="fill-in-the-blank-questions" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#fill-in-the-blank-questions">¶</a> Fill in the Blank Questions</h2>
+<p><img src="../fill_in_the_blanks_button.png" alt="fill_in_the_blanks_button.png"></p>
+<ol>
+<li>Select the &quot;Fill in the Blanks&quot; option from the gray interactions menu</li>
+<li>Add a title by typing over &quot;Untitled Fill in the Blanks&quot;</li>
+<li>Note that the default description in the &quot;Task Description&quot; field says: &quot;Fill in the missing words.&quot; You can keep, change, or add to this description.</li>
+<li>Write your Fill In The Blank question in the empty &quot;Line of Text&quot; field.</li>
+<li>Before you write your question, review the example and instructions:
+<ul>
+<li>Indicate &quot;blanks&quot; with an asterisk (*) in front and behind the correct word/phrase (answer)<br>
+<em>Example:</em> Oslo is the capital of * Norway *</li>
+<li>To include acceptable alternate answers, separate the words with forward slash (/)<br>
+<em>Example:</em> H5P content may be edited using a * browser/web-browser *</li>
+<li>To add a written tip, add a colon ( : ) in front of the tip:<br>
+<em>Example:</em> H5P content may be edited using a * browser/web-browser *:Something you use every day</li>
+</ul>
+</li>
+<li>To add more Fill In The Blank questions, click on &quot;Add text block&quot;</li>
+<li>If you want to add  media (image, video, or audio) to  your question:
+<ul>
+<li>Click on the gray media drop down menu.</li>
+<li>Select the media type then click on the gray box with the plus sign to upload your media.</li>
+<li>Go here for <a href="audiofiles" class="is-internal-link is-valid-page">special instructions on how to add audio</a>.</li>
+</ul>
+</li>
+<li>To save your work and exit, click on the blue &quot;Done&quot; button</li>
+</ol>
+<h2 id="go-to-slide" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#go-to-slide">¶</a> Go-to-Slide</h2>
+<p><img src="../go_to_slide_button.png" alt="go_to_slide_button.png"></p>
+<ol>
+<li>Select the &quot;Go-to-Slide&quot; option from the gray interactions menu</li>
+<li>Add a title by typing in the empty title field</li>
+<li>You have three options for your slide to &quot;go to&quot;:
+<ul>
+<li>A specific slide number</li>
+<li>The next slide</li>
+<li>The previous slide</li>
+</ul>
+</li>
+<li>If you choose &quot;Specific slide number,&quot; you must enter the slide number you want to jump to, in the box below the &quot;Go to&quot; menu.</li>
+<li>To save your work and exit, select the blue &apos;Done&apos; button</li>
+</ol>
+<h2 id="image" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#image">¶</a> Image</h2>
+<p><img src="../add_image_button.png" alt="add_image_button.png"></p>
+<ol>
+<li>Select the &quot;Image&quot; option from the gray interactions menu</li>
+<li>To add your image, cilck on the gray box with the plus sign inside</li>
+<li>Write a message in the &apos;Alternative Text&apos; field that will appear in the event your image does not upload</li>
+<li>If you want, you can also add a written message (d0 so in the&apos;Hover Text&apos; field) that will appear when a viewer hovers their mouse over an image.</li>
+</ol>
+<h2 id="link" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#link">¶</a> Link</h2>
+<p><img src="../hyperlink_button.png" alt="hyperlink_button.png"></p>
+<ol>
+<li>Select the &quot;Link&quot; option from the gray interactive content menu</li>
+<li>Add a title by typing over &quot;Untitled&quot;</li>
+<li>In the empty URL field, copy and paste or type your desired web page link</li>
+<li>To save your work and exit click on the blue &apos;Done&apos; button</li>
+</ol>
+<h2 id="multiple-choice-question" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#multiple-choice-question">¶</a> Multiple Choice Question</h2>
+<p>&quot;Multiple Choice&quot; question sets allows you to include more than one correct answer. &quot;Single Choice&quot; Question Set is a similar style of question but includes only one answer.</p>
+<p><img src="../multiple_choice_button.png" alt="multiple_choice_button.png"></p>
+<ol>
+<li>Select the &quot;Multiple Choice&quot; option from the gray interactions menu</li>
+<li>Add a title by typing over &quot;Untitled Multiple Choice&quot;</li>
+<li>Write your multiple choice question in the empty &quot;Question&quot; field</li>
+<li>Write the available answer options to the question from Step 3 in the empty &quot;Text&quot; fields</li>
+<li>If you need to add more answer options to your question, click on the  &quot;Add Option&quot; button</li>
+<li>To indicate which answer(s) are correct, select &quot;Correct&quot; below the specific answer(s)</li>
+<li>If you want to add  media (image, video, or audio) to  your question:
+<ul>
+<li>Click on the gray media drop down menu.</li>
+<li>Select the media type then click on the gray box with the plus sign to upload your media.</li>
+<li>Go here for <a href="../e/en/audiofiles" class="is-system-link">special instructions on how to add audio</a>.</li>
+</ul>
+</li>
+<li>To save your content and exit select the blue &quot;Done&quot; button</li>
+</ol>
+<h2 id="shape" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#shape">¶</a> Shape</h2>
+<p><img src="https://localhost/shapes.png" alt="shapes.png"></p>
+<ol>
+<li>Select the &quot;Shape&quot; icon:</li>
+<li>Select the desired shape from the menu (square, circle, horizontal &amp; vertical line)</li>
+<li>In the editor that pops open, customize the features of your selected shape (color, border, size, etc)</li>
+<li>To save your work and exit, select the blue &apos;Done&apos; button</li>
+</ol>
+<h2 id="single-choice-question-set" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#single-choice-question-set">¶</a> Single Choice Question Set</h2>
+<p>&quot;Single Choice&quot; question sets include only one correct answer. To create a similar question set but include more than one answer, use the &quot;Multiple Choice&quot; question set.</p>
+<p><img src="../single_choice_set.png" alt="single_choice_set.png"></p>
+<ol>
+<li>Select the &apos;Single Choice Set&apos; option from the gray interactions menu</li>
+<li>Add a title by typing over &apos;Untitled Single Choice Set&apos;</li>
+<li>Write your question(s) and corresponding alternatives (answer choices) below the question.
+<ul>
+<li><em>Important:</em> always list the &quot;correct answer&quot; to the question first</li>
+</ul>
+</li>
+<li>If you need to add more answer options, click on &quot;Add answer.&quot;</li>
+<li>If you need to add more &quot;Questions,&quot; click on &quot;Add Question&quot;</li>
+<li>If you want to add  media (image, video, or audio) to  your question:
+<ul>
+<li>Click on the gray media drop down menu.</li>
+<li>Select the media type then click on the gray box with the plus sign to upload your media.</li>
+<li>Go here for <a href="../e/en/audiofiles" class="is-system-link">special instructions on how to add audio</a>.</li>
+</ul>
+</li>
+<li>To save your content and exit, click on the blue &quot;Done&quot; button</li>
+</ol>
+<h2 id="text" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#text">¶</a> Text</h2>
+<p><img src="../add_text_button.png" alt="add_text_button.png"></p>
+<ol>
+<li>Select the &quot;Text&quot; option from the gray interactive menu</li>
+<li>Begin to type in the empty text field. You can also copy/paste text from an outside source.</li>
+<li>To save your work and exit, click on the blue &quot;Done&quot; button</li>
+</ol>
+<h2 id="truefalse-question" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#truefalse-question">¶</a> True/False Question</h2>
+<p><img src="../truefalse.png" alt="truefalse.png"></p>
+<ol>
+<li>Select the &quot;True/False&quot; icon from the interactions menu</li>
+<li>To add a title to your question, type over &quot;Untitled True/False Question&quot;</li>
+<li>Write your True/False question in the blank &quot;Question&quot; field</li>
+<li>Select either &quot;True&quot; or False&quot; below the &quot;Correct answer&quot; heading</li>
+<li>If you want to add any media (image, video, or audio) to your question:
+<ul>
+<li>Click on the gray media drop down menu.</li>
+<li>Select the media type then click on the gray box with the plus sign to upload your media.</li>
+<li>Go here for <a href="../e/en/audiofiles" class="is-system-link">special instructions on how to add audio</a>.</li>
+</ul>
+</li>
+<li>To save your work and exit, click on the blue &quot;Done&quot; button</li>
+</ol>
+<h2 id="summary-statements" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#summary-statements">¶</a> Summary Statements</h2>
+<p>The <a href="https://h5p.org/summary" class="is-external-link">H5P &quot;Summary&quot; option</a> allows you to author a set of questions at the end of your presentations, amongst which participants must choose one correct answer. The idea is that the questions asked somehow summarize the information viewers should have gained in the presentation.</p>
+<p><img src="../summary.png" alt="summary.png"></p>
+<ol>
+<li>Select the &apos;Summary&apos; option from the interactions menu</li>
+<li>Add a title to your summary activity by typing over &quot;Untitled Summary&quot;</li>
+<li>If you want to change or add to the Instructions or Directions already provided, delete and type over the &apos;Choose the correct statement&apos; text. However, please note this task is designed to include a range of &apos;statement options&apos; in which the particpant/reader can only choose one correct answer</li>
+<li>Enter your individual &apos;Summary Statements&apos; (answer options) one by one in the blank &apos;Statement&apos; fields</li>
+<li>If you want to add more &apos;Summary Statements&apos; (answer options) to your question than are available, select &apos;Add Options&apos;</li>
+<li>When finished, select the blue &apos;Done&apos; button</li>
+</ol>
+<h2 id="video" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#video">¶</a> Video</h2>
+<p><img src="https://localhost/video.png" alt="video.png"></p>
+<ol>
+<li>Select the &apos;Video&apos; icon</li>
+<li>Add a title by typing over &quot;Untitled Video&quot;</li>
+<li>Click on the gray box with the plus sign in the middle. An &quot;Add Media&quot; window will open</li>
+<li>In the &quot;Add Media&quot; window, you will be prompted to
+<ul>
+<li>Embed a video using a link from Vimeo or YouTube</li>
+<li>Record a video using the internal recorder</li>
+<li>&quot;Upload&quot; an existing video from your computer or phone</li>
+</ul>
+</li>
+<li>To save your work and exit, select the blue &apos;Done&apos; button</li>
+</ol>
+<h1 id="h-3-change-how-content-on-slide-looks" class="toc-header"><a class="toc-anchor" href="coursepresentationinteractions#h-3-change-how-content-on-slide-looks">¶</a> 3. Change How Content on Slide Looks</h1>
+<p>Once content is added to your slide, you can make some changes to how it appears on your slide. You can also reopen the content and make internal changes to content.</p>
+<p><strong>How to change interactive content you have already added it to your slide:</strong></p>
+<ol>
+<li>If you are not in the &quot;Edit Screen&quot; of your Course Presentation, you will need to open the edit screen.
+<ul>
+<li>(To open the edit screen: click on the green pencil icon above your Course Presentation.)</li>
+</ul>
+</li>
+<li>When the Course Presentation Edit Screen opens, navigate to the slide with the content you want to change</li>
+<li>When you see the content you want to change, click directly on it</li>
+<li>A blue rectangle will appear around your content. It has a menu bar on top.</li>
+<li>Select your desired action from the blue menu. Your options are:</li>
+</ol>
+</big><ul><big>
+<li><strong>Transform</strong><br>
+Change the position and size of the content</li>
+<li><strong>Edit</strong><br>
+Change basic information or fundamental features of the original content. For example, add more answers to a Fill in the Blanks question, or record an audio file again</li>
+<li><strong>Copy</strong><br>
+Copy the content and paste it again somewhere else in your presentation</li>
+<li><strong>Bring to front</strong><br>
+If you have content that overlaps on a slide, &quot;bring to front&quot; places the selected content on top</li>
+<li><strong>Send to back (on the slide visually)</strong><br>
+If you have content that overlaps on a slide, &quot;send to back&quot; places the selected content behind</li>
+</big><li><big><strong>Remove</strong><br>
+Delete the content from your slide</big></li>
+</ul><div>
+</div></div></template><template slot="comments"><div><comments></comments></div></template></page></div></body></html>
